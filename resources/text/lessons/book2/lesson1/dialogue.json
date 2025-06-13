@@ -1,0 +1,40 @@
+{
+  "sentences": [
+    {
+      "speaker": "히로미",
+      "korean": "앙리씨, 오랜만입니다. 그동안 어떻게 지내셨어요?",
+      "chinese": "宏美:亨利，好久不见。这段时间怎么过的？",
+      "audio": "resources/audio/lessons/book1/lesson1/dialogue/1.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "여기저기 구경하면서 여행을 했어요.",
+      "chinese": "亨利:到处旅游去了。",
+      "audio": "resources/audio/lessons/book1/lesson1/dialogue/2.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "자주 여행을 가세요?",
+      "chinese": "宏美:常去旅游吗？",
+      "audio": "resources/audio/lessons/book1/lesson1/dialogue/3.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "시간이 있으면 가끔 가요. 히로미 씨는 뮐 하면서지냈어요?",
+      "chinese": "亨利:偶尔去。宏美你最近都做什么了？",
+      "audio": "resources/audio/lessons/book1/lesson1/dialogue/4.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "아르바이트도 하고 한국어 능력 시험을 보려고 준비도했어요.",
+      "chinese": "宏美:打工，还准备了考韩国语能力考试。",
+      "audio": "resources/audio/lessons/book1/lesson1/dialogue/5.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "시험이 언제 있어요?",
+      "chinese": "亨利:什么时候考试？",
+      "audio": "resources/audio/lessons/book1/lesson1/dialogue/6.mp3"
+    }
+  ]
+} 

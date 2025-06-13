@@ -1,0 +1,11 @@
+{
+  "words": [
+    { "korean": "오랜만", "chinese": "好久不见", "etymology": "오래+만", "audio": "resources/audio/lessons/book1/lesson1/words/word1.mp3" },
+    { "korean": "그동안", "chinese": "这段时间", "etymology": "그+동안", "audio": "resources/audio/lessons/book1/lesson1/words/word2.mp3" },
+    { "korean": "구경하다", "chinese": "观光，参观", "etymology": "구경+하다", "audio": "resources/audio/lessons/book1/lesson1/words/word3.mp3" },
+    { "korean": "여행", "chinese": "旅行", "etymology": "旅行", "audio": "resources/audio/lessons/book1/lesson1/words/word4.mp3" },
+    { "korean": "자주", "chinese": "经常", "etymology": "自主", "audio": "resources/audio/lessons/book1/lesson1/words/word5.mp3" },
+    { "korean": "가끔", "chinese": "偶尔", "etymology": "가끔", "audio": "resources/audio/lessons/book1/lesson1/words/word6.mp3" },
+    { "korean": "아르바이트", "chinese": "打工", "etymology": "Arbeit(德)", "audio": "resources/audio/lessons/book1/lesson1/words/word7.mp3" }
+  ]
+}
