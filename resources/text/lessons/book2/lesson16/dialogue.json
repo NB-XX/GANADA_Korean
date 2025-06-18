@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "speaker": "앙리",
+      "korean": "히로미 씨는 언제부터 한국말을 배우셨어요?",
+      "chinese": "宏美,你是什么时候开始学韩语的?",
+      "audio": "resources/audio/lessons/book1/lesson16/dialogue/1.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "대학교 때 취미로 배우기 시작했어요.",
+      "chinese": "上大学的时候当作爱好学的。",
+      "audio": "resources/audio/lessons/book1/lesson16/dialogue/2.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "그때부터 계속 공부하신 거예요?",
+      "chinese": "从那时候开始就一直学吗?",
+      "audio": "resources/audio/lessons/book1/lesson16/dialogue/3.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "아니요,학교 졸업 후에는 하지 않았는데 올해 다시",
+      "chinese": "不,大学毕业以后就没再学。",
+      "audio": "resources/audio/lessons/book1/lesson16/dialogue/4.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "공부하기 시작했어요.앙리 씨는요?",
+      "chinese": "今年重新开始学的。你呢?",
+      "audio": "resources/audio/lessons/book1/lesson16/dialogue/5.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "저는 한국에 와서 배우기 시작했어요.",
+      "chinese": "我是来韩国以后开始学的。",
+      "audio": "resources/audio/lessons/book1/lesson16/dialogue/6.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "한국에서 사는 동안 필요해서요.",
+      "chinese": "在韩国生活期间,就有这个需要。",
+      "audio": "resources/audio/lessons/book1/lesson16/dialogue/7.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "앙리 씨는 한국 친구가 많죠?전 한국에 아는",
+      "chinese": "亨利,你有很多韩国朋友吧?我在韩国",
+      "audio": "resources/audio/lessons/book1/lesson16/dialogue/8.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "사람이 없으니까 말할 기회가 거의 없어요.",
+      "chinese": "没有认识的人,所以几乎没有说话的机会。",
+      "audio": "resources/audio/lessons/book1/lesson16/dialogue/9.mp3"
+    }
+  ]
+}

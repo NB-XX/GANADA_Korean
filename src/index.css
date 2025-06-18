@@ -1,3 +1,49 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* 护眼主题 */
+.theme-eye-care {
+  @apply bg-eye-care-bg text-eye-care-text;
+}
+
+.theme-eye-care .bg-white {
+  @apply bg-eye-care-bg;
+}
+
+.theme-eye-care .text-gray-800 {
+  @apply text-eye-care-text;
+}
+
+.theme-eye-care .text-gray-600 {
+  @apply text-eye-care-secondary;
+}
+
+/* 暗色主题 */
+.theme-dark {
+  @apply bg-dark-bg text-dark-text;
+}
+
+.theme-dark .bg-white {
+  @apply bg-dark-bg;
+}
+
+.theme-dark .text-gray-800 {
+  @apply text-dark-text;
+}
+
+.theme-dark .text-gray-600 {
+  @apply text-dark-secondary;
+}
+
+.theme-dark .bg-gray-50 {
+  @apply bg-dark-bg;
+}
+
+.theme-dark .border-gray-200 {
+  @apply border-gray-700;
+}
+
+.theme-dark .hover\:bg-gray-50:hover {
+  @apply hover:bg-gray-800;
+}

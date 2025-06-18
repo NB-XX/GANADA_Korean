@@ -1,0 +1,76 @@
+{
+  "sentences": [
+    {
+      "speaker": "제니",
+      "korean": "초대해 주셔서 감사합니다.",
+      "chinese": "谢谢你的招待。",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/1.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "이거 제가 만든 케이크예요.",
+      "chinese": "这是我自己做的蛋糕。",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/2.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "그냥 오셔도 되는데...",
+      "chinese": "空手来就好,还……",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/3.mp3"
+    },
+    {
+      "speaker": "(잠시후)",
+      "korean": "",
+      "chinese": "",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/4.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "음식을 많이 차리셨네요.",
+      "chinese": "菜准备得好丰盛啊。",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/5.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "준비하는 데 시간이 많이 걸렸겠어요.",
+      "chinese": "准备了很长时间吧。",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/6.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "제가 음식 만드는 걸 좋아해서 힘들지 않았어요.",
+      "chinese": "我喜欢做菜,所以不觉得累。",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/7.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "된장찌개가 참 맛있네요.",
+      "chinese": "大酱汤挺好喝的。",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/8.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "그런데 된장은 뭐로 만들어요?",
+      "chinese": "可大酱用什么做的呢?",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/9.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "콩으로 만들어요.",
+      "chinese": "用黄豆做。",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/10.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "옛날에는 집에서 담갔지만",
+      "chinese": "以前都是在自己家做,",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/11.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "요즘은 보통 사 먹어요.",
+      "chinese": "可是最近通常都买来吃。",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/12.mp3"
+    }
+  ]
+}

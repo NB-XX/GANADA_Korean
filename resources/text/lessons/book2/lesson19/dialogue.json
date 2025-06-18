@@ -1,0 +1,70 @@
+{
+  "sentences": [
+    {
+      "speaker": "히로미",
+      "korean": "이걸 일본에 부치려고 하는데,얼마나 걸려요?",
+      "chinese": "想把这个寄到日本,需要多长时间?",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/1.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "요즘 연말이라서 보통우편으로 하시면 2주일쯤 걸려요.",
+      "chinese": "最近是年末,普通邮件得两个星期左右。",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/2.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "2주일이나요?",
+      "chinese": "两个星期?",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/3.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "좀 더 빠른 건 없어요?",
+      "chinese": "有没有快一点的?",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/4.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "특급우편이 있는데,값이 2배 정도예요.",
+      "chinese": "有特快专递,价格是两倍。",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/5.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "내용이 뭐예요?",
+      "chinese": "要寄什么?",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/6.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "책이에요.",
+      "chinese": "书。",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/7.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "보통우편으로 보내 주세요.",
+      "chinese": "那普通邮件吧。",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/8.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "네,거기 올려놓으세요.",
+      "chinese": "好的,放那上面吧。",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/9.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "여기에 주소와 이름도 써 주시고요.",
+      "chinese": "这里写上地址和名字。",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/10.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "25,000원입니다.",
+      "chinese": "25,000元。",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/11.mp3"
+    }
+  ]
+}

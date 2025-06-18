@@ -1,0 +1,52 @@
+{
+  "sentences": [
+    {
+      "speaker": "앙리",
+      "korean": "다음 주에 귀국하시지요?",
+      "chinese": "下周回国吧?",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/1.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "네,비행기 표도 예약하고 짐도 벌써 부쳤어요.",
+      "chinese": "是,飞机票预订好了,行李也已经寄了。",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/2.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "헤어지기 섭섭하네요.",
+      "chinese": "真舍不得分开啊。",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/3.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "그동안 여러 가지로 고마웠는데...",
+      "chinese": "这段时间有很多事情要感谢你。",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/4.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "시간이 정말 빠른 것 같아요.",
+      "chinese": "时间过得真快。",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/5.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "제가 한국에 온 지 벌써 1년이 되었어요.",
+      "chinese": "我来韩国已经一年了。",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/6.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "일본에 가서도 한국말을 계속 공부하실 거죠?",
+      "chinese": "回日本以后也会继续学韩语吧?",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/7.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "네,그러려고요.그래서 한국어 책도 사 고요.",
+      "chinese": "是那样打算的。所以还买了韩语书。",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/8.mp3"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "sentences": [
+    {
+      "speaker": "야마다",
+      "korean": "어제 정말 눈이 많이 오지 않았어요?",
+      "chinese": "你不觉得昨天的雪下得真的很大吗?",
+      "audio": "resources/audio/lessons/book1/lesson15/dialogue/1.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "눈이 올 때 뭘 하셨어요?",
+      "chinese": "下雪的时候你做什么了?",
+      "audio": "resources/audio/lessons/book1/lesson15/dialogue/2.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "전 사무 실에서 일하고 있었어요.야마다 씨는요?",
+      "chinese": "我在办公室工作了。你呢?",
+      "audio": "resources/audio/lessons/book1/lesson15/dialogue/3.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "전 눈을 맞으면서 걸어 다녔어요.",
+      "chinese": "我迎着雪花散步了。",
+      "audio": "resources/audio/lessons/book1/lesson15/dialogue/4.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "이렇게 눈이 많이 오는 건 처음 봤어요.",
+      "chinese": "这么大的雪还是第一次见到。",
+      "audio": "resources/audio/lessons/book1/lesson15/dialogue/5.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "일본도 눈이 많이 오지 않아요?",
+      "chinese": "日本不下也下很多雪吗?",
+      "audio": "resources/audio/lessons/book1/lesson15/dialogue/6.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "북쪽은 많이 오는데",
+      "chinese": "北方下得多,",
+      "audio": "resources/audio/lessons/book1/lesson15/dialogue/7.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "제가 사는 곳은 남쪽이니까 눈이  거의 안 와요.",
+      "chinese": "可是我住的地方是南方,所以几乎不下雪。",
+      "audio": "resources/audio/lessons/book1/lesson15/dialogue/8.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "이런 날은 스키 타러 가면 재미있는데...",
+      "chinese": "这样的天气去滑雪,会很好玩……",
+      "audio": "resources/audio/lessons/book1/lesson15/dialogue/9.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "토요일에 친구들하고 스키 타러 갈 건데 같이 가지겠어요?",
+      "chinese": "星期六我跟朋友们去滑雪,一起去吗?",
+      "audio": "resources/audio/lessons/book1/lesson15/dialogue/10.mp3"
+    }
+  ]
+}

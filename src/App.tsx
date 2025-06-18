@@ -1,6 +1,19 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { ChevronLeft, Play, Pause, Volume2, Book as BookIcon, Settings, ChevronDown, ChevronUp, Eye, EyeOff } from 'lucide-react';
-import type { Book, Lesson } from './data/books';
+import type { Book } from './data/books';
+import SettingsModal from './components/SettingsModal';
+import SearchBar from './components/SearchBar';
+
+// 定义SearchResult类型
+interface SearchResult {
+  type: '课文' | '语法' | '单词' | '听力' | '阅读';
+  content: string;
+  preview: string;
+  bookId: number;
+  lessonId: number;
+  bookTitle: string;
+  lessonTitle: string;
+}
 
 // 1. 定义LessonContent类型
 interface LessonContent {
@@ -48,6 +61,48 @@ interface LessonContent {
   };
 }
 
+// 新增：课程标题接口
+interface LessonTitle {
+  ko: string;
+  zh: string;
+}
+
+interface LessonInfo {
+  id: number;
+  title: LessonTitle;
+  subtitle: LessonTitle;
+  resources?: {
+    课文: { dialogue: string };
+    语法: string;
+    单词: string;
+    听力: string;
+    阅读: string;
+  };
+}
+
+interface BookInfo {
+  title: string;
+  subtitle: string;
+  lessons: {
+    id: number;
+    title: string;
+    subtitle: string;
+    resources?: {
+      课文: { dialogue: string };
+      语法: string;
+      单词: string;
+      听力: string;
+      阅读: string;
+    };
+  }[];
+}
+
+interface LessonsData {
+  books: {
+    [key: string]: BookInfo;
+  };
+}
+
 // Toast组件
 const Toast: React.FC<{ message: string; show: boolean }> = ({ message, show }) => (
   <div
@@ -60,6 +115,20 @@ const Toast: React.FC<{ message: string; show: boolean }> = ({ message, show }) 
     {message}
   </div>
 );
+
+// 修改Lesson类型定义
+interface Lesson {
+  id: number;
+  title: string;
+  subtitle: string;
+  resources: {
+    课文: { dialogue: string };
+    语法: string;
+    单词: string;
+    听力: string;
+    阅读: string;
+  };
+}
 
 const App = () => {
   const [currentView, setCurrentView] = useState('home'); // 'home', 'bookList', 'lesson', 'content'
@@ -89,14 +158,22 @@ const App = () => {
   const [isPlayingAll, setIsPlayingAll] = useState(false);
   const [playingAllIdx, setPlayingAllIdx] = useState<number | null>(null);
   const isPlayingAllRef = useRef(false);
-  // 停止当前音频
-  const stopCurrentAudio = () => {
-    if (audioRef.current) {
-      audioRef.current.pause();
-      audioRef.current.currentTime = 0;
-      audioRef.current = null;
-    }
-  };
+  const [lessonsData, setLessonsData] = useState<LessonsData | null>(null);
+  const [lessonsLoading, setLessonsLoading] = useState(false);
+  const [lessonsError, setLessonsError] = useState<string | null>(null);
+  // 设置相关状态
+  const [isSettingsOpen, setIsSettingsOpen] = useState(false);
+  const [fontSize, setFontSize] = useState(() => {
+    const saved = localStorage.getItem('fontSize');
+    return saved || 'medium';
+  });
+  const [theme, setTheme] = useState(() => {
+    const saved = localStorage.getItem('theme');
+    return saved || 'default';
+  });
+
+  // 搜索相关状态
+  const [searchCache, setSearchCache] = useState<Record<string, any>>({});
 
   // 加载books.json
   useEffect(() => {
@@ -109,6 +186,17 @@ const App = () => {
       .finally(() => setBooksLoading(false));
   }, []);
 
+  // 加载lessons.json
+  useEffect(() => {
+    setLessonsLoading(true);
+    setLessonsError(null);
+    fetch('/resources/text/lessons.json')
+      .then(r => r.json())
+      .then(setLessonsData)
+      .catch(() => setLessonsError('课程标题数据加载失败'))
+      .finally(() => setLessonsLoading(false));
+  }, []);
+
   // 2. 监听selectedLesson变化，动态加载内容
   useEffect(() => {
     const loadContent = async () => {
@@ -118,26 +206,58 @@ const App = () => {
       }
       setLoading(true);
       setError(null);
+      
+      // 初始化默认内容结构
+      const defaultContent: LessonContent = {
+        课文: { sentences: [] },
+        语法: { points: [] },
+        单词: { words: [] },
+        听力: { exercises: [] },
+        阅读: { passages: [] }
+      };
+
       try {
         // 课文
-        const dialogueJson = await fetch(`/${selectedLesson.resources.课文.dialogue}`).then(r => r.json());
+        try {
+          const dialogueJson = await fetch(`/${selectedLesson.resources.课文.dialogue}`).then(r => r.json());
+          defaultContent.课文.sentences = dialogueJson.sentences;
+        } catch (e) {
+          console.warn('课文内容加载失败:', e);
+        }
+
         // 语法
-        const grammar = await fetch(`/${selectedLesson.resources.语法}`).then(r => r.json());
+        try {
+          const grammar = await fetch(`/${selectedLesson.resources.语法}`).then(r => r.json());
+          defaultContent.语法 = grammar;
+        } catch (e) {
+          console.warn('语法内容加载失败:', e);
+        }
+
         // 单词
-        const words = await fetch(`/${selectedLesson.resources.单词}`).then(r => r.json());
+        try {
+          const words = await fetch(`/${selectedLesson.resources.单词}`).then(r => r.json());
+          defaultContent.单词 = words;
+        } catch (e) {
+          console.warn('单词内容加载失败:', e);
+        }
+
         // 听力
-        const listening = await fetch(`/${selectedLesson.resources.听力}`).then(r => r.json());
+        try {
+          const listening = await fetch(`/${selectedLesson.resources.听力}`).then(r => r.json());
+          defaultContent.听力 = listening;
+        } catch (e) {
+          console.warn('听力内容加载失败:', e);
+        }
+
         // 阅读
-        const reading = await fetch(`/${selectedLesson.resources.阅读}`).then(r => r.json());
-        setContent({
-          课文: {
-            sentences: dialogueJson.sentences,
-          },
-          语法: grammar,
-          单词: words,
-          听力: listening,
-          阅读: reading,
-        });
+        try {
+          const reading = await fetch(`/${selectedLesson.resources.阅读}`).then(r => r.json());
+          defaultContent.阅读 = reading;
+        } catch (e) {
+          console.warn('阅读内容加载失败:', e);
+        }
+
+        setContent(defaultContent);
       } catch (e) {
         setError('内容加载失败');
         setContent(null);
@@ -258,16 +378,208 @@ const App = () => {
     }));
   };
 
+  // 停止当前音频
+  const stopCurrentAudio = () => {
+    if (audioRef.current) {
+      audioRef.current.pause();
+      audioRef.current.currentTime = 0;
+      audioRef.current = null;
+    }
+  };
+
+  // 应用字体大小
+  useEffect(() => {
+    const root = document.documentElement;
+    switch (fontSize) {
+      case 'small':
+        root.style.fontSize = '14px';
+        break;
+      case 'medium':
+        root.style.fontSize = '16px';
+        break;
+      case 'large':
+        root.style.fontSize = '18px';
+        break;
+    }
+    localStorage.setItem('fontSize', fontSize);
+  }, [fontSize]);
+
+  // 应用主题
+  useEffect(() => {
+    const root = document.documentElement;
+    switch (theme) {
+      case 'default':
+        root.classList.remove('theme-eye-care', 'theme-dark');
+        break;
+      case 'eye-care':
+        root.classList.remove('theme-dark');
+        root.classList.add('theme-eye-care');
+        break;
+      case 'dark':
+        root.classList.remove('theme-eye-care');
+        root.classList.add('theme-dark');
+        break;
+    }
+    localStorage.setItem('theme', theme);
+  }, [theme]);
+
+  // 搜索函数
+  const handleSearch = async (query: string): Promise<SearchResult[]> => {
+    if (!query.trim()) return [];
+
+    // 检查缓存
+    if (searchCache[query]) {
+      return searchCache[query];
+    }
+
+    const results: SearchResult[] = [];
+
+    // 遍历所有书籍和课程
+    for (const book of books) {
+      for (const lesson of book.lessons) {
+        try {
+          // 搜索课文
+          if (lesson.resources.课文) {
+            const dialogue = await fetch(`/${lesson.resources.课文.dialogue}`).then(r => r.json());
+            dialogue.sentences.forEach((sentence: any) => {
+              if (sentence.korean.includes(query) || sentence.chinese.includes(query)) {
+                results.push({
+                  type: '课文',
+                  content: sentence.korean,
+                  preview: sentence.chinese,
+                  bookId: book.id,
+                  lessonId: lesson.id,
+                  bookTitle: `${book.level}${book.id}`,
+                  lessonTitle: `第${lesson.id}课`
+                });
+              }
+            });
+          }
+
+          // 搜索语法
+          if (lesson.resources.语法) {
+            const grammar = await fetch(`/${lesson.resources.语法}`).then(r => r.json());
+            grammar.points.forEach((point: any) => {
+              if (point.title.includes(query) || point.explanation.includes(query)) {
+                results.push({
+                  type: '语法',
+                  content: point.title,
+                  preview: point.explanation,
+                  bookId: book.id,
+                  lessonId: lesson.id,
+                  bookTitle: `${book.level}${book.id}`,
+                  lessonTitle: `第${lesson.id}课`
+                });
+              }
+            });
+          }
+
+          // 搜索单词
+          if (lesson.resources.单词) {
+            const words = await fetch(`/${lesson.resources.单词}`).then(r => r.json());
+            words.words.forEach((word: any) => {
+              if (word.korean.includes(query) || word.chinese.includes(query)) {
+                results.push({
+                  type: '单词',
+                  content: word.korean,
+                  preview: word.chinese,
+                  bookId: book.id,
+                  lessonId: lesson.id,
+                  bookTitle: `${book.level}${book.id}`,
+                  lessonTitle: `第${lesson.id}课`
+                });
+              }
+            });
+          }
+
+          // 搜索听力
+          if (lesson.resources.听力) {
+            const listening = await fetch(`/${lesson.resources.听力}`).then(r => r.json());
+            listening.exercises.forEach((exercise: any) => {
+              if (exercise.title.includes(query) || exercise.script.includes(query)) {
+                results.push({
+                  type: '听力',
+                  content: exercise.title,
+                  preview: exercise.script,
+                  bookId: book.id,
+                  lessonId: lesson.id,
+                  bookTitle: `${book.level}${book.id}`,
+                  lessonTitle: `第${lesson.id}课`
+                });
+              }
+            });
+          }
+
+          // 搜索阅读
+          if (lesson.resources.阅读) {
+            const reading = await fetch(`/${lesson.resources.阅读}`).then(r => r.json());
+            reading.passages.forEach((passage: any) => {
+              if (passage.title.includes(query) || passage.content.includes(query)) {
+                results.push({
+                  type: '阅读',
+                  content: passage.title,
+                  preview: passage.content,
+                  bookId: book.id,
+                  lessonId: lesson.id,
+                  bookTitle: `${book.level}${book.id}`,
+                  lessonTitle: `第${lesson.id}课`
+                });
+              }
+            });
+          }
+        } catch (error) {
+          console.error(`Error searching in book ${book.id} lesson ${lesson.id}:`, error);
+        }
+      }
+    }
+
+    // 更新缓存
+    setSearchCache(prev => ({
+      ...prev,
+      [query]: results
+    }));
+
+    return results;
+  };
+
+  // 处理搜索结果点击
+  const handleSearchResultClick = (result: SearchResult) => {
+    const book = books.find(b => b.id === result.bookId);
+    if (!book) return;
+
+    const lesson = book.lessons.find(l => l.id === result.lessonId);
+    if (!lesson) return;
+
+    setSelectedBook(book);
+    setSelectedLesson({
+      ...lesson,
+      resources: lesson.resources
+    });
+    setCurrentView('lesson');
+    setActiveTab(result.type);
+  };
+
   // 首页
   const HomePage = () => (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
       {/* 头部 */}
-      <div className="bg-white shadow-sm px-4 py-4 flex items-center justify-between">
-        <div className="flex items-center gap-3">
-          <BookIcon className="h-6 w-6 text-blue-600" />
-          <h1 className="text-xl font-bold text-gray-800">韩语学习</h1>
+      <div className="bg-white shadow-sm px-4 py-4">
+        <div className="flex items-center justify-between mb-4">
+          <div className="flex items-center gap-3">
+            <BookIcon className="h-6 w-6 text-blue-600" />
+            <h1 className="text-xl font-bold text-gray-800">韩语学习</h1>
+          </div>
+          <Settings 
+            className="h-5 w-5 text-gray-600 cursor-pointer hover:text-gray-800" 
+            onClick={() => setIsSettingsOpen(true)}
+          />
         </div>
-        <Settings className="h-5 w-5 text-gray-600" />
+        <div className="max-w-2xl mx-auto">
+          <SearchBar
+            onSearch={handleSearch}
+            onResultClick={handleSearchResultClick}
+          />
+        </div>
       </div>
 
       {/* 我的图书 */}
@@ -290,12 +602,24 @@ const App = () => {
                      setSelectedBook(book);
                      setCurrentView('bookList');
                    }}>
-                <div className={`w-20 h-28 ${book.color} rounded-lg flex items-center justify-center text-white font-bold text-sm mb-2 mx-auto`}>
-                  {book.id === 1 ? '초급1' : '초급2'}
+                <div className="w-full aspect-[3/4] rounded-lg overflow-hidden mb-3">
+                  {book.id <= 4 ? (
+                    <img 
+                      src={`/resources/img/cover/book${book.id}.jpg`}
+                      alt={`${book.title}封面`}
+                      className="w-full h-full object-cover"
+                    />
+                  ) : (
+                    <div className={`w-full h-full ${book.color} flex items-center justify-center text-white font-bold text-lg`}>
+                      {book.id === 5 ? '고급1' : '고급2'}
+                    </div>
+                  )}
                 </div>
                 <div className="text-center">
-                  <div className="text-sm font-medium text-gray-800">{book.title}</div>
-                  <div className="text-xs text-gray-600">{book.subtitle}</div>
+                  <div className="text-base font-medium text-gray-800">
+                    {book.level}{book.id % 2 === 1 ? '1' : '2'}
+                  </div>
+                  <div className="text-sm text-gray-600 mt-1">{book.subtitle}</div>
                 </div>
               </div>
             ))}
@@ -313,12 +637,24 @@ const App = () => {
                      setSelectedBook(book);
                      setCurrentView('bookList');
                    }}>
-                <div className={`w-20 h-28 ${book.color} rounded-lg flex items-center justify-center text-white font-bold text-sm mb-2 mx-auto`}>
-                  {book.id === 3 ? '중급1' : '중급2'}
+                <div className="w-full aspect-[3/4] rounded-lg overflow-hidden mb-3">
+                  {book.id <= 4 ? (
+                    <img 
+                      src={`/resources/img/cover/book${book.id}.jpg`}
+                      alt={`${book.title}封面`}
+                      className="w-full h-full object-cover"
+                    />
+                  ) : (
+                    <div className={`w-full h-full ${book.color} flex items-center justify-center text-white font-bold text-lg`}>
+                      {book.id === 5 ? '고급1' : '고급2'}
+                    </div>
+                  )}
                 </div>
                 <div className="text-center">
-                  <div className="text-sm font-medium text-gray-800">{book.title}</div>
-                  <div className="text-xs text-gray-600">{book.subtitle}</div>
+                  <div className="text-base font-medium text-gray-800">
+                    {book.level}{book.id % 2 === 1 ? '1' : '2'}
+                  </div>
+                  <div className="text-sm text-gray-600 mt-1">{book.subtitle}</div>
                 </div>
               </div>
             ))}
@@ -336,12 +672,24 @@ const App = () => {
                      setSelectedBook(book);
                      setCurrentView('bookList');
                    }}>
-                <div className={`w-20 h-28 ${book.color} rounded-lg flex items-center justify-center text-white font-bold text-sm mb-2 mx-auto`}>
-                  {book.id === 5 ? '고급1' : '고급2'}
+                <div className="w-full aspect-[3/4] rounded-lg overflow-hidden mb-3">
+                  {book.id <= 4 ? (
+                    <img 
+                      src={`/resources/img/cover/book${book.id}.jpg`}
+                      alt={`${book.title}封面`}
+                      className="w-full h-full object-cover"
+                    />
+                  ) : (
+                    <div className={`w-full h-full ${book.color} flex items-center justify-center text-white font-bold text-lg`}>
+                      {book.id === 5 ? '고급1' : '고급2'}
+                    </div>
+                  )}
                 </div>
                 <div className="text-center">
-                  <div className="text-sm font-medium text-gray-800">{book.title}</div>
-                  <div className="text-xs text-gray-600">{book.subtitle}</div>
+                  <div className="text-base font-medium text-gray-800">
+                    {book.level}{book.id % 2 === 1 ? '1' : '2'}
+                  </div>
+                  <div className="text-sm text-gray-600 mt-1">{book.subtitle}</div>
                 </div>
               </div>
             ))}
@@ -355,7 +703,9 @@ const App = () => {
 
   // 课程列表
   const BookList = () => {
-    if (!selectedBook) return null;
+    if (!selectedBook || !lessonsData) return null;
+
+    const bookInfo = lessonsData.books[selectedBook.id.toString()];
 
     return (
       <div className="min-h-screen bg-gray-50">
@@ -368,18 +718,30 @@ const App = () => {
               setCurrentView('home');
             }}
           />
-          <h1 className="text-lg font-semibold text-gray-800">{selectedBook.title} {selectedBook.subtitle}</h1>
+          <div>
+            <h1 className="text-lg font-semibold text-gray-800">{bookInfo.title}</h1>
+            <div className="text-sm text-gray-600">{bookInfo.subtitle}</div>
+          </div>
         </div>
 
         {/* 课程列表 */}
         <div className="p-4">
           <div className="grid gap-4">
-            {selectedBook.lessons.map(lesson => (
+            {bookInfo.lessons.map(lesson => (
               <div 
                 key={lesson.id}
                 className="bg-white rounded-lg p-4 shadow-sm cursor-pointer hover:shadow-md transition-all"
                 onClick={() => {
-                  setSelectedLesson(lesson);
+                  const lessonResources = selectedBook.lessons.find(l => l.id === lesson.id)?.resources;
+                  if (!lessonResources) {
+                    showToast('课程资源加载失败');
+                    return;
+                  }
+                  const lessonWithResources: Lesson = {
+                    ...lesson,
+                    resources: lessonResources
+                  };
+                  setSelectedLesson(lessonWithResources);
                   setCurrentView('lesson');
                 }}
               >
@@ -400,10 +762,13 @@ const App = () => {
 
   // 课程内容
   const LessonView = () => {
-    if (!selectedLesson) return null;
+    if (!selectedLesson || !lessonsData) return null;
     if (loading) return <div className="p-8 text-center text-gray-500">内容加载中...</div>;
     if (error) return <div className="p-8 text-center text-red-500">{error}</div>;
     if (!content) return null;
+
+    const bookInfo = lessonsData.books[selectedBook?.id.toString() || ''];
+    const lessonInfo = bookInfo?.lessons.find(l => l.id === selectedLesson.id);
 
     // 3. 渲染逻辑改为使用content状态
     const renderContent = () => {
@@ -612,8 +977,8 @@ const App = () => {
             }}
           />
           <div>
-            <h1 className="text-lg font-semibold text-gray-800">{selectedLesson.title}</h1>
-            <div className="text-sm text-gray-600">{selectedLesson.subtitle}</div>
+            <h1 className="text-lg font-semibold text-gray-800">{lessonInfo?.title}</h1>
+            <div className="text-sm text-gray-600">{lessonInfo?.subtitle}</div>
           </div>
         </div>
         {/* 选项卡 */}
@@ -654,7 +1019,19 @@ const App = () => {
     }
   };
 
-  return renderView();
+  return (
+    <>
+      {renderView()}
+      <SettingsModal
+        isOpen={isSettingsOpen}
+        onClose={() => setIsSettingsOpen(false)}
+        fontSize={fontSize}
+        onFontSizeChange={setFontSize}
+        theme={theme}
+        onThemeChange={setTheme}
+      />
+    </>
+  );
 };
 
 export default App;
