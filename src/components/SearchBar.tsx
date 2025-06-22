@@ -16,6 +16,7 @@ interface SearchBarProps {
   onResultClick: (result: SearchResult) => void;
   loading?: boolean;
   error?: string | null;
+  onFocus?: () => void;
 }
 
 const tagColors: Record<string, string> = {
@@ -26,13 +27,15 @@ const tagColors: Record<string, string> = {
   '阅读': 'bg-pink-100 text-pink-700',
 };
 
-const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick, loading = false, error = null }) => {
+const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick, loading = false, error = null, onFocus }) => {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<SearchResult[]>([]);
   const [isLoading, setIsLoading] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
+  const [isComposing, setIsComposing] = useState(false);
   const searchTimeout = useRef<NodeJS.Timeout>();
   const searchRef = useRef<HTMLDivElement>(null);
+  const inputRef = useRef<HTMLInputElement>(null);
 
   // 点击外部关闭搜索结果
   useEffect(() => {
@@ -72,6 +75,13 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick, loading 
         setIsLoading(false);
       }
     }, 300);
+  };
+
+  // 提交搜索
+  const handleSearchSubmit = async () => {
+    if (!query.trim()) return;
+    const res = await onSearch(query);
+    setResults(res);
   };
 
   // 渲染搜索结果
@@ -121,12 +131,20 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick, loading 
     <div className="relative" ref={searchRef}>
       <div className="relative">
         <input
-          type="text"
+          ref={inputRef}
           value={query}
-          onChange={(e) => handleSearch(e.target.value)}
+          onChange={e => setQuery(e.target.value)}
+          onCompositionStart={() => setIsComposing(true)}
+          onCompositionEnd={() => setIsComposing(false)}
+          onKeyDown={e => {
+            if (e.key === 'Enter' && !isComposing) {
+              handleSearchSubmit();
+            }
+          }}
           placeholder={loading ? '索引加载中...' : error ? '索引加载失败，请刷新' : '输入关键词搜索'}
           className="w-full pl-10 pr-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
           disabled={loading || !!error}
+          onFocus={onFocus}
         />
         <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-gray-400" />
         {query && (

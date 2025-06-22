@@ -73,3 +73,25 @@
 .table-content {
   @apply min-w-full p-2;
 }
+
+/* Markdown code style */
+code {
+  background-color: #f3f4f6; /* gray-100 */
+  padding: 0.125rem 0.25rem;
+  border-radius: 0.25rem;
+  font-family: monospace;
+  font-size: 0.9em;
+  color: #d63384; /* A pinkish color for contrast */
+}
+
+/* Dark theme adjustments for code */
+.theme-dark code {
+  background-color: #374151; /* gray-700 */
+  color: #a5b4fc; /* indigo-300 */
+}
+
+/* Eye-care theme adjustments for code */
+.theme-eye-care code {
+  background-color: #e0e0d8;
+  color: #8c7b75; 
+}

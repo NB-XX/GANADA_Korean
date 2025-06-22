@@ -115,6 +115,15 @@ interface Lesson {
   };
 }
 
+const SEARCH_TYPES = [
+  { label: '全部', value: '全部' },
+  { label: '课文', value: '课文' },
+  { label: '语法', value: '语法' },
+  { label: '单词', value: '单词' },
+  { label: '听力', value: '听力' },
+  { label: '阅读', value: '阅读' },
+];
+
 const App = () => {
   const [currentView, setCurrentView] = useState('home'); // 'home', 'bookList', 'lesson', 'content'
   const [selectedBook, setSelectedBook] = useState<Book | null>(null);
@@ -158,6 +167,12 @@ const App = () => {
   const [searchIndex, setSearchIndex] = useState<any[] | null>(null);
   const [searchIndexLoading, setSearchIndexLoading] = useState(true);
   const [searchIndexError, setSearchIndexError] = useState<string | null>(null);
+
+  const [isSearchPage, setIsSearchPage] = useState(false);
+  const [searchInput, setSearchInput] = useState('');
+  const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
+  const [searchType, setSearchType] = useState('全部');
+  const searchInputRef = useRef<HTMLInputElement>(null);
 
   // 加载books.json
   useEffect(() => {
@@ -452,146 +467,180 @@ const App = () => {
     setActiveTab(result.type);
   };
 
-  // 首页
-  const HomePage = () => (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100">
-      {/* 头部 */}
-      <div className="bg-white shadow-sm px-4 py-4">
-        <div className="flex items-center justify-between mb-4">
-          <div className="flex items-center gap-3">
-            <BookIcon className="h-6 w-6 text-blue-600" />
-            <h1 className="text-xl font-bold text-gray-800">韩语学习</h1>
+  // 搜索页组件
+  const SearchPage = () => {
+    // 过滤结果
+    const filteredResults = searchType === '全部'
+      ? searchResults
+      : searchResults.filter(r => r.type === searchType);
+
+    const [isComposing, setIsComposing] = useState(false);
+    const [inputValue, setInputValue] = useState(searchInput);
+
+    useEffect(() => {
+      // 自动聚焦
+      searchInputRef.current?.focus();
+    }, []);
+
+    // 提交搜索
+    const handleSearchSubmit = async () => {
+      setSearchInput(inputValue);
+      const results = await handleSearch(inputValue);
+      setSearchResults(results);
+      setSearchType('全部');
+    };
+
+    return (
+      <div className="fixed inset-0 z-50 bg-white/90 backdrop-blur-sm flex flex-col transition-all duration-300 animate-fade-in">
+        {/* 顶部搜索栏 */}
+        <div className="w-full max-w-3xl mx-auto px-4 pt-8 pb-2 flex flex-col items-center">
+          <div className="w-full flex items-center gap-2">
+            <button
+              className="mr-2 text-gray-400 hover:text-gray-600 focus:outline-none"
+              onClick={() => setIsSearchPage(false)}
+              aria-label="返回"
+            >
+              <ChevronLeft className="h-6 w-6" />
+            </button>
+            {/* 标签+输入框一行 */}
+            <div className="flex flex-1 items-center bg-white border border-gray-300 rounded-lg overflow-hidden">
+              {/* 标签 */}
+              <button
+                className={`h-full px-3 py-1 text-sm font-semibold rounded-none focus:outline-none transition-all whitespace-nowrap
+                  ${searchType === '全部' ? 'bg-gray-100 text-gray-500' :
+                    searchType === '课文' ? 'bg-blue-100 text-blue-600' :
+                    searchType === '语法' ? 'bg-green-100 text-green-600' :
+                    searchType === '单词' ? 'bg-yellow-100 text-yellow-700' :
+                    searchType === '听力' ? 'bg-purple-100 text-purple-600' :
+                    searchType === '阅读' ? 'bg-pink-100 text-pink-600' :
+                    'bg-gray-100 text-gray-500'}
+                `}
+                style={{ borderRight: '1px solid #e5e7eb', height: '40px' }}
+                onClick={e => {
+                  // 弹出下拉菜单或循环切换
+                  const idx = SEARCH_TYPES.findIndex(t => t.value === searchType);
+                  const next = SEARCH_TYPES[(idx + 1) % SEARCH_TYPES.length];
+                  setSearchType(next.value);
+                }}
+                tabIndex={0}
+              >
+                {SEARCH_TYPES.find(t => t.value === searchType)?.label || '全部'}
+              </button>
+              {/* 输入框 */}
+              <input
+                ref={searchInputRef}
+                className="flex-1 px-4 py-2 text-lg bg-white border-0 outline-none focus:ring-0"
+                placeholder="搜索课文、语法、单词、听力、阅读..."
+                value={inputValue}
+                onChange={e => setInputValue(e.target.value)}
+                onCompositionStart={() => setIsComposing(true)}
+                onCompositionEnd={() => setIsComposing(false)}
+                onKeyDown={e => {
+                  if (e.key === 'Enter' && !isComposing) {
+                    handleSearchSubmit();
+                  }
+                  if (e.key === 'Escape') setIsSearchPage(false);
+                }}
+                style={{ minWidth: 0 }}
+              />
+              {/* 搜索按钮 */}
+              <button
+                className="px-3 text-blue-500 hover:text-blue-700 focus:outline-none"
+                onClick={handleSearchSubmit}
+                tabIndex={-1}
+                type="button"
+              >
+                <svg className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-4.35-4.35m0 0A7.5 7.5 0 104.5 4.5a7.5 7.5 0 0012.15 12.15z" /></svg>
+              </button>
+            </div>
           </div>
-          <Settings 
-            className="h-5 w-5 text-gray-600 cursor-pointer hover:text-gray-800" 
-            onClick={() => setIsSettingsOpen(true)}
-          />
         </div>
-        <div className="max-w-2xl mx-auto">
-          <SearchBar
-            onSearch={handleSearch}
-            onResultClick={handleSearchResultClick}
-            loading={searchIndexLoading}
-            error={searchIndexError}
-          />
+        {/* 结果区 */}
+        <div className="flex-1 w-full max-w-3xl mx-auto px-4 pb-8 overflow-y-auto mt-2">
+          {inputValue.trim() === '' ? (
+            <div className="text-gray-400 text-center mt-16">请输入关键词进行搜索</div>
+          ) : filteredResults.length === 0 ? (
+            <div className="text-gray-400 text-center mt-16">未找到相关内容</div>
+          ) : (
+            <div className="space-y-4 mt-4">
+              {filteredResults.map((result, idx) => (
+                <div
+                  key={idx}
+                  className="bg-white rounded-lg shadow-sm p-4 cursor-pointer hover:shadow-md transition-all border border-gray-100"
+                  onClick={() => {
+                    setIsSearchPage(false);
+                    handleSearchResultClick(result);
+                  }}
+                >
+                  <div className="flex items-center gap-2 mb-1">
+                    <span className={`px-2 py-0.5 rounded-full text-xs font-semibold ${
+                      result.type === '课文' ? 'bg-blue-100 text-blue-600' :
+                      result.type === '语法' ? 'bg-green-100 text-green-600' :
+                      result.type === '单词' ? 'bg-yellow-100 text-yellow-700' :
+                      result.type === '听力' ? 'bg-purple-100 text-purple-600' :
+                      result.type === '阅读' ? 'bg-pink-100 text-pink-600' :
+                      'bg-gray-100 text-gray-500'
+                    }`}>{result.type}</span>
+                    <span className="text-gray-700 font-medium truncate">{result.bookTitle} {result.lessonTitle}</span>
+                  </div>
+                  <div className="text-gray-900 font-semibold truncate">{result.preview}</div>
+                  <div className="text-gray-500 text-sm truncate">{result.content}</div>
+                </div>
+              ))}
+            </div>
+          )}
         </div>
       </div>
+    );
+  };
 
-      {/* 我的图书 */}
-      <div className="p-4">
-        <div className="flex items-center justify-between mb-4">
-          <h2 className="text-lg font-semibold text-gray-800">我的图书</h2>
+  // 首页
+  const HomePage = () => (
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex flex-col items-center justify-center">
+      {/* 顶部标题 */}
+      <div className="bg-white shadow-sm px-4 py-6 flex flex-col items-center w-full">
+        <div className="flex items-center gap-3 mb-4">
+          <BookIcon className="h-7 w-7 text-blue-600" />
+          <h1 className="text-2xl font-bold text-gray-800 tracking-tight">新轻松学韩语 电子课本</h1>
         </div>
-        {booksLoading && <div className="text-gray-500 p-4">课程加载中...</div>}
-        {booksError && <div className="text-red-500 p-4">{booksError}</div>}
-        {!booksLoading && !booksError && (
-        <>
-        {/* 初级 */}
-        <div className="mb-6">
-          <h3 className="text-md font-medium text-gray-700 mb-3">初级</h3>
-          <div className="grid grid-cols-2 gap-4">
-            {books.filter(book => book.level === '初级').map(book => (
-              <div key={book.id} 
-                   className="bg-white rounded-lg shadow-sm p-4 cursor-pointer hover:shadow-md transition-all"
-                   onClick={() => {
-                     setSelectedBook(book);
-                     setCurrentView('bookList');
-                   }}>
-                <div className="w-full aspect-[3/4] rounded-lg overflow-hidden mb-3">
-                  {book.id <= 4 ? (
-                    <img 
-                      src={`/resources/img/cover/book${book.id}.jpg`}
-                      alt={`${book.title}封面`}
-                      className="w-full h-full object-cover"
-                    />
-                  ) : (
-                    <div className={`w-full h-full ${book.color} flex items-center justify-center text-white font-bold text-lg`}>
-                      {book.id === 5 ? '고급1' : '고급2'}
-                    </div>
-                  )}
-                </div>
-                <div className="text-center">
-                  <div className="text-base font-medium text-gray-800">
-                    {book.level}{book.id % 2 === 1 ? '1' : '2'}
-                  </div>
-                  <div className="text-sm text-gray-600 mt-1">{book.subtitle}</div>
-                </div>
-              </div>
-            ))}
+        <div className="w-full flex justify-center">
+          <div className="w-full max-w-3xl">
+            <SearchBar
+              onSearch={handleSearch}
+              onResultClick={handleSearchResultClick}
+              loading={searchIndexLoading}
+              error={searchIndexError}
+              onFocus={() => setIsSearchPage(true)}
+            />
           </div>
         </div>
-
-        {/* 中级 */}
-        <div className="mb-6">
-          <h3 className="text-md font-medium text-gray-700 mb-3">中级</h3>
-          <div className="grid grid-cols-2 gap-4">
-            {books.filter(book => book.level === '中级').map(book => (
-              <div key={book.id} 
-                   className="bg-white rounded-lg shadow-sm p-4 cursor-pointer hover:shadow-md transition-all"
-                   onClick={() => {
-                     setSelectedBook(book);
-                     setCurrentView('bookList');
-                   }}>
-                <div className="w-full aspect-[3/4] rounded-lg overflow-hidden mb-3">
-                  {book.id <= 4 ? (
-                    <img 
-                      src={`/resources/img/cover/book${book.id}.jpg`}
-                      alt={`${book.title}封面`}
-                      className="w-full h-full object-cover"
-                    />
-                  ) : (
-                    <div className={`w-full h-full ${book.color} flex items-center justify-center text-white font-bold text-lg`}>
-                      {book.id === 5 ? '고급1' : '고급2'}
-                    </div>
-                  )}
-                </div>
-                <div className="text-center">
-                  <div className="text-base font-medium text-gray-800">
-                    {book.level}{book.id % 2 === 1 ? '1' : '2'}
-                  </div>
-                  <div className="text-sm text-gray-600 mt-1">{book.subtitle}</div>
-                </div>
+      </div>
+      {/* 自适应网格书架 */}
+      <div className="flex-1 w-full flex flex-col items-center justify-center py-10 px-4">
+        <div className="w-full max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8">
+          {books.filter(book => book.id >= 1 && book.id <= 4).map(book => (
+            <div
+              key={book.id}
+              className="bg-white rounded-xl shadow-sm hover:shadow-lg transition-transform duration-200 hover:scale-105 p-4 flex flex-col items-center cursor-pointer"
+              onClick={() => {
+                setSelectedBook(book);
+                setCurrentView('bookList');
+              }}
+            >
+              <div className="w-full aspect-[3/4] rounded-lg overflow-hidden mb-3">
+                <img
+                  src={`/resources/img/cover/book${book.id}.jpg`}
+                  alt={`${book.title}封面`}
+                  className="w-full h-full object-cover"
+                />
               </div>
-            ))}
-          </div>
-        </div>
-
-        {/* 高级 */}
-        <div className="mb-6">
-          <h3 className="text-md font-medium text-gray-700 mb-3">高级</h3>
-          <div className="grid grid-cols-2 gap-4">
-            {books.filter(book => book.level === '高级').map(book => (
-              <div key={book.id} 
-                   className="bg-white rounded-lg shadow-sm p-4 cursor-pointer hover:shadow-md transition-all"
-                   onClick={() => {
-                     setSelectedBook(book);
-                     setCurrentView('bookList');
-                   }}>
-                <div className="w-full aspect-[3/4] rounded-lg overflow-hidden mb-3">
-                  {book.id <= 4 ? (
-                    <img 
-                      src={`/resources/img/cover/book${book.id}.jpg`}
-                      alt={`${book.title}封面`}
-                      className="w-full h-full object-cover"
-                    />
-                  ) : (
-                    <div className={`w-full h-full ${book.color} flex items-center justify-center text-white font-bold text-lg`}>
-                      {book.id === 5 ? '고급1' : '고급2'}
-                    </div>
-                  )}
-                </div>
-                <div className="text-center">
-                  <div className="text-base font-medium text-gray-800">
-                    {book.level}{book.id % 2 === 1 ? '1' : '2'}
-                  </div>
-                  <div className="text-sm text-gray-600 mt-1">{book.subtitle}</div>
-                </div>
+              <div className="text-center w-full">
+                <div className="text-base font-semibold text-gray-800 truncate">{book.title}</div>
+                <div className="text-sm text-gray-500 mt-1 truncate">{book.subtitle}</div>
               </div>
-            ))}
-          </div>
+            </div>
+          ))}
         </div>
-        </>
-        )}
       </div>
     </div>
   );
@@ -952,6 +1001,7 @@ const App = () => {
 
   // 渲染当前视图
   const renderView = () => {
+    if (isSearchPage) return <SearchPage />;
     switch (currentView) {
       case 'home':
         return <HomePage />;
