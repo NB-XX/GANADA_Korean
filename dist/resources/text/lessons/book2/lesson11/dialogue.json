@@ -1,0 +1,64 @@
+{
+  "sentences": [
+    {
+      "speaker": "제니",
+      "korean": "상우 씨,",
+      "chinese": "相佑,",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/1.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "이쪽은 미국에서 온 제 친구인데 인사하세요.",
+      "chinese": "这是我美国来的朋友,打个招呼吧。",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/2.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "안녕하세요?",
+      "chinese": "你好,",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/3.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "윤상우입니다.",
+      "chinese": "我叫尹相佑。",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/4.mp3"
+    },
+    {
+      "speaker": "마리",
+      "korean": "안녕하세요?마리예요.만나서 반가워요.",
+      "chinese": "你好,我是玛丽。认识你很高兴。",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/5.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "한국말을 아세요?",
+      "chinese": "你会说韩语吗?",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/6.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "한국말을 얼마나 배우셨어요?",
+      "chinese": "学了多长时间?",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/7.mp3"
+    },
+    {
+      "speaker": "마리",
+      "korean": "가나다한국어학원에서 한 4개월쯤 배웠어요.",
+      "chinese": "在GANADA韩国语学院学了大概4个月左右。",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/8.mp3"
+    },
+    {
+      "speaker": "마리",
+      "korean": "하지만 아직도 한국 사람과 이야기하면 긴장해요.",
+      "chinese": "但是跟韩国人说起来还是很紧张。",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/9.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "잘하시는데 긴장하지 마세요.",
+      "chinese": "你说得不错,别紧张。",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/10.mp3"
+    }
+  ]
+}

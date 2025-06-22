@@ -1,0 +1,64 @@
+{
+  "sentences": [
+    {
+      "speaker": "상우",
+      "korean": "날씨가 참 좋지요?",
+      "chinese": "天气很好吧。",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/1.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "하늘도 파랗고요.",
+      "chinese": "天也很蓝。",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/2.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "요즘 산에 가면 단풍이 예쁘겠네요.",
+      "chinese": "最近爬山,枫叶一定很漂亮。",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/3.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "주말에 등산 갈까요?산에 올라가면서 사진도 찍고",
+      "chinese": "周末去登山怎么样?爬山路上,",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/4.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "단풍 구경도 해요.",
+      "chinese": "边拍照边欣赏枫叶吧。",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/5.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "좋아요.",
+      "chinese": "好。",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/6.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "그런데 단풍은 어느 산이 제일 유명해요?",
+      "chinese": "不过哪座山的枫叶最有名?",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/7.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "설악산이 좋은데 너무 머니까 가까운 북한산으로 가요.",
+      "chinese": "雪岳山好是好,就是太远了。还是去就近的北韩山吧。",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/8.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "그래요.",
+      "chinese": "好的。",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/9.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "맑고 시원한 공기를 마시면 기분도 좋겠네요.",
+      "chinese": "吸清新又清爽的空气心情也会好转的。",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/10.mp3"
+    }
+  ]
+}

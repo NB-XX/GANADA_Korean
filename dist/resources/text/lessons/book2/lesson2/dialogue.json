@@ -1,0 +1,70 @@
+{
+  "sentences": [
+    {
+      "speaker": "야마다",
+      "korean": "여보세요,",
+      "chinese": "喂，",
+      "audio": "resources/audio/lessons/book1/lesson2/dialogue/1.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "이지영 선생님이세요?",
+      "chinese": "李智英老师吗？",
+      "audio": "resources/audio/lessons/book1/lesson2/dialogue/2.mp3"
+    },
+    {
+      "speaker": "이지영",
+      "korean": "네,그런데요.",
+      "chinese": "是，是的。",
+      "audio": "resources/audio/lessons/book1/lesson2/dialogue/3.mp3"
+    },
+    {
+      "speaker": "이지영",
+      "korean": "실례지만,누구세요?",
+      "chinese": "不好意思，您是哪一位？",
+      "audio": "resources/audio/lessons/book1/lesson2/dialogue/4.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "선생님,",
+      "chinese": "老师，",
+      "audio": "resources/audio/lessons/book1/lesson2/dialogue/5.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "저는 야마다입니다.",
+      "chinese": "我是山田。",
+      "audio": "resources/audio/lessons/book1/lesson2/dialogue/6.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "죄송합니다만 몸이 아파서학원에 가지 못합니다.",
+      "chinese": "对不起，因为身体不舒服，所以去不了学院。",
+      "audio": "resources/audio/lessons/book1/lesson2/dialogue/7.mp3"
+    },
+    {
+      "speaker": "이지영",
+      "korean": "어디가 아프세요?",
+      "chinese": "哪儿不舒服？",
+      "audio": "resources/audio/lessons/book1/lesson2/dialogue/8.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "감기에 걸렸어요.",
+      "chinese": "得了感冒。",
+      "audio": "resources/audio/lessons/book1/lesson2/dialogue/9.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "날씨가 추워서 오늘은 집에서 쉬고내일 학원에 가겠습니다.",
+      "chinese": "因为天气冷，所以打算今天在家休息明天去学院。",
+      "audio": "resources/audio/lessons/book1/lesson2/dialogue/10.mp3"
+    },
+    {
+      "speaker": "이지영",
+      "korean": "알겠습니다.그럼 잘 쉬고 내일 오세요",
+      "chinese": "知道了。那就好好休息明天来吧。",
+      "audio": "resources/audio/lessons/book1/lesson2/dialogue/11.mp3"
+    }
+  ]
+}

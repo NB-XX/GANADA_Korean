@@ -1,0 +1,76 @@
+{
+  "sentences": [
+    {
+      "speaker": "이리나",
+      "korean": "주말에 한국 가수 콘서트에 갔지요?",
+      "chinese": "周末去看韩国歌手的演唱会了吧?",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/1.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "어땠어요?",
+      "chinese": "怎么样?",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/2.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "멋있었어요.",
+      "chinese": "很酷。",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/3.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "이번이 다섯 번째였는데 갈 때마다 좋아요.",
+      "chinese": "这次是第五次,每次去都很满意。",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/4.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "다섯 번이나요?",
+      "chinese": "五次啊?",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/5.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "많이 가 보셨네요.",
+      "chinese": "你去看过好多次啊。",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/6.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "한국에 와서 매달 한 번씩 갔어요.",
+      "chinese": "来韩国以后每个月去一次。",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/7.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "제가 한국 노래를 좋아하거든요.",
+      "chinese": "因为我喜欢韩国歌。",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/8.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "저도 한번 가 보고 싶은데",
+      "chinese": "我也想去看一次,",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/9.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "인기 가수의 공연은 표를사기가힘들죠?",
+      "chinese": "人气歌手的表演票是不是很难买啊?",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/10.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "네,",
+      "chinese": "是,",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/11.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "이번에도 예매를 시작한 지 두 시간 만에 매진됐어요.",
+      "chinese": "这次也是预售开始两个小时后,就卖光了。",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/12.mp3"
+    }
+  ]
+}

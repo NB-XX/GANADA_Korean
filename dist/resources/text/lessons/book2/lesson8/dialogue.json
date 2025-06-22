@@ -1,0 +1,64 @@
+{
+  "sentences": [
+    {
+      "speaker": "야마다",
+      "korean": "용산 전자 상가에 가 보셨어요?",
+      "chinese": "你去过龙山电子商城吗?",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/1.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "네,",
+      "chinese": "是,",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/2.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "전자 사전을 사러 한 번 가 봤어요.",
+      "chinese": "为了买电子词典去过一次。",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/3.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "여기에서어떻게 가요?",
+      "chinese": "从这儿怎么走?",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/4.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "용산역 근처에 있으니까",
+      "chinese": "因靠近龙山站,",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/5.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "시청역에서 1호선으로 갈아타세요.",
+      "chinese": "可在市厅站换乘1号线。",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/6.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "용산역에서 내려서 5분쯤 걸어가면 있어요.",
+      "chinese": "在龙山站下车走5分钟就到。",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/7.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "전자상가가 다른 곳에도 있어요?",
+      "chinese": "在别的地方也有电子商城吗?",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/8.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "네,",
+      "chinese": "有,",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/9.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "2호선 강변역 근처에도 있으니까 편한 곳으로 가 보세요.",
+      "chinese": "2号线江边站附近也有,你就去方便的地方买吧。",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/10.mp3"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "sentences": [
+    {
+      "speaker": "히로미",
+      "korean": "무슨 차를 드시겠어요?",
+      "chinese": "想喝什么茶？",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/1.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "저는 녹차를 마시고 싶어요.",
+      "chinese": "我想喝绿茶。",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/2.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "시원한 녹차가 있어요?",
+      "chinese": "有冰绿茶吗？",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/3.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "(메뉴들 보며)어디 봅시다.",
+      "chinese": "(看看菜单)让我看一下。",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/4.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "네,있어요.",
+      "chinese": "恩，有。",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/5.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "그리고 다른 것도 많이 있어요.",
+      "chinese": "还有很多别的。",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/6.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "히로미 씨는 뭐로 하시겠어요?",
+      "chinese": "宏美你要点什么？",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/7.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "저는 유자차로 하겠어요.",
+      "chinese": "我要柚子茶。",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/8.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "여기요,",
+      "chinese": "劳驾，",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/9.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "시원한 녹차 한 잔하고 유자차 한 잔 주세요.",
+      "chinese": "一杯冰绿茶和柚子茶。",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/10.mp3"
+    },
+    {
+      "speaker": "앙리",
+      "korean": "유자차는 어떤 차에요?",
+      "chinese": "柚子茶是什么茶？",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/11.mp3"
+    }
+  ]
+}

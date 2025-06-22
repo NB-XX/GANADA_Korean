@@ -1,0 +1,52 @@
+{
+  "sentences": [
+    {
+      "speaker": "리밍",
+      "korean": "한국 요리책을 사고 싶은데 어디에 있어요?",
+      "chinese": "我要买一本韩国烹饪书,在哪里呢?",
+      "audio": "resources/audio/lessons/book1/lesson22/dialogue/1.mp3"
+    },
+    {
+      "speaker": "점원",
+      "korean": "저쪽 11번 요리 코너로 가 보세요.거기에 있을 거예요.",
+      "chinese": "去那边11号烹饪柜台看看吧。去那儿就能找到。",
+      "audio": "resources/audio/lessons/book1/lesson22/dialogue/2.mp3"
+    },
+    {
+      "speaker": "(조금후에)",
+      "korean": "",
+      "chinese": "",
+      "audio": "resources/audio/lessons/book1/lesson22/dialogue/3.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "거기에 제가 찾는 요리책은 없는데요.",
+      "chinese": "那里没有我要的烹饪书。",
+      "audio": "resources/audio/lessons/book1/lesson22/dialogue/4.mp3"
+    },
+    {
+      "speaker": "점원",
+      "korean": "책 제목을 아세요?",
+      "chinese": "您知道书名吗?",
+      "audio": "resources/audio/lessons/book1/lesson22/dialogue/5.mp3"
+    },
+    {
+      "speaker": "점원",
+      "korean": "그러면 컴퓨터로 쉽게 찾을 수 있는데...",
+      "chinese": "那样的话用电脑很容易就能查出来……",
+      "audio": "resources/audio/lessons/book1/lesson22/dialogue/6.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "제목이 아마‘엄마의 밥상’일 거예요.",
+      "chinese": "书名好像是“妈妈的饭桌”。",
+      "audio": "resources/audio/lessons/book1/lesson22/dialogue/7.mp3"
+    },
+    {
+      "speaker": "점원",
+      "korean": "잠깐 기다려 보세요.바로 찾아 드리겠습니다.",
+      "chinese": "请稍等。我马上给您查。",
+      "audio": "resources/audio/lessons/book1/lesson22/dialogue/8.mp3"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "type": "choice",
+      "title": "听音选择",
+      "audio": "resources/audio/lessons/book1/lesson1/listening/listening1.mp3",
+      "question": "请选择你听到的句子：",
+      "options": ["오랜만입니다", "안녕하세요", "처음 뵙겠습니다"],
+      "answer": 0,
+      "script": "오랜만입니다. 그동안 어떻게 지내셨어요?"
+    },
+    {
+      "id": 2,
+      "type": "judge",
+      "title": "判断正误",
+      "audio": "resources/audio/lessons/book1/lesson1/listening/listening2.mp3",
+      "question": "히로미는 여행을 했습니다.",
+      "answer": false,
+      "script": "앙리가 여행을 했어요. 히로미는 아르바이트를 했어요."
+    },
+    {
+      "id": 3,
+      "type": "short_answer",
+      "title": "简答题",
+      "audio": "resources/audio/lessons/book1/lesson1/listening/listening3.mp3",
+      "question": "히로미는 무엇을 준비했습니까?",
+      "answer": "한국어 능력 시험",
+      "script": "히로미는 아르바이트도 하고 한국어 능력 시험을 보려고 준비도 했어요."
+    }
+  ]
+}

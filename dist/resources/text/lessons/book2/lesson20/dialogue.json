@@ -1,0 +1,46 @@
+{
+  "sentences": [
+    {
+      "speaker": "제니",
+      "korean": "추석 연휴 때 한 3박4일 중국으로 가는 여행은 어떤 게 있어요?",
+      "chinese": "中秋节连休时,四天三夜中国行旅游产品都有哪些?",
+      "audio": "resources/audio/lessons/book1/lesson20/dialogue/1.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "여기 여러 가지 상품이 있으니까 한번 보세요.",
+      "chinese": "这里有很多种产品,看一下吧。",
+      "audio": "resources/audio/lessons/book1/lesson20/dialogue/2.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "중국에 처음 가니까 패키지여행이 좋을 것 같은데...",
+      "chinese": "初次去中国觉得包办旅行比较好。",
+      "audio": "resources/audio/lessons/book1/lesson20/dialogue/3.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "이거 어떠세요?",
+      "chinese": "这个怎么样?",
+      "audio": "resources/audio/lessons/book1/lesson20/dialogue/4.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "값도 안 비싸고 관광 코스도 굉장히 좋아요.",
+      "chinese": "价钱也不高旅游路线也非常号。",
+      "audio": "resources/audio/lessons/book1/lesson20/dialogue/5.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "생각보다 값이 싸네요.",
+      "chinese": "价格比想象得便宜。",
+      "audio": "resources/audio/lessons/book1/lesson20/dialogue/6.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "요즘 외국으로 떠나는 관광객이 많아져서 옛날보다 싸졌어요.",
+      "chinese": "最近出国的游客多了,所以比以前便宜了。",
+      "audio": "resources/audio/lessons/book1/lesson20/dialogue/7.mp3"
+    }
+  ]
+}

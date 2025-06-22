@@ -1,0 +1,58 @@
+{
+  "sentences": [
+    {
+      "speaker": "아리냐",
+      "korean": "오들 점심은 사무실에서 중국 음식을 시켜 먹는 게어때요?",
+      "chinese": "今天午饭在办公室叫外卖点中国菜怎么样?",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/1.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "그래요.",
+      "chinese": "好的。",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/2.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "지난번에 시킨 중국집 전화번호 아세요?",
+      "chinese": "你知道上次点的中国饭店的电话号码吗?",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/3.mp3"
+    },
+    {
+      "speaker": "아리냐",
+      "korean": "저기에 있는 전화번호 책에 있어요",
+      "chinese": "那边的黄页里有。",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/4.mp3"
+    },
+    {
+      "speaker": "아리냐",
+      "korean": "뭐 시킬까요?",
+      "chinese": "要点什么?",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/5.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "그 집 자장면이 맛있어요.",
+      "chinese": "那家饭店的炸酱面很好吃。",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/6.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "그럼 자장면하고,다 같이 먹을 탕수육도 하나시켜요.",
+      "chinese": "那就点炸酱面和大家能一起吃的糖醋里脊吧。",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/7.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "그럽시다.",
+      "chinese": "好的。",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/8.mp3"
+    },
+    {
+      "speaker": "직원",
+      "korean": "또 다른 거 시키실 분 계세요?",
+      "chinese": "还有要点别的菜的人吗?",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/9.mp3"
+    }
+  ]
+}

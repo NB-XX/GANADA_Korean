@@ -47,3 +47,29 @@
 .theme-dark .hover\:bg-gray-50:hover {
   @apply hover:bg-gray-800;
 }
+
+/* 表格样式 */
+.grammar-table table {
+  @apply w-full border-collapse;
+}
+
+.grammar-table th {
+  @apply border border-gray-300 bg-gray-50 px-4 py-2 text-left text-sm font-medium text-gray-600;
+}
+
+.grammar-table td {
+  @apply border border-gray-300 px-4 py-2 text-sm text-gray-800;
+}
+
+/* 表格容器样式 */
+.table-container {
+  @apply mt-2 border rounded-lg overflow-hidden;
+}
+
+.table-scroll {
+  @apply overflow-x-auto;
+}
+
+.table-content {
+  @apply min-w-full p-2;
+}

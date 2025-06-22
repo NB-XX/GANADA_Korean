@@ -14,9 +14,19 @@ interface SearchResult {
 interface SearchBarProps {
   onSearch: (query: string) => Promise<SearchResult[]>;
   onResultClick: (result: SearchResult) => void;
+  loading?: boolean;
+  error?: string | null;
 }
 
-const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick }) => {
+const tagColors: Record<string, string> = {
+  '课文': 'bg-blue-100 text-blue-700',
+  '语法': 'bg-green-100 text-green-700',
+  '单词': 'bg-yellow-100 text-yellow-700',
+  '听力': 'bg-purple-100 text-purple-700',
+  '阅读': 'bg-pink-100 text-pink-700',
+};
+
+const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick, loading = false, error = null }) => {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<SearchResult[]>([]);
   const [isLoading, setIsLoading] = useState(false);
@@ -96,15 +106,11 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick }) => {
             }}
           >
             <div className="flex items-center gap-2 mb-1">
-              <span className="text-sm font-medium text-gray-800">{result.content}</span>
-              <span className="px-2 py-0.5 text-xs rounded-full bg-blue-100 text-blue-600">
-                {result.type}
-              </span>
+              <span className={`text-xs font-semibold px-2 py-0.5 rounded ${tagColors[result.type] || 'bg-gray-100 text-gray-600'}`}>{result.type}</span>
+              <span className="text-xs text-gray-500">{result.bookTitle} {result.lessonTitle}</span>
             </div>
-            <div className="text-sm text-gray-600 mb-1">{result.preview}</div>
-            <div className="text-xs text-gray-400">
-              {result.bookTitle} · {result.lessonTitle}
-            </div>
+            <div className="font-medium text-gray-800 truncate">{result.content}</div>
+            <div className="text-sm text-gray-500 truncate">{result.preview}</div>
           </div>
         ))}
       </div>
@@ -118,8 +124,9 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick }) => {
           type="text"
           value={query}
           onChange={(e) => handleSearch(e.target.value)}
-          placeholder="搜索课文、语法、单词..."
+          placeholder={loading ? '索引加载中...' : error ? '索引加载失败，请刷新' : '输入关键词搜索'}
           className="w-full pl-10 pr-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+          disabled={loading || !!error}
         />
         <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 h-4 w-4 text-gray-400" />
         {query && (
@@ -135,6 +142,12 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick }) => {
           </button>
         )}
       </div>
+      {loading && (
+        <div className="text-blue-500 text-sm mt-2">索引加载中，请稍候...</div>
+      )}
+      {error && (
+        <div className="text-red-500 text-sm mt-2">{error}</div>
+      )}
       {renderResults()}
     </div>
   );

@@ -1,0 +1,64 @@
+{
+  "sentences": [
+    {
+      "speaker": "민지",
+      "korean": "리밍 씨는 한국에서 결혼식에 가 본 일이 있어요?",
+      "chinese": "李明,你参加过韩国的婚礼吗?",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/1.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "아니요,",
+      "chinese": "不,",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/2.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "가 본 적이 없어요.",
+      "chinese": "没有参加过,",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/3.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "한번 가 보고 싶어요.",
+      "chinese": "我很想去看看。",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/4.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "이번 토요일에 대학 선배가 결혼해요.",
+      "chinese": "这个星期六大学的学长结婚,",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/5.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "같이 가지겠어요?",
+      "chinese": "要一起去吗?",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/6.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "네,좋아요.",
+      "chinese": "嗯,好啊。",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/7.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "그런데 시간이 많이 걸려요?",
+      "chinese": "但是会占用很多时间吗?",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/8.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "식은 30분밖에 하지 않지만 결혼식 후에 사진도 찍고 식사도 해요.",
+      "chinese": "仪式只需要30分钟,可是办完婚礼后还要照相用歺。",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/9.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "축의금은 보통 얼마쯤 해요?",
+      "chinese": "一般送多少礼金?",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/10.mp3"
+    }
+  ]
+}

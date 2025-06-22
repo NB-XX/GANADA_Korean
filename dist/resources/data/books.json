@@ -1,0 +1,2582 @@
+[
+  {
+    "id": 1,
+    "title": "book1",
+    "subtitle": "",
+    "level": "初级",
+    "cover": "",
+    "color": "",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson1",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson1/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson1/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson1/words.json",
+          "听力": "resources/text/lessons/book1/lesson1/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson1/reading.json"
+        }
+      },
+      {
+        "id": 2,
+        "title": "lesson2",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson2/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson2/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson2/words.json",
+          "听力": "resources/text/lessons/book1/lesson2/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson2/reading.json"
+        }
+      },
+      {
+        "id": 3,
+        "title": "lesson3",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson3/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson3/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson3/words.json",
+          "听力": "resources/text/lessons/book1/lesson3/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson3/reading.json"
+        }
+      },
+      {
+        "id": 4,
+        "title": "lesson4",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson4/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson4/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson4/words.json",
+          "听力": "resources/text/lessons/book1/lesson4/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson4/reading.json"
+        }
+      },
+      {
+        "id": 5,
+        "title": "lesson5",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson5/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson5/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson5/words.json",
+          "听力": "resources/text/lessons/book1/lesson5/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson5/reading.json"
+        }
+      },
+      {
+        "id": 6,
+        "title": "lesson6",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson6/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson6/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson6/words.json",
+          "听力": "resources/text/lessons/book1/lesson6/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson6/reading.json"
+        }
+      },
+      {
+        "id": 7,
+        "title": "lesson7",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson7/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson7/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson7/words.json",
+          "听力": "resources/text/lessons/book1/lesson7/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson7/reading.json"
+        }
+      },
+      {
+        "id": 8,
+        "title": "lesson8",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson8/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson8/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson8/words.json",
+          "听力": "resources/text/lessons/book1/lesson8/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson8/reading.json"
+        }
+      },
+      {
+        "id": 9,
+        "title": "lesson9",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson9/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson9/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson9/words.json",
+          "听力": "resources/text/lessons/book1/lesson9/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson9/reading.json"
+        }
+      },
+      {
+        "id": 10,
+        "title": "lesson10",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson10/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson10/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson10/words.json",
+          "听力": "resources/text/lessons/book1/lesson10/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson10/reading.json"
+        }
+      },
+      {
+        "id": 11,
+        "title": "lesson11",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson11/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson11/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson11/words.json",
+          "听力": "resources/text/lessons/book1/lesson11/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson11/reading.json"
+        }
+      },
+      {
+        "id": 12,
+        "title": "lesson12",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson12/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson12/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson12/words.json",
+          "听力": "resources/text/lessons/book1/lesson12/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson12/reading.json"
+        }
+      },
+      {
+        "id": 13,
+        "title": "lesson13",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson13/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson13/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson13/words.json",
+          "听力": "resources/text/lessons/book1/lesson13/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson13/reading.json"
+        }
+      },
+      {
+        "id": 14,
+        "title": "lesson14",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson14/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson14/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson14/words.json",
+          "听力": "resources/text/lessons/book1/lesson14/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson14/reading.json"
+        }
+      },
+      {
+        "id": 15,
+        "title": "lesson15",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson15/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson15/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson15/words.json",
+          "听力": "resources/text/lessons/book1/lesson15/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson15/reading.json"
+        }
+      },
+      {
+        "id": 16,
+        "title": "lesson16",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson16/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson16/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson16/words.json",
+          "听力": "resources/text/lessons/book1/lesson16/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson16/reading.json"
+        }
+      },
+      {
+        "id": 17,
+        "title": "lesson17",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson17/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson17/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson17/words.json",
+          "听力": "resources/text/lessons/book1/lesson17/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson17/reading.json"
+        }
+      },
+      {
+        "id": 18,
+        "title": "lesson18",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson18/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson18/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson18/words.json",
+          "听力": "resources/text/lessons/book1/lesson18/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson18/reading.json"
+        }
+      },
+      {
+        "id": 19,
+        "title": "lesson19",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson19/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson19/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson19/words.json",
+          "听力": "resources/text/lessons/book1/lesson19/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson19/reading.json"
+        }
+      },
+      {
+        "id": 20,
+        "title": "lesson20",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson20/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson20/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson20/words.json",
+          "听力": "resources/text/lessons/book1/lesson20/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson20/reading.json"
+        }
+      },
+      {
+        "id": 21,
+        "title": "lesson21",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson21/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson21/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson21/words.json",
+          "听力": "resources/text/lessons/book1/lesson21/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson21/reading.json"
+        }
+      },
+      {
+        "id": 22,
+        "title": "lesson22",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson22/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson22/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson22/words.json",
+          "听力": "resources/text/lessons/book1/lesson22/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson22/reading.json"
+        }
+      },
+      {
+        "id": 23,
+        "title": "lesson23",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson23/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson23/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson23/words.json",
+          "听力": "resources/text/lessons/book1/lesson23/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson23/reading.json"
+        }
+      },
+      {
+        "id": 24,
+        "title": "lesson24",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson24/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson24/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson24/words.json",
+          "听力": "resources/text/lessons/book1/lesson24/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson24/reading.json"
+        }
+      },
+      {
+        "id": 25,
+        "title": "lesson25",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson25/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson25/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson25/words.json",
+          "听力": "resources/text/lessons/book1/lesson25/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson25/reading.json"
+        }
+      },
+      {
+        "id": 26,
+        "title": "lesson26",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson26/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson26/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson26/words.json",
+          "听力": "resources/text/lessons/book1/lesson26/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson26/reading.json"
+        }
+      },
+      {
+        "id": 27,
+        "title": "lesson27",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson27/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson27/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson27/words.json",
+          "听力": "resources/text/lessons/book1/lesson27/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson27/reading.json"
+        }
+      },
+      {
+        "id": 28,
+        "title": "lesson28",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson28/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson28/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson28/words.json",
+          "听力": "resources/text/lessons/book1/lesson28/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson28/reading.json"
+        }
+      },
+      {
+        "id": 29,
+        "title": "lesson29",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson29/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson29/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson29/words.json",
+          "听力": "resources/text/lessons/book1/lesson29/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson29/reading.json"
+        }
+      },
+      {
+        "id": 30,
+        "title": "lesson30",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book1/lesson30/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book1/lesson30/grammar.json",
+          "单词": "resources/text/lessons/book1/lesson30/words.json",
+          "听力": "resources/text/lessons/book1/lesson30/listening.json",
+          "阅读": "resources/text/lessons/book1/lesson30/reading.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "book2",
+    "subtitle": "",
+    "level": "初级",
+    "cover": "",
+    "color": "",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson1",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson1/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson1/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson1/words.json",
+          "听力": "resources/text/lessons/book2/lesson1/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson1/reading.json"
+        }
+      },
+      {
+        "id": 2,
+        "title": "lesson2",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson2/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson2/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson2/words.json",
+          "听力": "resources/text/lessons/book2/lesson2/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson2/reading.json"
+        }
+      },
+      {
+        "id": 3,
+        "title": "lesson3",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson3/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson3/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson3/words.json",
+          "听力": "resources/text/lessons/book2/lesson3/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson3/reading.json"
+        }
+      },
+      {
+        "id": 4,
+        "title": "lesson4",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson4/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson4/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson4/words.json",
+          "听力": "resources/text/lessons/book2/lesson4/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson4/reading.json"
+        }
+      },
+      {
+        "id": 5,
+        "title": "lesson5",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson5/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson5/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson5/words.json",
+          "听力": "resources/text/lessons/book2/lesson5/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson5/reading.json"
+        }
+      },
+      {
+        "id": 6,
+        "title": "lesson6",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson6/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson6/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson6/words.json",
+          "听力": "resources/text/lessons/book2/lesson6/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson6/reading.json"
+        }
+      },
+      {
+        "id": 7,
+        "title": "lesson7",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson7/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson7/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson7/words.json",
+          "听力": "resources/text/lessons/book2/lesson7/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson7/reading.json"
+        }
+      },
+      {
+        "id": 8,
+        "title": "lesson8",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson8/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson8/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson8/words.json",
+          "听力": "resources/text/lessons/book2/lesson8/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson8/reading.json"
+        }
+      },
+      {
+        "id": 9,
+        "title": "lesson9",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson9/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson9/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson9/words.json",
+          "听力": "resources/text/lessons/book2/lesson9/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson9/reading.json"
+        }
+      },
+      {
+        "id": 10,
+        "title": "lesson10",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson10/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson10/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson10/words.json",
+          "听力": "resources/text/lessons/book2/lesson10/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson10/reading.json"
+        }
+      },
+      {
+        "id": 11,
+        "title": "lesson11",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson11/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson11/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson11/words.json",
+          "听力": "resources/text/lessons/book2/lesson11/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson11/reading.json"
+        }
+      },
+      {
+        "id": 12,
+        "title": "lesson12",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson12/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson12/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson12/words.json",
+          "听力": "resources/text/lessons/book2/lesson12/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson12/reading.json"
+        }
+      },
+      {
+        "id": 13,
+        "title": "lesson13",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson13/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson13/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson13/words.json",
+          "听力": "resources/text/lessons/book2/lesson13/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson13/reading.json"
+        }
+      },
+      {
+        "id": 14,
+        "title": "lesson14",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson14/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson14/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson14/words.json",
+          "听力": "resources/text/lessons/book2/lesson14/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson14/reading.json"
+        }
+      },
+      {
+        "id": 15,
+        "title": "lesson15",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson15/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson15/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson15/words.json",
+          "听力": "resources/text/lessons/book2/lesson15/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson15/reading.json"
+        }
+      },
+      {
+        "id": 16,
+        "title": "lesson16",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson16/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson16/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson16/words.json",
+          "听力": "resources/text/lessons/book2/lesson16/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson16/reading.json"
+        }
+      },
+      {
+        "id": 17,
+        "title": "lesson17",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson17/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson17/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson17/words.json",
+          "听力": "resources/text/lessons/book2/lesson17/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson17/reading.json"
+        }
+      },
+      {
+        "id": 18,
+        "title": "lesson18",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson18/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson18/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson18/words.json",
+          "听力": "resources/text/lessons/book2/lesson18/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson18/reading.json"
+        }
+      },
+      {
+        "id": 19,
+        "title": "lesson19",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson19/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson19/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson19/words.json",
+          "听力": "resources/text/lessons/book2/lesson19/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson19/reading.json"
+        }
+      },
+      {
+        "id": 20,
+        "title": "lesson20",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson20/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson20/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson20/words.json",
+          "听力": "resources/text/lessons/book2/lesson20/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson20/reading.json"
+        }
+      },
+      {
+        "id": 21,
+        "title": "lesson21",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson21/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson21/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson21/words.json",
+          "听力": "resources/text/lessons/book2/lesson21/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson21/reading.json"
+        }
+      },
+      {
+        "id": 22,
+        "title": "lesson22",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson22/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson22/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson22/words.json",
+          "听力": "resources/text/lessons/book2/lesson22/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson22/reading.json"
+        }
+      },
+      {
+        "id": 23,
+        "title": "lesson23",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson23/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson23/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson23/words.json",
+          "听力": "resources/text/lessons/book2/lesson23/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson23/reading.json"
+        }
+      },
+      {
+        "id": 24,
+        "title": "lesson24",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson24/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson24/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson24/words.json",
+          "听力": "resources/text/lessons/book2/lesson24/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson24/reading.json"
+        }
+      },
+      {
+        "id": 25,
+        "title": "lesson25",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson25/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson25/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson25/words.json",
+          "听力": "resources/text/lessons/book2/lesson25/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson25/reading.json"
+        }
+      },
+      {
+        "id": 26,
+        "title": "lesson26",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson26/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson26/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson26/words.json",
+          "听力": "resources/text/lessons/book2/lesson26/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson26/reading.json"
+        }
+      },
+      {
+        "id": 27,
+        "title": "lesson27",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson27/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson27/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson27/words.json",
+          "听力": "resources/text/lessons/book2/lesson27/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson27/reading.json"
+        }
+      },
+      {
+        "id": 28,
+        "title": "lesson28",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson28/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson28/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson28/words.json",
+          "听力": "resources/text/lessons/book2/lesson28/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson28/reading.json"
+        }
+      },
+      {
+        "id": 29,
+        "title": "lesson29",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson29/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson29/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson29/words.json",
+          "听力": "resources/text/lessons/book2/lesson29/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson29/reading.json"
+        }
+      },
+      {
+        "id": 30,
+        "title": "lesson30",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book2/lesson30/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book2/lesson30/grammar.json",
+          "单词": "resources/text/lessons/book2/lesson30/words.json",
+          "听力": "resources/text/lessons/book2/lesson30/listening.json",
+          "阅读": "resources/text/lessons/book2/lesson30/reading.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "book3",
+    "subtitle": "",
+    "level": "中级",
+    "cover": "",
+    "color": "",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson1",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson1/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson1/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson1/words.json",
+          "听力": "resources/text/lessons/book3/lesson1/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson1/reading.json"
+        }
+      },
+      {
+        "id": 2,
+        "title": "lesson2",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson2/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson2/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson2/words.json",
+          "听力": "resources/text/lessons/book3/lesson2/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson2/reading.json"
+        }
+      },
+      {
+        "id": 3,
+        "title": "lesson3",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson3/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson3/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson3/words.json",
+          "听力": "resources/text/lessons/book3/lesson3/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson3/reading.json"
+        }
+      },
+      {
+        "id": 4,
+        "title": "lesson4",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson4/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson4/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson4/words.json",
+          "听力": "resources/text/lessons/book3/lesson4/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson4/reading.json"
+        }
+      },
+      {
+        "id": 5,
+        "title": "lesson5",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson5/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson5/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson5/words.json",
+          "听力": "resources/text/lessons/book3/lesson5/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson5/reading.json"
+        }
+      },
+      {
+        "id": 6,
+        "title": "lesson6",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson6/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson6/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson6/words.json",
+          "听力": "resources/text/lessons/book3/lesson6/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson6/reading.json"
+        }
+      },
+      {
+        "id": 7,
+        "title": "lesson7",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson7/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson7/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson7/words.json",
+          "听力": "resources/text/lessons/book3/lesson7/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson7/reading.json"
+        }
+      },
+      {
+        "id": 8,
+        "title": "lesson8",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson8/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson8/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson8/words.json",
+          "听力": "resources/text/lessons/book3/lesson8/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson8/reading.json"
+        }
+      },
+      {
+        "id": 9,
+        "title": "lesson9",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson9/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson9/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson9/words.json",
+          "听力": "resources/text/lessons/book3/lesson9/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson9/reading.json"
+        }
+      },
+      {
+        "id": 10,
+        "title": "lesson10",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson10/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson10/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson10/words.json",
+          "听力": "resources/text/lessons/book3/lesson10/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson10/reading.json"
+        }
+      },
+      {
+        "id": 11,
+        "title": "lesson11",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson11/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson11/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson11/words.json",
+          "听力": "resources/text/lessons/book3/lesson11/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson11/reading.json"
+        }
+      },
+      {
+        "id": 12,
+        "title": "lesson12",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson12/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson12/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson12/words.json",
+          "听力": "resources/text/lessons/book3/lesson12/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson12/reading.json"
+        }
+      },
+      {
+        "id": 13,
+        "title": "lesson13",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson13/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson13/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson13/words.json",
+          "听力": "resources/text/lessons/book3/lesson13/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson13/reading.json"
+        }
+      },
+      {
+        "id": 14,
+        "title": "lesson14",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson14/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson14/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson14/words.json",
+          "听力": "resources/text/lessons/book3/lesson14/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson14/reading.json"
+        }
+      },
+      {
+        "id": 15,
+        "title": "lesson15",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson15/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson15/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson15/words.json",
+          "听力": "resources/text/lessons/book3/lesson15/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson15/reading.json"
+        }
+      },
+      {
+        "id": 16,
+        "title": "lesson16",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson16/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson16/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson16/words.json",
+          "听力": "resources/text/lessons/book3/lesson16/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson16/reading.json"
+        }
+      },
+      {
+        "id": 17,
+        "title": "lesson17",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson17/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson17/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson17/words.json",
+          "听力": "resources/text/lessons/book3/lesson17/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson17/reading.json"
+        }
+      },
+      {
+        "id": 18,
+        "title": "lesson18",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson18/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson18/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson18/words.json",
+          "听力": "resources/text/lessons/book3/lesson18/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson18/reading.json"
+        }
+      },
+      {
+        "id": 19,
+        "title": "lesson19",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson19/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson19/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson19/words.json",
+          "听力": "resources/text/lessons/book3/lesson19/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson19/reading.json"
+        }
+      },
+      {
+        "id": 20,
+        "title": "lesson20",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson20/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson20/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson20/words.json",
+          "听力": "resources/text/lessons/book3/lesson20/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson20/reading.json"
+        }
+      },
+      {
+        "id": 21,
+        "title": "lesson21",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson21/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson21/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson21/words.json",
+          "听力": "resources/text/lessons/book3/lesson21/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson21/reading.json"
+        }
+      },
+      {
+        "id": 22,
+        "title": "lesson22",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson22/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson22/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson22/words.json",
+          "听力": "resources/text/lessons/book3/lesson22/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson22/reading.json"
+        }
+      },
+      {
+        "id": 23,
+        "title": "lesson23",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson23/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson23/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson23/words.json",
+          "听力": "resources/text/lessons/book3/lesson23/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson23/reading.json"
+        }
+      },
+      {
+        "id": 24,
+        "title": "lesson24",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson24/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson24/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson24/words.json",
+          "听力": "resources/text/lessons/book3/lesson24/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson24/reading.json"
+        }
+      },
+      {
+        "id": 25,
+        "title": "lesson25",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson25/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson25/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson25/words.json",
+          "听力": "resources/text/lessons/book3/lesson25/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson25/reading.json"
+        }
+      },
+      {
+        "id": 26,
+        "title": "lesson26",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson26/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson26/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson26/words.json",
+          "听力": "resources/text/lessons/book3/lesson26/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson26/reading.json"
+        }
+      },
+      {
+        "id": 27,
+        "title": "lesson27",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson27/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson27/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson27/words.json",
+          "听力": "resources/text/lessons/book3/lesson27/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson27/reading.json"
+        }
+      },
+      {
+        "id": 28,
+        "title": "lesson28",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson28/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson28/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson28/words.json",
+          "听力": "resources/text/lessons/book3/lesson28/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson28/reading.json"
+        }
+      },
+      {
+        "id": 29,
+        "title": "lesson29",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson29/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson29/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson29/words.json",
+          "听力": "resources/text/lessons/book3/lesson29/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson29/reading.json"
+        }
+      },
+      {
+        "id": 30,
+        "title": "lesson30",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book3/lesson30/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book3/lesson30/grammar.json",
+          "单词": "resources/text/lessons/book3/lesson30/words.json",
+          "听力": "resources/text/lessons/book3/lesson30/listening.json",
+          "阅读": "resources/text/lessons/book3/lesson30/reading.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "book4",
+    "subtitle": "",
+    "level": "中级",
+    "cover": "",
+    "color": "",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson1",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson1/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson1/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson1/words.json",
+          "听力": "resources/text/lessons/book4/lesson1/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson1/reading.json"
+        }
+      },
+      {
+        "id": 2,
+        "title": "lesson2",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson2/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson2/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson2/words.json",
+          "听力": "resources/text/lessons/book4/lesson2/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson2/reading.json"
+        }
+      },
+      {
+        "id": 3,
+        "title": "lesson3",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson3/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson3/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson3/words.json",
+          "听力": "resources/text/lessons/book4/lesson3/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson3/reading.json"
+        }
+      },
+      {
+        "id": 4,
+        "title": "lesson4",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson4/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson4/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson4/words.json",
+          "听力": "resources/text/lessons/book4/lesson4/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson4/reading.json"
+        }
+      },
+      {
+        "id": 5,
+        "title": "lesson5",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson5/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson5/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson5/words.json",
+          "听力": "resources/text/lessons/book4/lesson5/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson5/reading.json"
+        }
+      },
+      {
+        "id": 6,
+        "title": "lesson6",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson6/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson6/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson6/words.json",
+          "听力": "resources/text/lessons/book4/lesson6/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson6/reading.json"
+        }
+      },
+      {
+        "id": 7,
+        "title": "lesson7",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson7/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson7/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson7/words.json",
+          "听力": "resources/text/lessons/book4/lesson7/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson7/reading.json"
+        }
+      },
+      {
+        "id": 8,
+        "title": "lesson8",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson8/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson8/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson8/words.json",
+          "听力": "resources/text/lessons/book4/lesson8/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson8/reading.json"
+        }
+      },
+      {
+        "id": 9,
+        "title": "lesson9",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson9/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson9/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson9/words.json",
+          "听力": "resources/text/lessons/book4/lesson9/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson9/reading.json"
+        }
+      },
+      {
+        "id": 10,
+        "title": "lesson10",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson10/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson10/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson10/words.json",
+          "听力": "resources/text/lessons/book4/lesson10/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson10/reading.json"
+        }
+      },
+      {
+        "id": 11,
+        "title": "lesson11",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson11/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson11/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson11/words.json",
+          "听力": "resources/text/lessons/book4/lesson11/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson11/reading.json"
+        }
+      },
+      {
+        "id": 12,
+        "title": "lesson12",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson12/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson12/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson12/words.json",
+          "听力": "resources/text/lessons/book4/lesson12/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson12/reading.json"
+        }
+      },
+      {
+        "id": 13,
+        "title": "lesson13",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson13/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson13/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson13/words.json",
+          "听力": "resources/text/lessons/book4/lesson13/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson13/reading.json"
+        }
+      },
+      {
+        "id": 14,
+        "title": "lesson14",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson14/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson14/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson14/words.json",
+          "听力": "resources/text/lessons/book4/lesson14/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson14/reading.json"
+        }
+      },
+      {
+        "id": 15,
+        "title": "lesson15",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson15/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson15/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson15/words.json",
+          "听力": "resources/text/lessons/book4/lesson15/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson15/reading.json"
+        }
+      },
+      {
+        "id": 16,
+        "title": "lesson16",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson16/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson16/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson16/words.json",
+          "听力": "resources/text/lessons/book4/lesson16/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson16/reading.json"
+        }
+      },
+      {
+        "id": 17,
+        "title": "lesson17",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson17/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson17/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson17/words.json",
+          "听力": "resources/text/lessons/book4/lesson17/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson17/reading.json"
+        }
+      },
+      {
+        "id": 18,
+        "title": "lesson18",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson18/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson18/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson18/words.json",
+          "听力": "resources/text/lessons/book4/lesson18/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson18/reading.json"
+        }
+      },
+      {
+        "id": 19,
+        "title": "lesson19",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson19/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson19/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson19/words.json",
+          "听力": "resources/text/lessons/book4/lesson19/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson19/reading.json"
+        }
+      },
+      {
+        "id": 20,
+        "title": "lesson20",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson20/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson20/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson20/words.json",
+          "听力": "resources/text/lessons/book4/lesson20/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson20/reading.json"
+        }
+      },
+      {
+        "id": 21,
+        "title": "lesson21",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson21/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson21/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson21/words.json",
+          "听力": "resources/text/lessons/book4/lesson21/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson21/reading.json"
+        }
+      },
+      {
+        "id": 22,
+        "title": "lesson22",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson22/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson22/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson22/words.json",
+          "听力": "resources/text/lessons/book4/lesson22/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson22/reading.json"
+        }
+      },
+      {
+        "id": 23,
+        "title": "lesson23",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson23/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson23/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson23/words.json",
+          "听力": "resources/text/lessons/book4/lesson23/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson23/reading.json"
+        }
+      },
+      {
+        "id": 24,
+        "title": "lesson24",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson24/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson24/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson24/words.json",
+          "听力": "resources/text/lessons/book4/lesson24/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson24/reading.json"
+        }
+      },
+      {
+        "id": 25,
+        "title": "lesson25",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson25/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson25/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson25/words.json",
+          "听力": "resources/text/lessons/book4/lesson25/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson25/reading.json"
+        }
+      },
+      {
+        "id": 26,
+        "title": "lesson26",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson26/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson26/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson26/words.json",
+          "听力": "resources/text/lessons/book4/lesson26/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson26/reading.json"
+        }
+      },
+      {
+        "id": 27,
+        "title": "lesson27",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson27/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson27/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson27/words.json",
+          "听力": "resources/text/lessons/book4/lesson27/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson27/reading.json"
+        }
+      },
+      {
+        "id": 28,
+        "title": "lesson28",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson28/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson28/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson28/words.json",
+          "听力": "resources/text/lessons/book4/lesson28/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson28/reading.json"
+        }
+      },
+      {
+        "id": 29,
+        "title": "lesson29",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson29/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson29/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson29/words.json",
+          "听力": "resources/text/lessons/book4/lesson29/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson29/reading.json"
+        }
+      },
+      {
+        "id": 30,
+        "title": "lesson30",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book4/lesson30/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book4/lesson30/grammar.json",
+          "单词": "resources/text/lessons/book4/lesson30/words.json",
+          "听力": "resources/text/lessons/book4/lesson30/listening.json",
+          "阅读": "resources/text/lessons/book4/lesson30/reading.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "book5",
+    "subtitle": "",
+    "level": "高级",
+    "cover": "",
+    "color": "",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson1",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson1/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson1/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson1/words.json",
+          "听力": "resources/text/lessons/book5/lesson1/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson1/reading.json"
+        }
+      },
+      {
+        "id": 2,
+        "title": "lesson2",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson2/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson2/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson2/words.json",
+          "听力": "resources/text/lessons/book5/lesson2/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson2/reading.json"
+        }
+      },
+      {
+        "id": 3,
+        "title": "lesson3",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson3/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson3/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson3/words.json",
+          "听力": "resources/text/lessons/book5/lesson3/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson3/reading.json"
+        }
+      },
+      {
+        "id": 4,
+        "title": "lesson4",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson4/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson4/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson4/words.json",
+          "听力": "resources/text/lessons/book5/lesson4/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson4/reading.json"
+        }
+      },
+      {
+        "id": 5,
+        "title": "lesson5",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson5/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson5/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson5/words.json",
+          "听力": "resources/text/lessons/book5/lesson5/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson5/reading.json"
+        }
+      },
+      {
+        "id": 6,
+        "title": "lesson6",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson6/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson6/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson6/words.json",
+          "听力": "resources/text/lessons/book5/lesson6/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson6/reading.json"
+        }
+      },
+      {
+        "id": 7,
+        "title": "lesson7",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson7/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson7/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson7/words.json",
+          "听力": "resources/text/lessons/book5/lesson7/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson7/reading.json"
+        }
+      },
+      {
+        "id": 8,
+        "title": "lesson8",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson8/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson8/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson8/words.json",
+          "听力": "resources/text/lessons/book5/lesson8/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson8/reading.json"
+        }
+      },
+      {
+        "id": 9,
+        "title": "lesson9",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson9/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson9/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson9/words.json",
+          "听力": "resources/text/lessons/book5/lesson9/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson9/reading.json"
+        }
+      },
+      {
+        "id": 10,
+        "title": "lesson10",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson10/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson10/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson10/words.json",
+          "听力": "resources/text/lessons/book5/lesson10/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson10/reading.json"
+        }
+      },
+      {
+        "id": 11,
+        "title": "lesson11",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson11/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson11/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson11/words.json",
+          "听力": "resources/text/lessons/book5/lesson11/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson11/reading.json"
+        }
+      },
+      {
+        "id": 12,
+        "title": "lesson12",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson12/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson12/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson12/words.json",
+          "听力": "resources/text/lessons/book5/lesson12/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson12/reading.json"
+        }
+      },
+      {
+        "id": 13,
+        "title": "lesson13",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson13/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson13/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson13/words.json",
+          "听力": "resources/text/lessons/book5/lesson13/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson13/reading.json"
+        }
+      },
+      {
+        "id": 14,
+        "title": "lesson14",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson14/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson14/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson14/words.json",
+          "听力": "resources/text/lessons/book5/lesson14/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson14/reading.json"
+        }
+      },
+      {
+        "id": 15,
+        "title": "lesson15",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson15/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson15/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson15/words.json",
+          "听力": "resources/text/lessons/book5/lesson15/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson15/reading.json"
+        }
+      },
+      {
+        "id": 16,
+        "title": "lesson16",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson16/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson16/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson16/words.json",
+          "听力": "resources/text/lessons/book5/lesson16/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson16/reading.json"
+        }
+      },
+      {
+        "id": 17,
+        "title": "lesson17",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson17/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson17/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson17/words.json",
+          "听力": "resources/text/lessons/book5/lesson17/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson17/reading.json"
+        }
+      },
+      {
+        "id": 18,
+        "title": "lesson18",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson18/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson18/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson18/words.json",
+          "听力": "resources/text/lessons/book5/lesson18/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson18/reading.json"
+        }
+      },
+      {
+        "id": 19,
+        "title": "lesson19",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson19/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson19/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson19/words.json",
+          "听力": "resources/text/lessons/book5/lesson19/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson19/reading.json"
+        }
+      },
+      {
+        "id": 20,
+        "title": "lesson20",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson20/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson20/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson20/words.json",
+          "听力": "resources/text/lessons/book5/lesson20/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson20/reading.json"
+        }
+      },
+      {
+        "id": 21,
+        "title": "lesson21",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson21/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson21/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson21/words.json",
+          "听力": "resources/text/lessons/book5/lesson21/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson21/reading.json"
+        }
+      },
+      {
+        "id": 22,
+        "title": "lesson22",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson22/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson22/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson22/words.json",
+          "听力": "resources/text/lessons/book5/lesson22/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson22/reading.json"
+        }
+      },
+      {
+        "id": 23,
+        "title": "lesson23",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson23/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson23/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson23/words.json",
+          "听力": "resources/text/lessons/book5/lesson23/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson23/reading.json"
+        }
+      },
+      {
+        "id": 24,
+        "title": "lesson24",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson24/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson24/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson24/words.json",
+          "听力": "resources/text/lessons/book5/lesson24/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson24/reading.json"
+        }
+      },
+      {
+        "id": 25,
+        "title": "lesson25",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson25/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson25/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson25/words.json",
+          "听力": "resources/text/lessons/book5/lesson25/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson25/reading.json"
+        }
+      },
+      {
+        "id": 26,
+        "title": "lesson26",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson26/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson26/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson26/words.json",
+          "听力": "resources/text/lessons/book5/lesson26/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson26/reading.json"
+        }
+      },
+      {
+        "id": 27,
+        "title": "lesson27",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson27/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson27/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson27/words.json",
+          "听力": "resources/text/lessons/book5/lesson27/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson27/reading.json"
+        }
+      },
+      {
+        "id": 28,
+        "title": "lesson28",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson28/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson28/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson28/words.json",
+          "听力": "resources/text/lessons/book5/lesson28/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson28/reading.json"
+        }
+      },
+      {
+        "id": 29,
+        "title": "lesson29",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson29/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson29/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson29/words.json",
+          "听力": "resources/text/lessons/book5/lesson29/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson29/reading.json"
+        }
+      },
+      {
+        "id": 30,
+        "title": "lesson30",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book5/lesson30/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book5/lesson30/grammar.json",
+          "单词": "resources/text/lessons/book5/lesson30/words.json",
+          "听力": "resources/text/lessons/book5/lesson30/listening.json",
+          "阅读": "resources/text/lessons/book5/lesson30/reading.json"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "book6",
+    "subtitle": "",
+    "level": "高级",
+    "cover": "",
+    "color": "",
+    "lessons": [
+      {
+        "id": 1,
+        "title": "lesson1",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson1/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson1/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson1/words.json",
+          "听力": "resources/text/lessons/book6/lesson1/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson1/reading.json"
+        }
+      },
+      {
+        "id": 2,
+        "title": "lesson2",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson2/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson2/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson2/words.json",
+          "听力": "resources/text/lessons/book6/lesson2/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson2/reading.json"
+        }
+      },
+      {
+        "id": 3,
+        "title": "lesson3",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson3/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson3/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson3/words.json",
+          "听力": "resources/text/lessons/book6/lesson3/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson3/reading.json"
+        }
+      },
+      {
+        "id": 4,
+        "title": "lesson4",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson4/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson4/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson4/words.json",
+          "听力": "resources/text/lessons/book6/lesson4/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson4/reading.json"
+        }
+      },
+      {
+        "id": 5,
+        "title": "lesson5",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson5/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson5/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson5/words.json",
+          "听力": "resources/text/lessons/book6/lesson5/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson5/reading.json"
+        }
+      },
+      {
+        "id": 6,
+        "title": "lesson6",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson6/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson6/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson6/words.json",
+          "听力": "resources/text/lessons/book6/lesson6/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson6/reading.json"
+        }
+      },
+      {
+        "id": 7,
+        "title": "lesson7",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson7/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson7/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson7/words.json",
+          "听力": "resources/text/lessons/book6/lesson7/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson7/reading.json"
+        }
+      },
+      {
+        "id": 8,
+        "title": "lesson8",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson8/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson8/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson8/words.json",
+          "听力": "resources/text/lessons/book6/lesson8/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson8/reading.json"
+        }
+      },
+      {
+        "id": 9,
+        "title": "lesson9",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson9/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson9/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson9/words.json",
+          "听力": "resources/text/lessons/book6/lesson9/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson9/reading.json"
+        }
+      },
+      {
+        "id": 10,
+        "title": "lesson10",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson10/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson10/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson10/words.json",
+          "听力": "resources/text/lessons/book6/lesson10/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson10/reading.json"
+        }
+      },
+      {
+        "id": 11,
+        "title": "lesson11",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson11/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson11/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson11/words.json",
+          "听力": "resources/text/lessons/book6/lesson11/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson11/reading.json"
+        }
+      },
+      {
+        "id": 12,
+        "title": "lesson12",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson12/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson12/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson12/words.json",
+          "听力": "resources/text/lessons/book6/lesson12/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson12/reading.json"
+        }
+      },
+      {
+        "id": 13,
+        "title": "lesson13",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson13/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson13/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson13/words.json",
+          "听力": "resources/text/lessons/book6/lesson13/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson13/reading.json"
+        }
+      },
+      {
+        "id": 14,
+        "title": "lesson14",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson14/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson14/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson14/words.json",
+          "听力": "resources/text/lessons/book6/lesson14/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson14/reading.json"
+        }
+      },
+      {
+        "id": 15,
+        "title": "lesson15",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson15/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson15/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson15/words.json",
+          "听力": "resources/text/lessons/book6/lesson15/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson15/reading.json"
+        }
+      },
+      {
+        "id": 16,
+        "title": "lesson16",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson16/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson16/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson16/words.json",
+          "听力": "resources/text/lessons/book6/lesson16/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson16/reading.json"
+        }
+      },
+      {
+        "id": 17,
+        "title": "lesson17",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson17/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson17/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson17/words.json",
+          "听力": "resources/text/lessons/book6/lesson17/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson17/reading.json"
+        }
+      },
+      {
+        "id": 18,
+        "title": "lesson18",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson18/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson18/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson18/words.json",
+          "听力": "resources/text/lessons/book6/lesson18/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson18/reading.json"
+        }
+      },
+      {
+        "id": 19,
+        "title": "lesson19",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson19/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson19/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson19/words.json",
+          "听力": "resources/text/lessons/book6/lesson19/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson19/reading.json"
+        }
+      },
+      {
+        "id": 20,
+        "title": "lesson20",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson20/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson20/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson20/words.json",
+          "听力": "resources/text/lessons/book6/lesson20/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson20/reading.json"
+        }
+      },
+      {
+        "id": 21,
+        "title": "lesson21",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson21/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson21/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson21/words.json",
+          "听力": "resources/text/lessons/book6/lesson21/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson21/reading.json"
+        }
+      },
+      {
+        "id": 22,
+        "title": "lesson22",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson22/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson22/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson22/words.json",
+          "听力": "resources/text/lessons/book6/lesson22/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson22/reading.json"
+        }
+      },
+      {
+        "id": 23,
+        "title": "lesson23",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson23/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson23/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson23/words.json",
+          "听力": "resources/text/lessons/book6/lesson23/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson23/reading.json"
+        }
+      },
+      {
+        "id": 24,
+        "title": "lesson24",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson24/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson24/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson24/words.json",
+          "听力": "resources/text/lessons/book6/lesson24/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson24/reading.json"
+        }
+      },
+      {
+        "id": 25,
+        "title": "lesson25",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson25/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson25/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson25/words.json",
+          "听力": "resources/text/lessons/book6/lesson25/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson25/reading.json"
+        }
+      },
+      {
+        "id": 26,
+        "title": "lesson26",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson26/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson26/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson26/words.json",
+          "听力": "resources/text/lessons/book6/lesson26/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson26/reading.json"
+        }
+      },
+      {
+        "id": 27,
+        "title": "lesson27",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson27/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson27/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson27/words.json",
+          "听力": "resources/text/lessons/book6/lesson27/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson27/reading.json"
+        }
+      },
+      {
+        "id": 28,
+        "title": "lesson28",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson28/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson28/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson28/words.json",
+          "听力": "resources/text/lessons/book6/lesson28/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson28/reading.json"
+        }
+      },
+      {
+        "id": 29,
+        "title": "lesson29",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson29/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson29/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson29/words.json",
+          "听力": "resources/text/lessons/book6/lesson29/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson29/reading.json"
+        }
+      },
+      {
+        "id": 30,
+        "title": "lesson30",
+        "subtitle": "",
+        "resources": {
+          "课文": {
+            "dialogue": "resources/text/lessons/book6/lesson30/dialogue.json"
+          },
+          "语法": "resources/text/lessons/book6/lesson30/grammar.json",
+          "单词": "resources/text/lessons/book6/lesson30/words.json",
+          "听力": "resources/text/lessons/book6/lesson30/listening.json",
+          "阅读": "resources/text/lessons/book6/lesson30/reading.json"
+        }
+      }
+    ]
+  }
+]
