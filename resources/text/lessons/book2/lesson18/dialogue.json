@@ -4,49 +4,49 @@
       "speaker": "피에르",
       "korean": "통장을 만들려고 하는데요.뭐가 있어야 해요?",
       "chinese": "我想办个存折。都需要些什么?",
-      "audio": "resources/audio/lessons/book1/lesson18/dialogue/1.mp3"
+      "audio": "resources/audio/lessons/book2/lesson18/dialogue/1.mp3"
     },
     {
       "speaker": "직원",
       "korean": "여기 신청서 써 주시고요,여권 좀 주시겠어요?",
       "chinese": "先填一下这张申请书,然后给我看一下护照。",
-      "audio": "resources/audio/lessons/book1/lesson18/dialogue/2.mp3"
+      "audio": "resources/audio/lessons/book2/lesson18/dialogue/2.mp3"
     },
     {
       "speaker": "피에르",
       "korean": "네,여기요.",
       "chinese": "好的,给你。",
-      "audio": "resources/audio/lessons/book1/lesson18/dialogue/3.mp3"
+      "audio": "resources/audio/lessons/book2/lesson18/dialogue/3.mp3"
     },
     {
       "speaker": "피에르",
       "korean": "그리고 현금 카드도 같이 신청하고 싶은데요.",
       "chinese": "顺便还想申请现金卡。",
-      "audio": "resources/audio/lessons/book1/lesson18/dialogue/4.mp3"
+      "audio": "resources/audio/lessons/book2/lesson18/dialogue/4.mp3"
     },
     {
       "speaker": "직원",
       "korean": "그러면 여기하고 여기에 서명 좀 해 주세요.",
       "chinese": "那么在这儿和这儿签一下名。",
-      "audio": "resources/audio/lessons/book1/lesson18/dialogue/5.mp3"
+      "audio": "resources/audio/lessons/book2/lesson18/dialogue/5.mp3"
     },
     {
       "speaker": "피에르",
       "korean": "그 카드로 송금도 돼요?",
       "chinese": "用那张卡可以寄钱吗?",
-      "audio": "resources/audio/lessons/book1/lesson18/dialogue/6.mp3"
+      "audio": "resources/audio/lessons/book2/lesson18/dialogue/6.mp3"
     },
     {
       "speaker": "직원",
       "korean": "네,송금도 하실 수 있어요.",
       "chinese": "是,可以寄钱。",
-      "audio": "resources/audio/lessons/book1/lesson18/dialogue/7.mp3"
+      "audio": "resources/audio/lessons/book2/lesson18/dialogue/7.mp3"
     },
     {
       "speaker": "직원",
       "korean": "그리고 비밀번호를 정해야 하는데요.",
       "chinese": "另外,请设一下密码。",
-      "audio": "resources/audio/lessons/book1/lesson18/dialogue/8.mp3"
+      "audio": "resources/audio/lessons/book2/lesson18/dialogue/8.mp3"
     }
   ]
 }

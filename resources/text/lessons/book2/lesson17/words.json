@@ -1,0 +1,88 @@
+{
+  "words": [
+    {
+      "korean": "도와주다",
+      "chinese": "帮助",
+      "etymology": "돕다 주다",
+      "audio": "resources/audio/lessons/book2/lesson17/words/1.mp3"
+    },
+    {
+      "korean": "보내다",
+      "chinese": "发送，寄",
+      "etymology": "보내다",
+      "audio": "resources/audio/lessons/book2/lesson17/words/2.mp3"
+    },
+    {
+      "korean": "번역하다",
+      "chinese": "翻译",
+      "etymology": "飜譯 하다",
+      "audio": "resources/audio/lessons/book2/lesson17/words/3.mp3"
+    },
+    {
+      "korean": "설명하다",
+      "chinese": "说明",
+      "etymology": "說明 하다",
+      "audio": "resources/audio/lessons/book2/lesson17/words/4.mp3"
+    },
+    {
+      "korean": "천천히",
+      "chinese": "慢慢的",
+      "etymology": "",
+      "audio": "resources/audio/lessons/book2/lesson17/words/5.mp3"
+    },
+    {
+      "korean": "전하다",
+      "chinese": "传达",
+      "etymology": "傳 하다",
+      "audio": "resources/audio/lessons/book2/lesson17/words/6.mp3"
+    },
+    {
+      "korean": "팩스",
+      "chinese": "传真",
+      "etymology": "Fax(Eng)",
+      "audio": "resources/audio/lessons/book2/lesson17/words/7.mp3"
+    },
+    {
+      "korean": "서류",
+      "chinese": "文件",
+      "etymology": "書類",
+      "audio": "resources/audio/lessons/book2/lesson17/words/8.mp3"
+    },
+    {
+      "korean": "켜다",
+      "chinese": "打开（电器）",
+      "etymology": "켜다",
+      "audio": "resources/audio/lessons/book2/lesson17/words/9.mp3"
+    },
+    {
+      "korean": "거스름돈",
+      "chinese": "零钱，找零",
+      "etymology": "거스르다 돈",
+      "audio": "resources/audio/lessons/book2/lesson17/words/10.mp3"
+    },
+    {
+      "korean": "모자라다",
+      "chinese": "不足，不够",
+      "etymology": "모자라다",
+      "audio": "resources/audio/lessons/book2/lesson17/words/11.mp3"
+    },
+    {
+      "korean": "졸리다",
+      "chinese": "困",
+      "etymology": "졸다",
+      "audio": "resources/audio/lessons/book2/lesson17/words/12.mp3"
+    },
+    {
+      "korean": "기대가 되다",
+      "chinese": "期待",
+      "etymology": "期待 되다",
+      "audio": "resources/audio/lessons/book2/lesson17/words/13.mp3"
+    },
+    {
+      "korean": "거절하다",
+      "chinese": "拒绝",
+      "etymology": "拒絶 하다",
+      "audio": "resources/audio/lessons/book2/lesson17/words/14.mp3"
+    }
+  ]
+}

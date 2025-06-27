@@ -4,55 +4,55 @@
       "speaker": "앙리",
       "korean": "저기요,",
       "chinese": "请问,",
-      "audio": "resources/audio/lessons/book1/lesson21/dialogue/1.mp3"
+      "audio": "resources/audio/lessons/book2/lesson21/dialogue/1.mp3"
     },
     {
       "speaker": "앙리",
       "korean": "이거 얼마예요?",
       "chinese": "这件多少钱?",
-      "audio": "resources/audio/lessons/book1/lesson21/dialogue/2.mp3"
+      "audio": "resources/audio/lessons/book2/lesson21/dialogue/2.mp3"
     },
     {
       "speaker": "점원",
       "korean": "15만 원짜리인데 지금 세일해서 12만 원이에요.",
       "chinese": "原价为15万元,现在打完折12万。",
-      "audio": "resources/audio/lessons/book1/lesson21/dialogue/3.mp3"
+      "audio": "resources/audio/lessons/book2/lesson21/dialogue/3.mp3"
     },
     {
       "speaker": "앙리",
       "korean": "그런데 이거 저한테 좀 작지 않을까요?",
       "chinese": "可是这件对我来说有点小吧?",
-      "audio": "resources/audio/lessons/book1/lesson21/dialogue/4.mp3"
+      "audio": "resources/audio/lessons/book2/lesson21/dialogue/4.mp3"
     },
     {
       "speaker": "점원",
       "korean": "맞을 것 같은데",
       "chinese": "看起来适合您,",
-      "audio": "resources/audio/lessons/book1/lesson21/dialogue/5.mp3"
+      "audio": "resources/audio/lessons/book2/lesson21/dialogue/5.mp3"
     },
     {
       "speaker": "점원",
       "korean": "한번 입어 보세요.",
       "chinese": "试一下吧。",
-      "audio": "resources/audio/lessons/book1/lesson21/dialogue/6.mp3"
+      "audio": "resources/audio/lessons/book2/lesson21/dialogue/6.mp3"
     },
     {
       "speaker": "(입어본후에)",
       "korean": "",
       "chinese": "",
-      "audio": "resources/audio/lessons/book1/lesson21/dialogue/7.mp3"
+      "audio": "resources/audio/lessons/book2/lesson21/dialogue/7.mp3"
     },
     {
       "speaker": "앙리",
       "korean": "입어 보니까 편하고 괜찮네요.",
       "chinese": "穿起来舒服,真不错。",
-      "audio": "resources/audio/lessons/book1/lesson21/dialogue/8.mp3"
+      "audio": "resources/audio/lessons/book2/lesson21/dialogue/8.mp3"
     },
     {
       "speaker": "점원",
       "korean": "사이즈도 맞고 색깔도 잘 어울리시네요.모델 같아요.",
       "chinese": "大小合适,颜色也适合您。真像模特啊。",
-      "audio": "resources/audio/lessons/book1/lesson21/dialogue/9.mp3"
+      "audio": "resources/audio/lessons/book2/lesson21/dialogue/9.mp3"
     }
   ]
 }

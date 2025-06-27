@@ -4,61 +4,61 @@
       "speaker": "점원",
       "korean": "어서 오세요.",
       "chinese": "欢迎光临。",
-      "audio": "resources/audio/lessons/book1/lesson10/dialogue/1.mp3"
+      "audio": "resources/audio/lessons/book2/lesson10/dialogue/1.mp3"
     },
     {
       "speaker": "점원",
       "korean": "어떻게 오셨어요?",
       "chinese": "您需要点什么?",
-      "audio": "resources/audio/lessons/book1/lesson10/dialogue/2.mp3"
+      "audio": "resources/audio/lessons/book2/lesson10/dialogue/2.mp3"
     },
     {
       "speaker": "상우",
       "korean": "휴대폰을 바꾸고 싶어서 왔어요.",
       "chinese": "我想换手机。",
-      "audio": "resources/audio/lessons/book1/lesson10/dialogue/3.mp3"
+      "audio": "resources/audio/lessons/book2/lesson10/dialogue/3.mp3"
     },
     {
       "speaker": "점원",
       "korean": "찾는 모델이 있으세요?",
       "chinese": "要什么机种?",
-      "audio": "resources/audio/lessons/book1/lesson10/dialogue/4.mp3"
+      "audio": "resources/audio/lessons/book2/lesson10/dialogue/4.mp3"
     },
     {
       "speaker": "상우",
       "korean": "글쎄요.",
       "chinese": "嗯……,",
-      "audio": "resources/audio/lessons/book1/lesson10/dialogue/5.mp3"
+      "audio": "resources/audio/lessons/book2/lesson10/dialogue/5.mp3"
     },
     {
       "speaker": "상우",
       "korean": "이 중에서 뭐가 제일 인기가 있어요?",
       "chinese": "这些中哪个最受欢迎?",
-      "audio": "resources/audio/lessons/book1/lesson10/dialogue/6.mp3"
+      "audio": "resources/audio/lessons/book2/lesson10/dialogue/6.mp3"
     },
     {
       "speaker": "점원",
       "korean": "이게 요즘 제일 인기 있는 모델인데",
       "chinese": "这是最近最热门的机种,",
-      "audio": "resources/audio/lessons/book1/lesson10/dialogue/7.mp3"
+      "audio": "resources/audio/lessons/book2/lesson10/dialogue/7.mp3"
     },
     {
       "speaker": "점원",
       "korean": "별로 비싸지도 않고 좋습니다.",
       "chinese": "不太贵,挺好。",
-      "audio": "resources/audio/lessons/book1/lesson10/dialogue/8.mp3"
+      "audio": "resources/audio/lessons/book2/lesson10/dialogue/8.mp3"
     },
     {
       "speaker": "상우",
       "korean": "그래요?",
       "chinese": "是吗?",
-      "audio": "resources/audio/lessons/book1/lesson10/dialogue/9.mp3"
+      "audio": "resources/audio/lessons/book2/lesson10/dialogue/9.mp3"
     },
     {
       "speaker": "상우",
       "korean": "가격이 어떻게 돼요?",
       "chinese": "价格多少?",
-      "audio": "resources/audio/lessons/book1/lesson10/dialogue/10.mp3"
+      "audio": "resources/audio/lessons/book2/lesson10/dialogue/10.mp3"
     }
   ]
 }

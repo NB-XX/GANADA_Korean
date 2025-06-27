@@ -1,11 +1,88 @@
 {
   "words": [
-    { "korean": "오랜만", "chinese": "好久不见", "etymology": "오래+만", "audio": "resources/audio/lessons/book1/lesson1/words/word1.mp3" },
-    { "korean": "그동안", "chinese": "这段时间", "etymology": "그+동안", "audio": "resources/audio/lessons/book1/lesson1/words/word2.mp3" },
-    { "korean": "구경하다", "chinese": "观光，参观", "etymology": "구경+하다", "audio": "resources/audio/lessons/book1/lesson1/words/word3.mp3" },
-    { "korean": "여행", "chinese": "旅行", "etymology": "旅行", "audio": "resources/audio/lessons/book1/lesson1/words/word4.mp3" },
-    { "korean": "자주", "chinese": "经常", "etymology": "自主", "audio": "resources/audio/lessons/book1/lesson1/words/word5.mp3" },
-    { "korean": "가끔", "chinese": "偶尔", "etymology": "가끔", "audio": "resources/audio/lessons/book1/lesson1/words/word6.mp3" },
-    { "korean": "아르바이트", "chinese": "打工", "etymology": "Arbeit(德)", "audio": "resources/audio/lessons/book1/lesson1/words/word7.mp3" }
+    {
+      "korean": "오래간만",
+      "chinese": "好久不见",
+      "etymology": "오래간 만",
+      "audio": "resources/audio/lessons/book2/lesson1/words/1.mp3"
+    },
+    {
+      "korean": "그동안",
+      "chinese": "这段时间",
+      "etymology": "그 동안",
+      "audio": "resources/audio/lessons/book2/lesson1/words/2.mp3"
+    },
+    {
+      "korean": "지내다",
+      "chinese": "过，度过",
+      "etymology": "지내다",
+      "audio": "resources/audio/lessons/book2/lesson1/words/3.mp3"
+    },
+    {
+      "korean": "한국어 능력 시험",
+      "chinese": "韩国语能力考试",
+      "etymology": "韓國語能力試驗",
+      "audio": "resources/audio/lessons/book2/lesson1/words/4.mp3"
+    },
+    {
+      "korean": "준비",
+      "chinese": "准备",
+      "etymology": "準備",
+      "audio": "resources/audio/lessons/book2/lesson1/words/5.mp3"
+    },
+    {
+      "korean": "청소",
+      "chinese": "打扫，清扫",
+      "etymology": "淸掃",
+      "audio": "resources/audio/lessons/book2/lesson1/words/6.mp3"
+    },
+    {
+      "korean": "대학원",
+      "chinese": "研究生院",
+      "etymology": "大學院",
+      "audio": "resources/audio/lessons/book2/lesson1/words/7.mp3"
+    },
+    {
+      "korean": "일찍",
+      "chinese": "早",
+      "etymology": "일찍",
+      "audio": "resources/audio/lessons/book2/lesson1/words/8.mp3"
+    },
+    {
+      "korean": "출근",
+      "chinese": "上班",
+      "etymology": "出勤",
+      "audio": "resources/audio/lessons/book2/lesson1/words/9.mp3"
+    },
+    {
+      "korean": "가지고 오다",
+      "chinese": "带来",
+      "etymology": "가지다 오다",
+      "audio": "resources/audio/lessons/book2/lesson1/words/10.mp3"
+    },
+    {
+      "korean": "양복",
+      "chinese": "西装",
+      "etymology": "洋服",
+      "audio": "resources/audio/lessons/book2/lesson1/words/11.mp3"
+    },
+    {
+      "korean": "예약하다",
+      "chinese": "预约",
+      "etymology": "豫約 하다",
+      "audio": "resources/audio/lessons/book2/lesson1/words/12.mp3"
+    },
+    {
+      "korean": "되다",
+      "chinese": "成为",
+      "etymology": "되다",
+      "audio": "resources/audio/lessons/book2/lesson1/words/13.mp3"
+    },
+    {
+      "korean": "시디플레이어",
+      "chinese": "碟片播放器",
+      "etymology": "CD player(Eng)",
+      "audio": "resources/audio/lessons/book2/lesson1/words/14.mp3"
+    }
   ]
 }

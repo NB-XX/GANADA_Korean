@@ -1,0 +1,70 @@
+{
+  "words": [
+    {
+      "korean": "매달",
+      "chinese": "每月",
+      "etymology": "每 달",
+      "audio": "resources/audio/lessons/book2/lesson29/words/1.mp3"
+    },
+    {
+      "korean": "-씩",
+      "chinese": "每...",
+      "etymology": "씩",
+      "audio": "resources/audio/lessons/book2/lesson29/words/2.mp3"
+    },
+    {
+      "korean": "힘들다",
+      "chinese": "累，辛苦",
+      "etymology": "힘 들다",
+      "audio": "resources/audio/lessons/book2/lesson29/words/3.mp3"
+    },
+    {
+      "korean": "매진되다",
+      "chinese": "售罄",
+      "etymology": "賣盡 되다",
+      "audio": "resources/audio/lessons/book2/lesson29/words/4.mp3"
+    },
+    {
+      "korean": "화가 나다",
+      "chinese": "生气",
+      "etymology": "火 나다",
+      "audio": "resources/audio/lessons/book2/lesson29/words/5.mp3"
+    },
+    {
+      "korean": "보름",
+      "chinese": "十五",
+      "etymology": "보름",
+      "audio": "resources/audio/lessons/book2/lesson29/words/6.mp3"
+    },
+    {
+      "korean": "살이 빠지다",
+      "chinese": "瘦了",
+      "etymology": "살 빠지다",
+      "audio": "resources/audio/lessons/book2/lesson29/words/7.mp3"
+    },
+    {
+      "korean": "들어가다",
+      "chinese": "进去",
+      "etymology": "들다 가다",
+      "audio": "resources/audio/lessons/book2/lesson29/words/8.mp3"
+    },
+    {
+      "korean": "그치다",
+      "chinese": "停止",
+      "etymology": "그치다",
+      "audio": "resources/audio/lessons/book2/lesson29/words/9.mp3"
+    },
+    {
+      "korean": "입원하다",
+      "chinese": "住院",
+      "etymology": "入院 하다",
+      "audio": "resources/audio/lessons/book2/lesson29/words/10.mp3"
+    },
+    {
+      "korean": "퇴원하다",
+      "chinese": "出院",
+      "etymology": "退院 하다",
+      "audio": "resources/audio/lessons/book2/lesson29/words/11.mp3"
+    }
+  ]
+}

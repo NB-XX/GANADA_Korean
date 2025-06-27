@@ -30,10 +30,8 @@ const tagColors: Record<string, string> = {
 const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick, loading = false, error = null, onFocus }) => {
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<SearchResult[]>([]);
-  const [isLoading, setIsLoading] = useState(false);
   const [isOpen, setIsOpen] = useState(false);
   const [isComposing, setIsComposing] = useState(false);
-  const searchTimeout = useRef<NodeJS.Timeout>();
   const searchRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -49,34 +47,6 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick, loading 
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
 
-  // 搜索防抖
-  const handleSearch = async (value: string) => {
-    setQuery(value);
-    if (searchTimeout.current) {
-      clearTimeout(searchTimeout.current);
-    }
-
-    if (!value.trim()) {
-      setResults([]);
-      setIsOpen(false);
-      return;
-    }
-
-    searchTimeout.current = setTimeout(async () => {
-      setIsLoading(true);
-      try {
-        const searchResults = await onSearch(value);
-        setResults(searchResults);
-        setIsOpen(true);
-      } catch (error) {
-        console.error('Search failed:', error);
-        setResults([]);
-      } finally {
-        setIsLoading(false);
-      }
-    }, 300);
-  };
-
   // 提交搜索
   const handleSearchSubmit = async () => {
     if (!query.trim()) return;
@@ -88,7 +58,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick, loading 
   const renderResults = () => {
     if (!isOpen) return null;
 
-    if (isLoading) {
+    if (loading) {
       return (
         <div className="absolute top-full left-0 right-0 mt-1 bg-white rounded-lg shadow-lg p-4">
           <div className="text-gray-500 text-center">搜索中...</div>

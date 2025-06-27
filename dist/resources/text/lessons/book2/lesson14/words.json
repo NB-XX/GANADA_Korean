@@ -1,0 +1,100 @@
+{
+  "words": [
+    {
+      "korean": "단풍",
+      "chinese": "枫叶",
+      "etymology": "丹楓",
+      "audio": "resources/audio/lessons/book2/lesson14/words/1.mp3"
+    },
+    {
+      "korean": "오르가다",
+      "chinese": "登",
+      "etymology": "",
+      "audio": "resources/audio/lessons/book2/lesson14/words/2.mp3"
+    },
+    {
+      "korean": "설악산",
+      "chinese": "雪岳山",
+      "etymology": "雪嶽山",
+      "audio": "resources/audio/lessons/book2/lesson14/words/3.mp3"
+    },
+    {
+      "korean": "북한산",
+      "chinese": "北汉山",
+      "etymology": "北漢山",
+      "audio": "resources/audio/lessons/book2/lesson14/words/4.mp3"
+    },
+    {
+      "korean": "맑다",
+      "chinese": "晴朗",
+      "etymology": "맑다",
+      "audio": "resources/audio/lessons/book2/lesson14/words/5.mp3"
+    },
+    {
+      "korean": "공기",
+      "chinese": "空气",
+      "etymology": "空氣",
+      "audio": "resources/audio/lessons/book2/lesson14/words/6.mp3"
+    },
+    {
+      "korean": "공휴일",
+      "chinese": "公休日",
+      "etymology": "公休日",
+      "audio": "resources/audio/lessons/book2/lesson14/words/7.mp3"
+    },
+    {
+      "korean": "볼어",
+      "chinese": "法语",
+      "etymology": "公休日",
+      "audio": "resources/audio/lessons/book2/lesson14/words/8.mp3"
+    },
+    {
+      "korean": "고장 나다",
+      "chinese": "出故障",
+      "etymology": "故障 나다",
+      "audio": "resources/audio/lessons/book2/lesson14/words/9.mp3"
+    },
+    {
+      "korean": "하루 종일",
+      "chinese": "一整天",
+      "etymology": "하루 終日",
+      "audio": "resources/audio/lessons/book2/lesson14/words/10.mp3"
+    },
+    {
+      "korean": "컬국수",
+      "chinese": "刀削面",
+      "etymology": "",
+      "audio": "resources/audio/lessons/book2/lesson14/words/11.mp3"
+    },
+    {
+      "korean": "국물",
+      "chinese": "汤水",
+      "etymology": "국 물",
+      "audio": "resources/audio/lessons/book2/lesson14/words/12.mp3"
+    },
+    {
+      "korean": "군고구마",
+      "chinese": "烤地瓜",
+      "etymology": "굽다 고구마",
+      "audio": "resources/audio/lessons/book2/lesson14/words/13.mp3"
+    },
+    {
+      "korean": "호떡",
+      "chinese": "油饼",
+      "etymology": "胡 떡",
+      "audio": "resources/audio/lessons/book2/lesson14/words/14.mp3"
+    },
+    {
+      "korean": "찐빵",
+      "chinese": "红豆沙包",
+      "etymology": "찌다 빵",
+      "audio": "resources/audio/lessons/book2/lesson14/words/15.mp3"
+    },
+    {
+      "korean": "향기",
+      "chinese": "香气",
+      "etymology": "香氣",
+      "audio": "resources/audio/lessons/book2/lesson14/words/16.mp3"
+    }
+  ]
+}

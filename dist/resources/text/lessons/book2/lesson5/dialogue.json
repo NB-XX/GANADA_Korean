@@ -4,61 +4,61 @@
       "speaker": "주인",
       "korean": "주문하셨어요?",
       "chinese": "点菜了吗?",
-      "audio": "resources/audio/lessons/book1/lesson5/dialogue/1.mp3"
+      "audio": "resources/audio/lessons/book2/lesson5/dialogue/1.mp3"
     },
     {
       "speaker": "상우",
       "korean": "아니요,아직 안 했어요.",
       "chinese": "没有,还没点。",
-      "audio": "resources/audio/lessons/book1/lesson5/dialogue/2.mp3"
+      "audio": "resources/audio/lessons/book2/lesson5/dialogue/2.mp3"
     },
     {
       "speaker": "상우",
       "korean": "잠깐만요.",
       "chinese": "等一下吧。",
-      "audio": "resources/audio/lessons/book1/lesson5/dialogue/3.mp3"
+      "audio": "resources/audio/lessons/book2/lesson5/dialogue/3.mp3"
     },
     {
       "speaker": "제니",
       "korean": "뭐 시킬까요?",
       "chinese": "要点什么呢?",
-      "audio": "resources/audio/lessons/book1/lesson5/dialogue/4.mp3"
+      "audio": "resources/audio/lessons/book2/lesson5/dialogue/4.mp3"
     },
     {
       "speaker": "제니",
       "korean": "오늘이 상우 씨 생일이니까 상우 씨드시고 싶은 거 시키세요.",
       "chinese": "今天是相佑的生日。相佑,点你想吃的吧。",
-      "audio": "resources/audio/lessons/book1/lesson5/dialogue/5.mp3"
+      "audio": "resources/audio/lessons/book2/lesson5/dialogue/5.mp3"
     },
     {
       "speaker": "상움",
       "korean": "우리가 다 좋아하는 삼겹살하고 소주로 할까요?",
       "chinese": "点大家都喜欢吃的五花肉和烧酒怎么样?",
-      "audio": "resources/audio/lessons/book1/lesson5/dialogue/6.mp3"
+      "audio": "resources/audio/lessons/book2/lesson5/dialogue/6.mp3"
     },
     {
       "speaker": "체나",
       "korean": "좋아요.",
       "chinese": "好啊。",
-      "audio": "resources/audio/lessons/book1/lesson5/dialogue/7.mp3"
+      "audio": "resources/audio/lessons/book2/lesson5/dialogue/7.mp3"
     },
     {
       "speaker": "체나",
       "korean": "몇 인분 시킬까요?",
       "chinese": "点几份?",
-      "audio": "resources/audio/lessons/book1/lesson5/dialogue/8.mp3"
+      "audio": "resources/audio/lessons/book2/lesson5/dialogue/8.mp3"
     },
     {
       "speaker": "상우",
       "korean": "모두 4명이니까 고기는 4인분 시키고 술은 2병만시킵시다.",
       "chinese": "一共是4个人,点4份五花肉和2瓶烧酒吧。",
-      "audio": "resources/audio/lessons/book1/lesson5/dialogue/9.mp3"
+      "audio": "resources/audio/lessons/book2/lesson5/dialogue/9.mp3"
     },
     {
       "speaker": "상우",
       "korean": "아주머니,여기요.",
       "chinese": "大嫂,劳驾!",
-      "audio": "resources/audio/lessons/book1/lesson5/dialogue/10.mp3"
+      "audio": "resources/audio/lessons/book2/lesson5/dialogue/10.mp3"
     }
   ]
 }

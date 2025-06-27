@@ -1,0 +1,64 @@
+{
+  "words": [
+    {
+      "korean": "저희",
+      "chinese": "我们（谦称）",
+      "etymology": "저희",
+      "audio": "resources/audio/lessons/book2/lesson25/words/1.mp3"
+    },
+    {
+      "korean": "초대장",
+      "chinese": "邀请函",
+      "etymology": "招待狀",
+      "audio": "resources/audio/lessons/book2/lesson25/words/2.mp3"
+    },
+    {
+      "korean": "어머",
+      "chinese": "哎呀",
+      "etymology": "어머",
+      "audio": "resources/audio/lessons/book2/lesson25/words/3.mp3"
+    },
+    {
+      "korean": "알아보다",
+      "chinese": "打听",
+      "etymology": "알다 보다",
+      "audio": "resources/audio/lessons/book2/lesson25/words/4.mp3"
+    },
+    {
+      "korean": "원서",
+      "chinese": "志愿书",
+      "etymology": "願書",
+      "audio": "resources/audio/lessons/book2/lesson25/words/5.mp3"
+    },
+    {
+      "korean": "졸업식",
+      "chinese": "毕业典礼",
+      "etymology": "卒業式",
+      "audio": "resources/audio/lessons/book2/lesson25/words/6.mp3"
+    },
+    {
+      "korean": "공사",
+      "chinese": "施工",
+      "etymology": "工事",
+      "audio": "resources/audio/lessons/book2/lesson25/words/7.mp3"
+    },
+    {
+      "korean": "통화",
+      "chinese": "通话",
+      "etymology": "通話",
+      "audio": "resources/audio/lessons/book2/lesson25/words/8.mp3"
+    },
+    {
+      "korean": "외출",
+      "chinese": "外出",
+      "etymology": "外出",
+      "audio": "resources/audio/lessons/book2/lesson25/words/9.mp3"
+    },
+    {
+      "korean": "조사하다",
+      "chinese": "调查",
+      "etymology": "調査 하다",
+      "audio": "resources/audio/lessons/book2/lesson25/words/10.mp3"
+    }
+  ]
+}

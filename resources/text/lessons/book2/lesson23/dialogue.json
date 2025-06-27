@@ -4,67 +4,67 @@
       "speaker": "미용사",
       "korean": "손님,어떻게 해 드릴까요?",
       "chinese": "请问，您要什么样的发型?",
-      "audio": "resources/audio/lessons/book1/lesson23/dialogue/1.mp3"
+      "audio": "resources/audio/lessons/book2/lesson23/dialogue/1.mp3"
     },
     {
       "speaker": "제니",
       "korean": "머리 모양을 좀바꿔 보려고 하는데",
       "chinese": "我想换换发型。",
-      "audio": "resources/audio/lessons/book1/lesson23/dialogue/2.mp3"
+      "audio": "resources/audio/lessons/book2/lesson23/dialogue/2.mp3"
     },
     {
       "speaker": "제니",
       "korean": "어떤 머리가 어울릴까요?",
       "chinese": "你觉得什么样的发型适合我?",
-      "audio": "resources/audio/lessons/book1/lesson23/dialogue/3.mp3"
+      "audio": "resources/audio/lessons/book2/lesson23/dialogue/3.mp3"
     },
     {
       "speaker": "미용사",
       "korean": "짧은 머리도 좋을 것 같은데",
       "chinese": "短发应该也很适合,",
-      "audio": "resources/audio/lessons/book1/lesson23/dialogue/4.mp3"
+      "audio": "resources/audio/lessons/book2/lesson23/dialogue/4.mp3"
     },
     {
       "speaker": "미용사",
       "korean": "이 책에서 한번골라보세요.",
       "chinese": "看这本书挑一下吧。",
-      "audio": "resources/audio/lessons/book1/lesson23/dialogue/5.mp3"
+      "audio": "resources/audio/lessons/book2/lesson23/dialogue/5.mp3"
     },
     {
       "speaker": "제니",
       "korean": "이 스타일이 마음에 드네요.",
       "chinese": "我喜欢这款式。",
-      "audio": "resources/audio/lessons/book1/lesson23/dialogue/6.mp3"
+      "audio": "resources/audio/lessons/book2/lesson23/dialogue/6.mp3"
     },
     {
       "speaker": "제니",
       "korean": "앞머리는 이것보다 조금 더 짧게 해 주세요.",
       "chinese": "刘海比这个剪短一点吧。",
-      "audio": "resources/audio/lessons/book1/lesson23/dialogue/7.mp3"
+      "audio": "resources/audio/lessons/book2/lesson23/dialogue/7.mp3"
     },
     {
       "speaker": "제니",
       "korean": "(자른후에)",
       "chinese": "(剪了之后)",
-      "audio": "resources/audio/lessons/book1/lesson23/dialogue/8.mp3"
+      "audio": "resources/audio/lessons/book2/lesson23/dialogue/8.mp3"
     },
     {
       "speaker": "미용사",
       "korean": "다 됐습니다.어떠세요?",
       "chinese": "剪完了。感觉怎么样?",
-      "audio": "resources/audio/lessons/book1/lesson23/dialogue/9.mp3"
+      "audio": "resources/audio/lessons/book2/lesson23/dialogue/9.mp3"
     },
     {
       "speaker": "제니",
       "korean": "이런 머리는 처음이라서 좀 이상한 것 같은데",
       "chinese": "这样的发型是第一次,感觉有点怪怪的,",
-      "audio": "resources/audio/lessons/book1/lesson23/dialogue/10.mp3"
+      "audio": "resources/audio/lessons/book2/lesson23/dialogue/10.mp3"
     },
     {
       "speaker": "제니",
       "korean": "괜찮아요?",
       "chinese": "还可以吗?",
-      "audio": "resources/audio/lessons/book1/lesson23/dialogue/11.mp3"
+      "audio": "resources/audio/lessons/book2/lesson23/dialogue/11.mp3"
     }
   ]
 }

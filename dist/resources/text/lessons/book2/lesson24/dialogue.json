@@ -4,61 +4,61 @@
       "speaker": "상우",
       "korean": "어제 정말 죄송했어요.갑자기 약속을 취소해서...",
       "chinese": "昨天真的很抱歉。突然取消了约会……",
-      "audio": "resources/audio/lessons/book1/lesson24/dialogue/1.mp3"
+      "audio": "resources/audio/lessons/book2/lesson24/dialogue/1.mp3"
     },
     {
       "speaker": "이리나",
       "korean": "아니에요.다행히 저도 약속 장소로 출발하기 전이었어요.",
       "chinese": "没关系。我也幸好还没出发去约会地点。",
-      "audio": "resources/audio/lessons/book1/lesson24/dialogue/2.mp3"
+      "audio": "resources/audio/lessons/book2/lesson24/dialogue/2.mp3"
     },
     {
       "speaker": "상우",
       "korean": "죄송해요.",
       "chinese": "不好意思啊。",
-      "audio": "resources/audio/lessons/book1/lesson24/dialogue/3.mp3"
+      "audio": "resources/audio/lessons/book2/lesson24/dialogue/3.mp3"
     },
     {
       "speaker": "상우",
       "korean": "나가려고 하는데 중요한 손님이 오셨어요.",
       "chinese": "刚要出去的时候,来了重要的客人。",
-      "audio": "resources/audio/lessons/book1/lesson24/dialogue/4.mp3"
+      "audio": "resources/audio/lessons/book2/lesson24/dialogue/4.mp3"
     },
     {
       "speaker": "이리나",
       "korean": "그랬어요?",
       "chinese": "是吗?",
-      "audio": "resources/audio/lessons/book1/lesson24/dialogue/5.mp3"
+      "audio": "resources/audio/lessons/book2/lesson24/dialogue/5.mp3"
     },
     {
       "speaker": "이리나",
       "korean": "괜찮아요.미안해하지 마세요.",
       "chinese": "没事儿。不用过意不去。",
-      "audio": "resources/audio/lessons/book1/lesson24/dialogue/6.mp3"
+      "audio": "resources/audio/lessons/book2/lesson24/dialogue/6.mp3"
     },
     {
       "speaker": "상우",
       "korean": "오늘 제가 저녁을 살 테니까",
       "chinese": "今天晚上我请客,",
-      "audio": "resources/audio/lessons/book1/lesson24/dialogue/7.mp3"
+      "audio": "resources/audio/lessons/book2/lesson24/dialogue/7.mp3"
     },
     {
       "speaker": "상우",
       "korean": "시간 좀 내 주세요.",
       "chinese": "抽点时间出来吧。",
-      "audio": "resources/audio/lessons/book1/lesson24/dialogue/8.mp3"
+      "audio": "resources/audio/lessons/book2/lesson24/dialogue/8.mp3"
     },
     {
       "speaker": "이리나",
       "korean": "좋아요.",
       "chinese": "好。",
-      "audio": "resources/audio/lessons/book1/lesson24/dialogue/9.mp3"
+      "audio": "resources/audio/lessons/book2/lesson24/dialogue/9.mp3"
     },
     {
       "speaker": "이리나",
       "korean": "그럼,이다가 퇴근 후에 만나요.",
       "chinese": "那么,一会儿下班见吧。",
-      "audio": "resources/audio/lessons/book1/lesson24/dialogue/10.mp3"
+      "audio": "resources/audio/lessons/book2/lesson24/dialogue/10.mp3"
     }
   ]
 }

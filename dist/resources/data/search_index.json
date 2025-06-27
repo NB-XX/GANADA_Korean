@@ -91,7 +91,7 @@
   },
   {
     "type": "单词",
-    "content": "오랜만",
+    "content": "오래간만",
     "preview": "好久不见",
     "bookId": 2,
     "lessonId": 1,
@@ -109,8 +109,8 @@
   },
   {
     "type": "单词",
-    "content": "구경하다",
-    "preview": "观光，参观",
+    "content": "지내다",
+    "preview": "过，度过",
     "bookId": 2,
     "lessonId": 1,
     "bookTitle": "初级2",
@@ -118,8 +118,8 @@
   },
   {
     "type": "单词",
-    "content": "여행",
-    "preview": "旅行",
+    "content": "한국어 능력 시험",
+    "preview": "韩国语能力考试",
     "bookId": 2,
     "lessonId": 1,
     "bookTitle": "初级2",
@@ -127,8 +127,8 @@
   },
   {
     "type": "单词",
-    "content": "자주",
-    "preview": "经常",
+    "content": "준비",
+    "preview": "准备",
     "bookId": 2,
     "lessonId": 1,
     "bookTitle": "初级2",
@@ -136,8 +136,8 @@
   },
   {
     "type": "单词",
-    "content": "가끔",
-    "preview": "偶尔",
+    "content": "청소",
+    "preview": "打扫，清扫",
     "bookId": 2,
     "lessonId": 1,
     "bookTitle": "初级2",
@@ -145,8 +145,71 @@
   },
   {
     "type": "单词",
-    "content": "아르바이트",
-    "preview": "打工",
+    "content": "대학원",
+    "preview": "研究生院",
+    "bookId": 2,
+    "lessonId": 1,
+    "bookTitle": "初级2",
+    "lessonTitle": "第1课"
+  },
+  {
+    "type": "单词",
+    "content": "일찍",
+    "preview": "早",
+    "bookId": 2,
+    "lessonId": 1,
+    "bookTitle": "初级2",
+    "lessonTitle": "第1课"
+  },
+  {
+    "type": "单词",
+    "content": "출근",
+    "preview": "上班",
+    "bookId": 2,
+    "lessonId": 1,
+    "bookTitle": "初级2",
+    "lessonTitle": "第1课"
+  },
+  {
+    "type": "单词",
+    "content": "가지고 오다",
+    "preview": "带来",
+    "bookId": 2,
+    "lessonId": 1,
+    "bookTitle": "初级2",
+    "lessonTitle": "第1课"
+  },
+  {
+    "type": "单词",
+    "content": "양복",
+    "preview": "西装",
+    "bookId": 2,
+    "lessonId": 1,
+    "bookTitle": "初级2",
+    "lessonTitle": "第1课"
+  },
+  {
+    "type": "单词",
+    "content": "예약하다",
+    "preview": "预约",
+    "bookId": 2,
+    "lessonId": 1,
+    "bookTitle": "初级2",
+    "lessonTitle": "第1课"
+  },
+  {
+    "type": "单词",
+    "content": "되다",
+    "preview": "成为",
+    "bookId": 2,
+    "lessonId": 1,
+    "bookTitle": "初级2",
+    "lessonTitle": "第1课"
+  },
+  {
+    "type": "单词",
+    "content": "시디플레이어",
+    "preview": "碟片播放器",
     "bookId": 2,
     "lessonId": 1,
     "bookTitle": "初级2",
@@ -279,6 +342,222 @@
     "lessonTitle": "第10课"
   },
   {
+    "type": "单词",
+    "content": "어서 오세요",
+    "preview": "欢迎光临",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "어떻게 오셨어요?",
+    "preview": "你要什么",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "찾다",
+    "preview": "找",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "글쎄요",
+    "preview": " 嗯……",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "제일",
+    "preview": "最",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "별로",
+    "preview": "不太",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "가격",
+    "preview": "价格",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "어떻게 돼요?",
+    "preview": "多少（钱）",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "목걸이",
+    "preview": "项链",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "계절",
+    "preview": "季节",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "봄",
+    "preview": "春天",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "파전",
+    "preview": "葱饼",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "사당동",
+    "preview": "舍堂洞",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "무역회사",
+    "preview": "贸易公司",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "강원도",
+    "preview": "江原道",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "속초",
+    "preview": "束草",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "유학가다",
+    "preview": "去留学",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "장갑",
+    "preview": "手套",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "슬프다",
+    "preview": "伤心",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "아까다",
+    "preview": "爱惜",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "마음에 들다",
+    "preview": "称心，满意",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "모양",
+    "preview": "模样，样子",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "특별하다",
+    "preview": "特别",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "单词",
+    "content": "사실은",
+    "preview": "其实",
+    "bookId": 2,
+    "lessonId": 10,
+    "bookTitle": "初级2",
+    "lessonTitle": "第10课"
+  },
+  {
     "type": "阅读",
     "content": "아끼는 물건이 있어요?",
     "preview": "이리나: 오늘 입은 청바지는 어디에서 사셨어요?\n야마다: 전에 여행 가서 산 건데 색도 마음에 들고 입으면 정말 편해요.\n이리나: 디자인도 좋고 입은 모양도 멋있어요.\n야마다 씨는 청바지가 몇 벌 있어요?\n야마다: 한 10벌쯤 있는데 그 중에서 제일 아끼는 청바지가 이거예요.\n이리나 씨도 아끼는 옷이 있어요?\n이리나: 아끼는 옷요? 한두 벌 있어요. 하지만 저는 옷보다 가방을 좋아해요.\n야마다: 지금 들고 있는 가방도 멋있네요.\n이리나: 이거요? 제가 직접 만든 건데 크고 가벼워서 자주 들어요.\n야마다: 정말 이걸 이리나 씨가 만들었어요?\n이리나: 네, 제가 이런 거 만드는 걸 좋아해요.\n사실은 이 목걸이도 제가 만든 거예요.",
@@ -387,6 +666,96 @@
     "lessonTitle": "第11课"
   },
   {
+    "type": "单词",
+    "content": "인사하다",
+    "preview": "问候，打招呼",
+    "bookId": 2,
+    "lessonId": 11,
+    "bookTitle": "初级2",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "单词",
+    "content": "한",
+    "preview": "大约",
+    "bookId": 2,
+    "lessonId": 11,
+    "bookTitle": "初级2",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "单词",
+    "content": "-개월",
+    "preview": "个月",
+    "bookId": 2,
+    "lessonId": 11,
+    "bookTitle": "初级2",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "单词",
+    "content": "하지만",
+    "preview": "但是",
+    "bookId": 2,
+    "lessonId": 11,
+    "bookTitle": "初级2",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "单词",
+    "content": "긴장하다",
+    "preview": "紧张",
+    "bookId": 2,
+    "lessonId": 11,
+    "bookTitle": "初级2",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "单词",
+    "content": "새",
+    "preview": "新",
+    "bookId": 2,
+    "lessonId": 11,
+    "bookTitle": "初级2",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "单词",
+    "content": "고속도로",
+    "preview": "高速公路",
+    "bookId": 2,
+    "lessonId": 11,
+    "bookTitle": "初级2",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "单词",
+    "content": "막히다",
+    "preview": "堵塞",
+    "bookId": 2,
+    "lessonId": 11,
+    "bookTitle": "初级2",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "单词",
+    "content": "평일",
+    "preview": "平日，工作日",
+    "bookId": 2,
+    "lessonId": 11,
+    "bookTitle": "初级2",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "单词",
+    "content": "연극",
+    "preview": "话剧",
+    "bookId": 2,
+    "lessonId": 11,
+    "bookTitle": "初级2",
+    "lessonTitle": "第11课"
+  },
+  {
     "type": "课文",
     "content": "이번 주에 벚꽃 축제가 시작되는데 같이 가지겠어요?",
     "preview": "这个周末樱花节就要开始了,一起去看吗?",
@@ -471,6 +840,249 @@
     "type": "语法",
     "content": "-군요",
     "preview": "表示刚得知以前不知道的事实或感叹。名词、形容词用`-군요`, 动词用`-는군요`。",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "벚꽃 축제",
+    "preview": "樱花节",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "시작되다",
+    "preview": "开始",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "꽃이 피다",
+    "preview": "开花",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "가져오다",
+    "preview": "带来",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "먼저",
+    "preview": "先",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "감상",
+    "preview": "欣赏",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "뮤지컬",
+    "preview": "音乐剧",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "런던",
+    "preview": "伦敦",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "볶음밥",
+    "preview": "炒饭",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "찜질방",
+    "preview": "汗蒸房",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "그림",
+    "preview": "画",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "그리다",
+    "preview": "画",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "사용 방법",
+    "preview": "使用方法",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "간단하다",
+    "preview": "简单",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "황사",
+    "preview": "沙尘暴",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "무덥다",
+    "preview": "炎热",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "중순",
+    "preview": "中旬",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "떠나다",
+    "preview": "离开",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "방학",
+    "preview": "放假",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "즐기다",
+    "preview": "享受",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "하늘",
+    "preview": "天空",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "단풍이 들다",
+    "preview": "枫叶变红",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "곧",
+    "preview": "将",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "찾아오다",
+    "preview": "到来",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "가정",
+    "preview": "家庭",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "김장",
+    "preview": "腌制泡菜",
+    "bookId": 2,
+    "lessonId": 12,
+    "bookTitle": "初级2",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "单词",
+    "content": "설날",
+    "preview": "春节",
     "bookId": 2,
     "lessonId": 12,
     "bookTitle": "初级2",
@@ -693,6 +1305,150 @@
     "lessonTitle": "第14课"
   },
   {
+    "type": "单词",
+    "content": "단풍",
+    "preview": "枫叶",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "오르가다",
+    "preview": "登",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "설악산",
+    "preview": "雪岳山",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "북한산",
+    "preview": "北汉山",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "맑다",
+    "preview": "晴朗",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "공기",
+    "preview": "空气",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "공휴일",
+    "preview": "公休日",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "볼어",
+    "preview": "法语",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "고장 나다",
+    "preview": "出故障",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "하루 종일",
+    "preview": "一整天",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "컬국수",
+    "preview": "刀削面",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "국물",
+    "preview": "汤水",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "군고구마",
+    "preview": "烤地瓜",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "호떡",
+    "preview": "油饼",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "찐빵",
+    "preview": "红豆沙包",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "单词",
+    "content": "향기",
+    "preview": "香气",
+    "bookId": 2,
+    "lessonId": 14,
+    "bookTitle": "初级2",
+    "lessonTitle": "第14课"
+  },
+  {
     "type": "阅读",
     "content": "이렇게 비가 오는 날에는",
     "preview": "제니: 어제도 하루 종일 비가 왔는데 오늘도 오네요.\n상우: 이렇게 비가 오는 날에는 칼국수나 파전을 먹으면 맛있는데……. 칼국수 아시지요?\n제니: 네, 알아요. 하지만 비 오는 날에 왜 그런 음식이 좋으세요?\n상우: 비가 오면 덥지 않고 시원하니까 따뜻한 국물이 먹고 싶은데, 제니 씨는 그렇지 않으세요?\n제니: 저는 잘 모르겠어요. 그런데 재미있네요. 그럼 추운 겨울에는 어떤 음식이 좋아요?\n상우: 글쎄요. 아, 길에서 파는 군고구마는 추운 겨울에 먹으면 맛있어요. 호떡이나 찐빵도 겨울에 많이 먹는데 먹어 봤어요?\n제니: 군고구마는 먹어 봤는데 호떡, 찐빵은 아직 먹어 보지 못했어요.\n상우: 그런 건 아주 추운 날에 먹으면 맛있으니까 올 겨울에는 꼭 먹어 보세요. 오늘 점심에는 칼국수나 먹으러 갈까요?\n제니: 네, 그래요. 이런 날에는 향기 좋은 커피 한 잔 마시고 싶은데…….",
@@ -804,6 +1560,87 @@
     "type": "语法",
     "content": "-(으)ㄹ 것이다",
     "preview": "第一人称作主语时表示人的意志，第三人称作主语时表示推测。词干后无收音时用`-ㄹ 것이다`, 有收音时用`-을 것이다`。",
+    "bookId": 2,
+    "lessonId": 15,
+    "bookTitle": "初级2",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "单词",
+    "content": "정말",
+    "preview": "真的",
+    "bookId": 2,
+    "lessonId": 15,
+    "bookTitle": "初级2",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "单词",
+    "content": "눈을 맞다",
+    "preview": "迎雪",
+    "bookId": 2,
+    "lessonId": 15,
+    "bookTitle": "初级2",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "单词",
+    "content": "걸어 다니다",
+    "preview": "散步",
+    "bookId": 2,
+    "lessonId": 15,
+    "bookTitle": "初级2",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "单词",
+    "content": "북쪽",
+    "preview": "北边",
+    "bookId": 2,
+    "lessonId": 15,
+    "bookTitle": "初级2",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "单词",
+    "content": "남쪽",
+    "preview": "南边",
+    "bookId": 2,
+    "lessonId": 15,
+    "bookTitle": "初级2",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "单词",
+    "content": "거의",
+    "preview": "几乎",
+    "bookId": 2,
+    "lessonId": 15,
+    "bookTitle": "初级2",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "单词",
+    "content": "초등학생",
+    "preview": "小学生",
+    "bookId": 2,
+    "lessonId": 15,
+    "bookTitle": "初级2",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "单词",
+    "content": "서비스 센터",
+    "preview": "服务中心",
+    "bookId": 2,
+    "lessonId": 15,
+    "bookTitle": "初级2",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "单词",
+    "content": "클럽",
+    "preview": "俱乐部",
     "bookId": 2,
     "lessonId": 15,
     "bookTitle": "初级2",
@@ -1242,6 +2079,141 @@
     "lessonTitle": "第19课"
   },
   {
+    "type": "单词",
+    "content": "부치다",
+    "preview": "寄",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "연말",
+    "preview": "年末",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "보통우편",
+    "preview": "普通邮件",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "특급우편",
+    "preview": "特快专递",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "-배",
+    "preview": "倍",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "정도",
+    "preview": "左右",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "내용",
+    "preview": "内容",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "올라놓다",
+    "preview": "放上面",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "마당",
+    "preview": "院子",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "젊다",
+    "preview": "年轻",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "자리",
+    "preview": "座位，位置",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "금방",
+    "preview": "马上，刚才",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "전문가",
+    "preview": "专家",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "금연",
+    "preview": "禁烟",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "单词",
+    "content": "손",
+    "preview": "手",
+    "bookId": 2,
+    "lessonId": 19,
+    "bookTitle": "初级2",
+    "lessonTitle": "第19课"
+  },
+  {
     "type": "课文",
     "content": "여보세요,",
     "preview": "喂，",
@@ -1360,8 +2332,8 @@
   },
   {
     "type": "单词",
-    "content": "오랜만",
-    "preview": "好久不见",
+    "content": "그런데요",
+    "preview": "不过，可是",
     "bookId": 2,
     "lessonId": 2,
     "bookTitle": "初级2",
@@ -1369,8 +2341,8 @@
   },
   {
     "type": "单词",
-    "content": "그동안",
-    "preview": "这段时间",
+    "content": "실례지만",
+    "preview": "失礼了，打扰一下",
     "bookId": 2,
     "lessonId": 2,
     "bookTitle": "初级2",
@@ -1378,8 +2350,8 @@
   },
   {
     "type": "单词",
-    "content": "구경하다",
-    "preview": "观光，参观",
+    "content": "죄송하다",
+    "preview": "抱歉",
     "bookId": 2,
     "lessonId": 2,
     "bookTitle": "初级2",
@@ -1387,8 +2359,8 @@
   },
   {
     "type": "单词",
-    "content": "여행",
-    "preview": "旅行",
+    "content": "몸",
+    "preview": "身体",
     "bookId": 2,
     "lessonId": 2,
     "bookTitle": "初级2",
@@ -1396,8 +2368,8 @@
   },
   {
     "type": "单词",
-    "content": "자주",
-    "preview": "经常",
+    "content": "감기에 걸리다",
+    "preview": "得感冒",
     "bookId": 2,
     "lessonId": 2,
     "bookTitle": "初级2",
@@ -1405,8 +2377,8 @@
   },
   {
     "type": "单词",
-    "content": "가끔",
-    "preview": "偶尔",
+    "content": "알겠습니다",
+    "preview": "知道了",
     "bookId": 2,
     "lessonId": 2,
     "bookTitle": "初级2",
@@ -1414,8 +2386,134 @@
   },
   {
     "type": "单词",
-    "content": "아르바이트",
-    "preview": "打工",
+    "content": "하지만",
+    "preview": "但是",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "가볍다",
+    "preview": "轻",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "무겁다",
+    "preview": "重",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "품질",
+    "preview": "品质",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "한가하다",
+    "preview": "悠闲",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "이해하다",
+    "preview": "理解",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "물어보다",
+    "preview": "问",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "고객님",
+    "preview": "顾客",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "부탁하다",
+    "preview": "拜托，请求",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "안내하다",
+    "preview": "查（号）",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "문의하다",
+    "preview": "问询，咨询",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "긴장하다",
+    "preview": "紧张",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "상담",
+    "preview": "商谈，咨询",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "저장하다",
+    "preview": "储存",
+    "bookId": 2,
+    "lessonId": 2,
+    "bookTitle": "初级2",
+    "lessonTitle": "第2课"
+  },
+  {
+    "type": "单词",
+    "content": "지역 번호",
+    "preview": "区号",
     "bookId": 2,
     "lessonId": 2,
     "bookTitle": "初级2",
@@ -1533,6 +2631,231 @@
     "type": "语法",
     "content": "-아/어지다",
     "preview": "用于形容词词干后，表示情况或程度的变化。",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "",
+    "preview": "",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "연휴",
+    "preview": "连休",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "3박4일",
+    "preview": "四天三夜",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "패키지여행",
+    "preview": "跟团游",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "관광 코스",
+    "preview": "观光路线",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "굉장히",
+    "preview": "非常，相当",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "떠나다",
+    "preview": "出去",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "관람객",
+    "preview": "游客",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "옛날",
+    "preview": "从前，过去",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "빠르다",
+    "preview": "快",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "스웨터",
+    "preview": "毛衣",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "놀이동산",
+    "preview": "游乐园",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "자유이용권",
+    "preview": "通票",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "돌다",
+    "preview": "转",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "지구",
+    "preview": "地球",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "마을",
+    "preview": "社区",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "지나가다",
+    "preview": "过",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "놀이 기구",
+    "preview": "玩具",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "달리다",
+    "preview": "行驶",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "명허증",
+    "preview": "驾照",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "소리 지르다",
+    "preview": "喊叫",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "목",
+    "preview": "嗓子",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "호랑이",
+    "preview": "老虎",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "사자",
+    "preview": "狮子",
+    "bookId": 2,
+    "lessonId": 20,
+    "bookTitle": "初级2",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "单词",
+    "content": "물개",
+    "preview": "海狗",
     "bookId": 2,
     "lessonId": 20,
     "bookTitle": "初级2",
@@ -1872,6 +3195,114 @@
     "lessonTitle": "第23课"
   },
   {
+    "type": "单词",
+    "content": "모양",
+    "preview": "样子，款式",
+    "bookId": 2,
+    "lessonId": 23,
+    "bookTitle": "初级2",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "单词",
+    "content": "고르다",
+    "preview": "选择",
+    "bookId": 2,
+    "lessonId": 23,
+    "bookTitle": "初级2",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "单词",
+    "content": "스타일",
+    "preview": "风格",
+    "bookId": 2,
+    "lessonId": 23,
+    "bookTitle": "初级2",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "单词",
+    "content": "마음에 들다",
+    "preview": "称心，满意",
+    "bookId": 2,
+    "lessonId": 23,
+    "bookTitle": "初级2",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "单词",
+    "content": "앞머리",
+    "preview": "刘海",
+    "bookId": 2,
+    "lessonId": 23,
+    "bookTitle": "初级2",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "单词",
+    "content": "다 됐다",
+    "preview": "都好了",
+    "bookId": 2,
+    "lessonId": 23,
+    "bookTitle": "初级2",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "单词",
+    "content": "이렇다",
+    "preview": "这样",
+    "bookId": 2,
+    "lessonId": 23,
+    "bookTitle": "初级2",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "单词",
+    "content": "이상하다",
+    "preview": "奇怪",
+    "bookId": 2,
+    "lessonId": 23,
+    "bookTitle": "初级2",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "单词",
+    "content": "배가 부르다",
+    "preview": "肚子饱",
+    "bookId": 2,
+    "lessonId": 23,
+    "bookTitle": "初级2",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "单词",
+    "content": "노래를 부르다",
+    "preview": "唱歌",
+    "bookId": 2,
+    "lessonId": 23,
+    "bookTitle": "初级2",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "单词",
+    "content": "싱겁다",
+    "preview": "淡",
+    "bookId": 2,
+    "lessonId": 23,
+    "bookTitle": "初级2",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "单词",
+    "content": "애인",
+    "preview": "爱人，恋人",
+    "bookId": 2,
+    "lessonId": 23,
+    "bookTitle": "初级2",
+    "lessonTitle": "第23课"
+  },
+  {
     "type": "课文",
     "content": "어제 정말 죄송했어요.갑자기 약속을 취소해서...",
     "preview": "昨天真的很抱歉。突然取消了约会……",
@@ -2106,6 +3537,96 @@
     "lessonTitle": "第25课"
   },
   {
+    "type": "单词",
+    "content": "저희",
+    "preview": "我们（谦称）",
+    "bookId": 2,
+    "lessonId": 25,
+    "bookTitle": "初级2",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "单词",
+    "content": "초대장",
+    "preview": "邀请函",
+    "bookId": 2,
+    "lessonId": 25,
+    "bookTitle": "初级2",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "单词",
+    "content": "어머",
+    "preview": "哎呀",
+    "bookId": 2,
+    "lessonId": 25,
+    "bookTitle": "初级2",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "单词",
+    "content": "알아보다",
+    "preview": "打听",
+    "bookId": 2,
+    "lessonId": 25,
+    "bookTitle": "初级2",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "单词",
+    "content": "원서",
+    "preview": "志愿书",
+    "bookId": 2,
+    "lessonId": 25,
+    "bookTitle": "初级2",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "单词",
+    "content": "졸업식",
+    "preview": "毕业典礼",
+    "bookId": 2,
+    "lessonId": 25,
+    "bookTitle": "初级2",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "单词",
+    "content": "공사",
+    "preview": "施工",
+    "bookId": 2,
+    "lessonId": 25,
+    "bookTitle": "初级2",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "单词",
+    "content": "통화",
+    "preview": "通话",
+    "bookId": 2,
+    "lessonId": 25,
+    "bookTitle": "初级2",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "单词",
+    "content": "외출",
+    "preview": "外出",
+    "bookId": 2,
+    "lessonId": 25,
+    "bookTitle": "初级2",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "单词",
+    "content": "조사하다",
+    "preview": "调查",
+    "bookId": 2,
+    "lessonId": 25,
+    "bookTitle": "初级2",
+    "lessonTitle": "第25课"
+  },
+  {
     "type": "课文",
     "content": "제 컴퓨터가 고장 난 것 같아요.",
     "preview": "我的电脑好像坏了。",
@@ -2241,6 +3762,141 @@
     "lessonTitle": "第26课"
   },
   {
+    "type": "单词",
+    "content": "고치다",
+    "preview": "修理",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "큰일 나다",
+    "preview": "出大事",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "학기말",
+    "preview": "期末",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "리포트",
+    "preview": "报告",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "노트북",
+    "preview": "笔记本电脑",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "익숙하다",
+    "preview": "熟悉，习惯",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "짐",
+    "preview": "行李",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "정리하다",
+    "preview": "整理",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "관리인",
+    "preview": "管理员",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "일반",
+    "preview": "一般",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "녹색",
+    "preview": "绿色",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "통",
+    "preview": "桶",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "따로",
+    "preview": "另外",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "분리하다",
+    "preview": "分类",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "单词",
+    "content": "재활용품",
+    "preview": "可回收物品",
+    "bookId": 2,
+    "lessonId": 26,
+    "bookTitle": "初级2",
+    "lessonTitle": "第26课"
+  },
+  {
     "type": "阅读",
     "content": "같이 버리면 안 되지요?",
     "preview": "제 이름은 리에입니다. 1년 전에 한국에 왔어요. 처음에는 “안녕하세요?”도 말할 줄 모르고 `가, 나, 다, 라`도 읽을 줄 몰라서 많이 힘들었어요. 하지만 한국말을 공부한 후에는 한국 생활도 재미있고 많이 익숙해졌어요. 지난주에는 원룸으로 이사를 했습니다. 짐을 정리한 후 버릴 것들을 가지고 나왔습니다. 그런데 그냥 버리면 안 될 것 같아서 관리인 아저씨에게 물어봤어요.\n리 에: 안녕하세요? 이사를 와서 쓰레기가 좀 많은데…….\n아저씨: 아, 3층에 이사 오신 분이시죠? 일반 쓰레기는 저기 녹색 통에 버리세요.\n리 에: 음식 쓰레기는 다른 쓰레기와 같이 버리면 안 되지요?\n아저씨: 네, 음식 쓰레기는 그 옆에 있는 빨간 통에 따로 버리세요.\n리 에: 이 종이 박스들은 오늘 버려도 돼요?\n아저씨: 아니요, 재활용품은 잘 분리하셔서 매주 토요일에 버리셔야 합니다.\n리 에: 네, 알겠습니다. 고맙습니다.",
@@ -2340,6 +3996,96 @@
     "lessonTitle": "第27课"
   },
   {
+    "type": "单词",
+    "content": "옮기다",
+    "preview": "搬",
+    "bookId": 2,
+    "lessonId": 27,
+    "bookTitle": "初级2",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "单词",
+    "content": "구하다",
+    "preview": "找",
+    "bookId": 2,
+    "lessonId": 27,
+    "bookTitle": "初级2",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "单词",
+    "content": "걱정",
+    "preview": "担心",
+    "bookId": 2,
+    "lessonId": 27,
+    "bookTitle": "初级2",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "单词",
+    "content": "사이트",
+    "preview": "网站",
+    "bookId": 2,
+    "lessonId": 27,
+    "bookTitle": "初级2",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "单词",
+    "content": "방법",
+    "preview": "方法",
+    "bookId": 2,
+    "lessonId": 27,
+    "bookTitle": "初级2",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "单词",
+    "content": "설명서",
+    "preview": "说明书",
+    "bookId": 2,
+    "lessonId": 27,
+    "bookTitle": "初级2",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "单词",
+    "content": "마르다",
+    "preview": "干",
+    "bookId": 2,
+    "lessonId": 27,
+    "bookTitle": "初级2",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "单词",
+    "content": "사업",
+    "preview": "事业",
+    "bookId": 2,
+    "lessonId": 27,
+    "bookTitle": "初级2",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "单词",
+    "content": "불편하다",
+    "preview": "不便",
+    "bookId": 2,
+    "lessonId": 27,
+    "bookTitle": "初级2",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "单词",
+    "content": "안내서",
+    "preview": "指南",
+    "bookId": 2,
+    "lessonId": 27,
+    "bookTitle": "初级2",
+    "lessonTitle": "第27课"
+  },
+  {
     "type": "课文",
     "content": "다음 주에 귀국하시지요?",
     "preview": "下周回国吧?",
@@ -2424,6 +4170,141 @@
     "type": "语法",
     "content": "-아/어 가다/오다",
     "preview": "用于动词词干后，表示并同某一事情的结果，移动场地。",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "귀국하다",
+    "preview": "回国",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "예약하다",
+    "preview": "预约",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "짐",
+    "preview": "",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "헤어지다",
+    "preview": "分开",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "섭섭하다",
+    "preview": "难舍",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "벌써",
+    "preview": "已经",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "태어나다",
+    "preview": "诞生",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "관심",
+    "preview": "关心",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "송별회",
+    "preview": "送别会",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "신세지다",
+    "preview": "承蒙关照",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "전부",
+    "preview": "全部",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "3단 서랍장",
+    "preview": "三层抽屉柜",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "고생",
+    "preview": "艰苦",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "추얼",
+    "preview": "回忆",
+    "bookId": 2,
+    "lessonId": 28,
+    "bookTitle": "初级2",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "单词",
+    "content": "남다",
+    "preview": "剩下",
     "bookId": 2,
     "lessonId": 28,
     "bookTitle": "初级2",
@@ -2655,6 +4536,132 @@
     "lessonTitle": "第3课"
   },
   {
+    "type": "单词",
+    "content": "한번",
+    "preview": "一次",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "한잔하다",
+    "preview": "喝一杯",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "이따가",
+    "preview": "等会儿",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "더",
+    "preview": "更，再",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "물어보다",
+    "preview": "问",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "정하다",
+    "preview": "决定",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "소주",
+    "preview": "烧酒",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "생일잔치",
+    "preview": "生日宴会",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "계속",
+    "preview": "继续",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "편하다",
+    "preview": "方便，舒服",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "버스정류장",
+    "preview": "公交车站",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "일반전화",
+    "preview": "固定电话",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "요금",
+    "preview": "话费",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
+    "type": "单词",
+    "content": "두껍다",
+    "preview": "厚",
+    "bookId": 2,
+    "lessonId": 3,
+    "bookTitle": "初级2",
+    "lessonTitle": "第3课"
+  },
+  {
     "type": "课文",
     "content": "초대해 주셔서 감사합니다.",
     "preview": "谢谢你的招待。",
@@ -2775,6 +4782,258 @@
     "type": "语法",
     "content": "-는 데",
     "preview": "表示“情况”或“事情”的不完全名词`데`后常接`시간이 걸리다`或`돈이 들다`等，表示做某种事情时，花费时间和金钱的意思。",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "그냥",
+    "preview": "就那样",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "(음식을) 차리다",
+    "preview": "摆（饭菜）",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "된장찌개",
+    "preview": "大酱汤",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "콩",
+    "preview": "豆子",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "담그다",
+    "preview": "腌制",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "사 먹다",
+    "preview": "买着吃",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "하루",
+    "preview": "一天",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "이틀",
+    "preview": "两天",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "다녀오다",
+    "preview": "去...之后回来",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "염색하다",
+    "preview": "染色",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "밀가루",
+    "preview": "面粉",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "가죽",
+    "preview": "皮",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "플라스틱",
+    "preview": "塑料",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "얼음",
+    "preview": "冰",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "실크",
+    "preview": "丝绸",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "스카프",
+    "preview": "围巾",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "녹즙",
+    "preview": "绿汁",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "대표적",
+    "preview": "代表性的",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "식탁",
+    "preview": "餐桌",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "항상",
+    "preview": "总是",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "배추김치",
+    "preview": "白菜泡菜",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "깍두기",
+    "preview": "萝卜泡菜",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "파김치",
+    "preview": "葱泡菜",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "물김치",
+    "preview": "酸萝卜泡菜",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "이용하다",
+    "preview": "用",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "김치전",
+    "preview": "泡菜饼",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "얼마 전",
+    "preview": "不久前",
+    "bookId": 2,
+    "lessonId": 30,
+    "bookTitle": "初级2",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "单词",
+    "content": "서양",
+    "preview": "西洋",
     "bookId": 2,
     "lessonId": 30,
     "bookTitle": "初级2",
@@ -2916,6 +5175,177 @@
     "lessonTitle": "第4课"
   },
   {
+    "type": "单词",
+    "content": "녹차",
+    "preview": "绿茶",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "시원하다",
+    "preview": "冰爽",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "어디 봅시다",
+    "preview": "我看看",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "유자차",
+    "preview": "柚子茶",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "여기요",
+    "preview": "劳驾",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "따뜻하다",
+    "preview": "温暖",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "뜨겁다",
+    "preview": "热",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "길다",
+    "preview": "长",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "교통",
+    "preview": "交通",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "곳",
+    "preview": "地方",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "-석",
+    "preview": "座，席",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "전망",
+    "preview": "景观",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "전통",
+    "preview": "传统",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "찻집",
+    "preview": "茶馆",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "향",
+    "preview": "香气",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "정말",
+    "preview": "真的",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "분위기",
+    "preview": "气氛",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "느끼다",
+    "preview": "感觉",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "单词",
+    "content": "약하다",
+    "preview": "虚弱",
+    "bookId": 2,
+    "lessonId": 4,
+    "bookTitle": "初级2",
+    "lessonTitle": "第4课"
+  },
+  {
     "type": "阅读",
     "content": "한국의 전통 차",
     "preview": "저는 한국 전통 차를 좋아해서 자주 전통 찻집에 갑니다.\n한국의 전통 차는 종류도 많고 맛도 다 다릅니다. 그리고 건강에 좋습니다.\n따뜻한 유자차나 모과차, 생강차는 추운 겨울에 마시면 좋습니다. 특히 유자차와 모과차는 향이 아주 좋고 비타민C가 많은 차입니다. 그래서 감기에 걸리면 많이 마십니다.더운 여름에는 따뜻한 차보다 시원한 녹차나 오미자차를 마십니다. 맛이 깨끗하고 정말 시원합니다. 날씨가 시원한 가을에는 국화차를 마십니다. 가을 분위기를 느낄 수 있습니다. 몸이 약한 사람은 인삼차나 대추차를 마시면 좋습니다.\n전통 찻집에 가면 이런 차들을 마시면서 즐거운 시간을 보낼 수 있습니다. 여러분도 저와 같이 한국 전통 차를 마시러 갈까요?",
@@ -3033,6 +5463,105 @@
     "lessonTitle": "第5课"
   },
   {
+    "type": "单词",
+    "content": "주문하다",
+    "preview": "点餐，订购",
+    "bookId": 2,
+    "lessonId": 5,
+    "bookTitle": "初级2",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "单词",
+    "content": "시키다",
+    "preview": "点（餐），让（做）",
+    "bookId": 2,
+    "lessonId": 5,
+    "bookTitle": "初级2",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "单词",
+    "content": "아직",
+    "preview": "还，仍然",
+    "bookId": 2,
+    "lessonId": 5,
+    "bookTitle": "初级2",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "单词",
+    "content": "삼겹살",
+    "preview": "五花肉",
+    "bookId": 2,
+    "lessonId": 5,
+    "bookTitle": "初级2",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "单词",
+    "content": "모두",
+    "preview": "全部",
+    "bookId": 2,
+    "lessonId": 5,
+    "bookTitle": "初级2",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "单词",
+    "content": "아주머니",
+    "preview": "阿姨",
+    "bookId": 2,
+    "lessonId": 5,
+    "bookTitle": "初级2",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "单词",
+    "content": "운동복",
+    "preview": "运动服",
+    "bookId": 2,
+    "lessonId": 5,
+    "bookTitle": "初级2",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "单词",
+    "content": "안내",
+    "preview": "指南",
+    "bookId": 2,
+    "lessonId": 5,
+    "bookTitle": "初级2",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "单词",
+    "content": "방송",
+    "preview": "广播",
+    "bookId": 2,
+    "lessonId": 5,
+    "bookTitle": "初级2",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "单词",
+    "content": "동네",
+    "preview": "社区",
+    "bookId": 2,
+    "lessonId": 5,
+    "bookTitle": "初级2",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "单词",
+    "content": "다니다",
+    "preview": "上（学/班），来往",
+    "bookId": 2,
+    "lessonId": 5,
+    "bookTitle": "初级2",
+    "lessonTitle": "第5课"
+  },
+  {
     "type": "课文",
     "content": "오들 점심은 사무실에서 중국 음식을 시켜 먹는 게어때요?",
     "preview": "今天午饭在办公室叫外卖点中国菜怎么样?",
@@ -3132,6 +5661,195 @@
     "lessonTitle": "第6课"
   },
   {
+    "type": "单词",
+    "content": "시켜 먹다",
+    "preview": "叫外卖吃",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "탕수육",
+    "preview": "糖醋里脊",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "또",
+    "preview": "还",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "빌리다",
+    "preview": "借",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "명함",
+    "preview": "名片",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "나오다",
+    "preview": "出演",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "사귀다",
+    "preview": "交往",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "갈아입다",
+    "preview": "换（衣服）",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "예매하다",
+    "preview": "预购（票）",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "자취하다",
+    "preview": "自己做饭",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "춘천",
+    "preview": "春川",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "기간",
+    "preview": "期间",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "가능하다",
+    "preview": "可能的话",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "삼각 김밥",
+    "preview": "三角紫菜包饭",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "동료",
+    "preview": "同事",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "찾아가다",
+    "preview": "去找",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "매운탕",
+    "preview": "辣鱼汤",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "반찬",
+    "preview": "小菜",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "국",
+    "preview": "汤",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "끓이다",
+    "preview": "煮，烧",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "单词",
+    "content": "그립다",
+    "preview": "想念",
+    "bookId": 2,
+    "lessonId": 6,
+    "bookTitle": "初级2",
+    "lessonTitle": "第6课"
+  },
+  {
     "type": "课文",
     "content": "어머니가 입고 계신 옷이 중국 전통 의상이에요?",
     "preview": "妈妈穿的衣服是中国传统服装吗?",
@@ -3216,6 +5934,204 @@
     "type": "语法",
     "content": "-요",
     "preview": "用于名词，副词，连接词尾后表示尊敬的补助词。虽然是敬语，但不是严格意义上的格式用语，所以对长辈说话时尽量不要使用。",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "전통 의상",
+    "preview": "传统服装",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "빨갛다",
+    "preview": "红",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "참",
+    "preview": "真，很",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "그럼요",
+    "preview": "当然了",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "-벌",
+    "preview": "件",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "가지고 있다",
+    "preview": "有",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "모습",
+    "preview": "样子",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "쓰다",
+    "preview": "戴（帽子/眼镜）",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "귀걸이",
+    "preview": "耳环",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "신다",
+    "preview": "穿（鞋/袜）",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "끼다",
+    "preview": "戴（手套/戒指）",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "매다",
+    "preview": "系（领带）",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "들다",
+    "preview": "提，拿",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "까맣다",
+    "preview": "黑",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "색",
+    "preview": "颜色",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "파랗다",
+    "preview": "蓝",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "노랗다",
+    "preview": "黄",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "하얗다",
+    "preview": "白",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "신랑",
+    "preview": "新郎",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "장미",
+    "preview": "玫瑰",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "먼저",
+    "preview": "先",
+    "bookId": 2,
+    "lessonId": 7,
+    "bookTitle": "初级2",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "单词",
+    "content": "연락",
+    "preview": "联系",
     "bookId": 2,
     "lessonId": 7,
     "bookTitle": "初级2",
@@ -3324,6 +6240,213 @@
     "type": "语法",
     "content": "-아/어서",
     "preview": "与动词词干结合，表示两个动作的先后关系。前一动作已结束的状态在后一动作进行时仍持续着。与表示“理由”的`-아/어서`(参照2课语法1)不同，没有文章上的制约。",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "전자 상가",
+    "preview": "电子商场",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "갈아타다",
+    "preview": "换乘",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "내리다",
+    "preview": "下（车）",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "다르다",
+    "preview": "别",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "곳",
+    "preview": "地方",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "들어으다",
+    "preview": "进来",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "출구",
+    "preview": "出口",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "똑바로",
+    "preview": "笔直地",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "걸어가다",
+    "preview": "走着去",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "부치다",
+    "preview": "寄（信）",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "나가다",
+    "preview": "出去",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "씻다",
+    "preview": "洗",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "앉다",
+    "preview": "坐",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "맛보다",
+    "preview": "品尝",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "브런치",
+    "preview": "早午餐",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "태국",
+    "preview": "泰国",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "터키",
+    "preview": "土耳其",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "파키스탄",
+    "preview": "巴基斯坦",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "다양하다",
+    "preview": "繁多",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "넣다",
+    "preview": "넣다",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "-쯤",
+    "preview": "大概",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "직접",
+    "preview": "直接",
+    "bookId": 2,
+    "lessonId": 8,
+    "bookTitle": "初级2",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "单词",
+    "content": "그리스",
+    "preview": "希腊",
     "bookId": 2,
     "lessonId": 8,
     "bookTitle": "初级2",
@@ -3441,6 +6564,96 @@
     "type": "语法",
     "content": "-밖에",
     "preview": "表示范围限制的助词，通常用于否定形式。",
+    "bookId": 2,
+    "lessonId": 9,
+    "bookTitle": "初级2",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "单词",
+    "content": "결혼식",
+    "preview": "婚礼",
+    "bookId": 2,
+    "lessonId": 9,
+    "bookTitle": "初级2",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "单词",
+    "content": "축의금",
+    "preview": "礼金",
+    "bookId": 2,
+    "lessonId": 9,
+    "bookTitle": "初级2",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "单词",
+    "content": "선배",
+    "preview": "前辈",
+    "bookId": 2,
+    "lessonId": 9,
+    "bookTitle": "初级2",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "单词",
+    "content": "식",
+    "preview": "仪式",
+    "bookId": 2,
+    "lessonId": 9,
+    "bookTitle": "初级2",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "单词",
+    "content": "깎다",
+    "preview": "还价",
+    "bookId": 2,
+    "lessonId": 9,
+    "bookTitle": "初级2",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "单词",
+    "content": "지각하다",
+    "preview": "迟到",
+    "bookId": 2,
+    "lessonId": 9,
+    "bookTitle": "初级2",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "单词",
+    "content": "미용실",
+    "preview": "理发店",
+    "bookId": 2,
+    "lessonId": 9,
+    "bookTitle": "初级2",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "单词",
+    "content": "거짓말",
+    "preview": "谎话",
+    "bookId": 2,
+    "lessonId": 9,
+    "bookTitle": "初级2",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "单词",
+    "content": "막걸리",
+    "preview": "稠酒",
+    "bookId": 2,
+    "lessonId": 9,
+    "bookTitle": "初级2",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "单词",
+    "content": "스노보드",
+    "preview": "滑雪板",
     "bookId": 2,
     "lessonId": 9,
     "bookTitle": "初级2",

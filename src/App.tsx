@@ -1,5 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
-import { ChevronLeft, Play, Pause, Book as BookIcon, Settings, ChevronDown, ChevronUp, Eye } from 'lucide-react';
+import { ChevronLeft, Play, Pause, Book as BookIcon, ChevronDown, ChevronUp, Eye } from 'lucide-react';
 import type { Book } from './data/books';
 import SettingsModal from './components/SettingsModal';
 import SearchBar from './components/SearchBar';
@@ -141,8 +141,6 @@ const App = () => {
   const [playingSentenceIdx, setPlayingSentenceIdx] = useState<number | null>(null);
   const [playingWordIdx, setPlayingWordIdx] = useState<number | null>(null);
   const [books, setBooks] = useState<Book[]>([]);
-  const [booksLoading, setBooksLoading] = useState(false);
-  const [booksError, setBooksError] = useState<string | null>(null);
   // Toast状态
   const [toast, setToast] = useState<{ show: boolean; message: string }>({ show: false, message: '' });
   // 全文播放控制
@@ -176,13 +174,13 @@ const App = () => {
 
   // 加载books.json
   useEffect(() => {
-    setBooksLoading(true);
-    setBooksError(null);
+    setLoading(true);
+    setError(null);
     fetch('/resources/data/books.json')
       .then(r => r.json())
       .then(setBooks)
-      .catch(() => setBooksError('课程数据加载失败'))
-      .finally(() => setBooksLoading(false));
+      .catch(() => setError('课程数据加载失败'))
+      .finally(() => setLoading(false));
   }, []);
 
   // 加载lessons.json
@@ -516,7 +514,7 @@ const App = () => {
                     'bg-gray-100 text-gray-500'}
                 `}
                 style={{ borderRight: '1px solid #e5e7eb', height: '40px' }}
-                onClick={e => {
+                onClick={() => {
                   // 弹出下拉菜单或循环切换
                   const idx = SEARCH_TYPES.findIndex(t => t.value === searchType);
                   const next = SEARCH_TYPES[(idx + 1) % SEARCH_TYPES.length];

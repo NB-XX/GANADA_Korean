@@ -1,11 +1,130 @@
 {
   "words": [
-    { "korean": "오랜만", "chinese": "好久不见", "etymology": "오래+만", "audio": "resources/audio/lessons/book1/lesson1/words/word1.mp3" },
-    { "korean": "그동안", "chinese": "这段时间", "etymology": "그+동안", "audio": "resources/audio/lessons/book1/lesson1/words/word2.mp3" },
-    { "korean": "구경하다", "chinese": "观光，参观", "etymology": "구경+하다", "audio": "resources/audio/lessons/book1/lesson1/words/word3.mp3" },
-    { "korean": "여행", "chinese": "旅行", "etymology": "旅行", "audio": "resources/audio/lessons/book1/lesson1/words/word4.mp3" },
-    { "korean": "자주", "chinese": "经常", "etymology": "自主", "audio": "resources/audio/lessons/book1/lesson1/words/word5.mp3" },
-    { "korean": "가끔", "chinese": "偶尔", "etymology": "가끔", "audio": "resources/audio/lessons/book1/lesson1/words/word6.mp3" },
-    { "korean": "아르바이트", "chinese": "打工", "etymology": "Arbeit(德)", "audio": "resources/audio/lessons/book1/lesson1/words/word7.mp3" }
+    {
+      "korean": "그런데요",
+      "chinese": "不过，可是",
+      "etymology": "그렇다 는데요",
+      "audio": "resources/audio/lessons/book2/lesson2/words/1.mp3"
+    },
+    {
+      "korean": "실례지만",
+      "chinese": "失礼了，打扰一下",
+      "etymology": "失禮 지만",
+      "audio": "resources/audio/lessons/book2/lesson2/words/2.mp3"
+    },
+    {
+      "korean": "죄송하다",
+      "chinese": "抱歉",
+      "etymology": "罪悚 하다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/3.mp3"
+    },
+    {
+      "korean": "몸",
+      "chinese": "身体",
+      "etymology": "몸",
+      "audio": "resources/audio/lessons/book2/lesson2/words/4.mp3"
+    },
+    {
+      "korean": "감기에 걸리다",
+      "chinese": "得感冒",
+      "etymology": "感氣에 걸리다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/5.mp3"
+    },
+    {
+      "korean": "알겠습니다",
+      "chinese": "知道了",
+      "etymology": "알다 겠 습니다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/6.mp3"
+    },
+    {
+      "korean": "하지만",
+      "chinese": "但是",
+      "etymology": "하다 지만",
+      "audio": "resources/audio/lessons/book2/lesson2/words/7.mp3"
+    },
+    {
+      "korean": "가볍다",
+      "chinese": "轻",
+      "etymology": "가볍다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/8.mp3"
+    },
+    {
+      "korean": "무겁다",
+      "chinese": "重",
+      "etymology": "무겁다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/9.mp3"
+    },
+    {
+      "korean": "품질",
+      "chinese": "品质",
+      "etymology": "品質",
+      "audio": "resources/audio/lessons/book2/lesson2/words/10.mp3"
+    },
+    {
+      "korean": "한가하다",
+      "chinese": "悠闲",
+      "etymology": "閑暇 하다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/11.mp3"
+    },
+    {
+      "korean": "이해하다",
+      "chinese": "理解",
+      "etymology": "理解 하다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/12.mp3"
+    },
+    {
+      "korean": "물어보다",
+      "chinese": "问",
+      "etymology": "묻다 보다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/13.mp3"
+    },
+    {
+      "korean": "고객님",
+      "chinese": "顾客",
+      "etymology": "顧客 님",
+      "audio": "resources/audio/lessons/book2/lesson2/words/14.mp3"
+    },
+    {
+      "korean": "부탁하다",
+      "chinese": "拜托，请求",
+      "etymology": "付託 하다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/15.mp3"
+    },
+    {
+      "korean": "안내하다",
+      "chinese": "查（号）",
+      "etymology": "案內 하다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/16.mp3"
+    },
+    {
+      "korean": "문의하다",
+      "chinese": "问询，咨询",
+      "etymology": "問議 하다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/17.mp3"
+    },
+    {
+      "korean": "긴장하다",
+      "chinese": "紧张",
+      "etymology": "緊張 하다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/18.mp3"
+    },
+    {
+      "korean": "상담",
+      "chinese": "商谈，咨询",
+      "etymology": "相談",
+      "audio": "resources/audio/lessons/book2/lesson2/words/19.mp3"
+    },
+    {
+      "korean": "저장하다",
+      "chinese": "储存",
+      "etymology": "貯藏 하다",
+      "audio": "resources/audio/lessons/book2/lesson2/words/20.mp3"
+    },
+    {
+      "korean": "지역 번호",
+      "chinese": "区号",
+      "etymology": "地域 番號",
+      "audio": "resources/audio/lessons/book2/lesson2/words/21.mp3"
+    }
   ]
 }

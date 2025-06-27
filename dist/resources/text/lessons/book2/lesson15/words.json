@@ -1,0 +1,58 @@
+{
+  "words": [
+    {
+      "korean": "정말",
+      "chinese": "真的",
+      "etymology": "正",
+      "audio": "resources/audio/lessons/book2/lesson15/words/1.mp3"
+    },
+    {
+      "korean": "눈을 맞다",
+      "chinese": "迎雪",
+      "etymology": "눈 맞다",
+      "audio": "resources/audio/lessons/book2/lesson15/words/2.mp3"
+    },
+    {
+      "korean": "걸어 다니다",
+      "chinese": "散步",
+      "etymology": "걷다 다니다",
+      "audio": "resources/audio/lessons/book2/lesson15/words/3.mp3"
+    },
+    {
+      "korean": "북쪽",
+      "chinese": "北边",
+      "etymology": "北 쪽",
+      "audio": "resources/audio/lessons/book2/lesson15/words/4.mp3"
+    },
+    {
+      "korean": "남쪽",
+      "chinese": "南边",
+      "etymology": "南 쪽",
+      "audio": "resources/audio/lessons/book2/lesson15/words/5.mp3"
+    },
+    {
+      "korean": "거의",
+      "chinese": "几乎",
+      "etymology": "거의",
+      "audio": "resources/audio/lessons/book2/lesson15/words/6.mp3"
+    },
+    {
+      "korean": "초등학생",
+      "chinese": "小学生",
+      "etymology": "初等學生",
+      "audio": "resources/audio/lessons/book2/lesson15/words/7.mp3"
+    },
+    {
+      "korean": "서비스 센터",
+      "chinese": "服务中心",
+      "etymology": "Service Center(Eng)",
+      "audio": "resources/audio/lessons/book2/lesson15/words/8.mp3"
+    },
+    {
+      "korean": "클럽",
+      "chinese": "俱乐部",
+      "etymology": "Club(Eng)",
+      "audio": "resources/audio/lessons/book2/lesson15/words/9.mp3"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "words": [
+    {
+      "korean": "결혼식",
+      "chinese": "婚礼",
+      "etymology": "結婚式",
+      "audio": "resources/audio/lessons/book2/lesson9/words/1.mp3"
+    },
+    {
+      "korean": "축의금",
+      "chinese": "礼金",
+      "etymology": "祝儀金",
+      "audio": "resources/audio/lessons/book2/lesson9/words/2.mp3"
+    },
+    {
+      "korean": "선배",
+      "chinese": "前辈",
+      "etymology": "先輩",
+      "audio": "resources/audio/lessons/book2/lesson9/words/3.mp3"
+    },
+    {
+      "korean": "식",
+      "chinese": "仪式",
+      "etymology": "式",
+      "audio": "resources/audio/lessons/book2/lesson9/words/4.mp3"
+    },
+    {
+      "korean": "깎다",
+      "chinese": "还价",
+      "etymology": "깎다",
+      "audio": "resources/audio/lessons/book2/lesson9/words/5.mp3"
+    },
+    {
+      "korean": "지각하다",
+      "chinese": "迟到",
+      "etymology": "遲刻 하다",
+      "audio": "resources/audio/lessons/book2/lesson9/words/6.mp3"
+    },
+    {
+      "korean": "미용실",
+      "chinese": "理发店",
+      "etymology": "美容室",
+      "audio": "resources/audio/lessons/book2/lesson9/words/7.mp3"
+    },
+    {
+      "korean": "거짓말",
+      "chinese": "谎话",
+      "etymology": "거짓 말",
+      "audio": "resources/audio/lessons/book2/lesson9/words/8.mp3"
+    },
+    {
+      "korean": "막걸리",
+      "chinese": "稠酒",
+      "etymology": "",
+      "audio": "resources/audio/lessons/book2/lesson9/words/9.mp3"
+    },
+    {
+      "korean": "스노보드",
+      "chinese": "滑雪板",
+      "etymology": "Snowboard(Eng)",
+      "audio": "resources/audio/lessons/book2/lesson9/words/10.mp3"
+    }
+  ]
+}

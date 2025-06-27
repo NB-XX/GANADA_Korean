@@ -4,55 +4,55 @@
       "speaker": "리밍",
       "korean": "이번 주에 벚꽃 축제가 시작되는데 같이 가지겠어요?",
       "chinese": "这个周末樱花节就要开始了,一起去看吗?",
-      "audio": "resources/audio/lessons/book1/lesson12/dialogue/1.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/1.mp3"
     },
     {
       "speaker": "이리나",
       "korean": "벚꽃 축제요?",
       "chinese": "樱花节?",
-      "audio": "resources/audio/lessons/book1/lesson12/dialogue/2.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/2.mp3"
     },
     {
       "speaker": "이리나",
       "korean": "가 본 적이 없는데 재미있어요?",
       "chinese": "没有去过,好玩儿吗?",
-      "audio": "resources/audio/lessons/book1/lesson12/dialogue/3.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/3.mp3"
     },
     {
       "speaker": "리밍",
       "korean": "여러 가지 구경도 하고 맛있는 것도 먹고 재미있어요.",
       "chinese": "能欣赏美景,还能吃好吃的,挺好玩的。",
-      "audio": "resources/audio/lessons/book1/lesson12/dialogue/4.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/4.mp3"
     },
     {
       "speaker": "이리나",
       "korean": "그럼 이번 주말에 가 볼까요?",
       "chinese": "那这个周末去看看?",
-      "audio": "resources/audio/lessons/book1/lesson12/dialogue/5.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/5.mp3"
     },
     {
       "speaker": "(벚꽃 축제에서)",
       "korean": "",
       "chinese": "",
-      "audio": "resources/audio/lessons/book1/lesson12/dialogue/6.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/6.mp3"
     },
     {
       "speaker": "리밍",
       "korean": "벚꽃이 정말 많이 피었군요!카메라 가져왔는데 사진 한 장 찍을까요?",
       "chinese": "真是樱花盛开呀!我带了照相机,拍张照片吧?",
-      "audio": "resources/audio/lessons/book1/lesson12/dialogue/7.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/7.mp3"
     },
     {
       "speaker": "이리나",
       "korean": "그래요.",
       "chinese": "好的。",
-      "audio": "resources/audio/lessons/book1/lesson12/dialogue/8.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/8.mp3"
     },
     {
       "speaker": "이리나",
       "korean": "먼저 여기서 사진 한 장 찍고 저기 가서 맥주 한잔해요.",
       "chinese": "先在这儿拍一张,然后去那边喝一杯酒吧。",
-      "audio": "resources/audio/lessons/book1/lesson12/dialogue/9.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/9.mp3"
     }
   ]
 }

@@ -1,0 +1,76 @@
+{
+  "words": [
+    {
+      "korean": "장마",
+      "chinese": "梅雨",
+      "etymology": "",
+      "audio": "resources/audio/lessons/book2/lesson13/words/1.mp3"
+    },
+    {
+      "korean": "아까",
+      "chinese": "刚才",
+      "etymology": "아까",
+      "audio": "resources/audio/lessons/book2/lesson13/words/2.mp3"
+    },
+    {
+      "korean": "팥빙수",
+      "chinese": "红豆刨冰",
+      "etymology": "팥 氷水",
+      "audio": "resources/audio/lessons/book2/lesson13/words/3.mp3"
+    },
+    {
+      "korean": "너무",
+      "chinese": "太",
+      "etymology": "너무",
+      "audio": "resources/audio/lessons/book2/lesson13/words/4.mp3"
+    },
+    {
+      "korean": "기운이 없다",
+      "chinese": "没力气",
+      "etymology": "氣運 없다",
+      "audio": "resources/audio/lessons/book2/lesson13/words/5.mp3"
+    },
+    {
+      "korean": "뜨겁다",
+      "chinese": "热",
+      "etymology": "뜨겁다",
+      "audio": "resources/audio/lessons/book2/lesson13/words/6.mp3"
+    },
+    {
+      "korean": "양",
+      "chinese": "量",
+      "etymology": "量",
+      "audio": "resources/audio/lessons/book2/lesson13/words/7.mp3"
+    },
+    {
+      "korean": "잊어버리다",
+      "chinese": "忘记",
+      "etymology": "잊다 버리다",
+      "audio": "resources/audio/lessons/book2/lesson13/words/8.mp3"
+    },
+    {
+      "korean": "옛날에",
+      "chinese": "从前",
+      "etymology": "옛 날",
+      "audio": "resources/audio/lessons/book2/lesson13/words/9.mp3"
+    },
+    {
+      "korean": "산책",
+      "chinese": "散步",
+      "etymology": "散策",
+      "audio": "resources/audio/lessons/book2/lesson13/words/10.mp3"
+    },
+    {
+      "korean": "계획",
+      "chinese": "计划",
+      "etymology": "計劃",
+      "audio": "resources/audio/lessons/book2/lesson13/words/11.mp3"
+    },
+    {
+      "korean": "그냥",
+      "chinese": "只",
+      "etymology": "그냥",
+      "audio": "resources/audio/lessons/book2/lesson13/words/12.mp3"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "words": [
+    {
+      "korean": "주문하다",
+      "chinese": "点餐，订购",
+      "etymology": "注文 하다",
+      "audio": "resources/audio/lessons/book2/lesson5/words/1.mp3"
+    },
+    {
+      "korean": "시키다",
+      "chinese": "点（餐），让（做）",
+      "etymology": "시키다",
+      "audio": "resources/audio/lessons/book2/lesson5/words/2.mp3"
+    },
+    {
+      "korean": "아직",
+      "chinese": "还，仍然",
+      "etymology": "아직",
+      "audio": "resources/audio/lessons/book2/lesson5/words/3.mp3"
+    },
+    {
+      "korean": "삼겹살",
+      "chinese": "五花肉",
+      "etymology": "三겹 살",
+      "audio": "resources/audio/lessons/book2/lesson5/words/4.mp3"
+    },
+    {
+      "korean": "모두",
+      "chinese": "全部",
+      "etymology": "모두",
+      "audio": "resources/audio/lessons/book2/lesson5/words/5.mp3"
+    },
+    {
+      "korean": "아주머니",
+      "chinese": "阿姨",
+      "etymology": "아주머니",
+      "audio": "resources/audio/lessons/book2/lesson5/words/6.mp3"
+    },
+    {
+      "korean": "운동복",
+      "chinese": "运动服",
+      "etymology": "運動服",
+      "audio": "resources/audio/lessons/book2/lesson5/words/7.mp3"
+    },
+    {
+      "korean": "안내",
+      "chinese": "指南",
+      "etymology": "案內",
+      "audio": "resources/audio/lessons/book2/lesson5/words/8.mp3"
+    },
+    {
+      "korean": "방송",
+      "chinese": "广播",
+      "etymology": "放送",
+      "audio": "resources/audio/lessons/book2/lesson5/words/9.mp3"
+    },
+    {
+      "korean": "동네",
+      "chinese": "社区",
+      "etymology": "洞内",
+      "audio": "resources/audio/lessons/book2/lesson5/words/10.mp3"
+    },
+    {
+      "korean": "다니다",
+      "chinese": "上（学/班），来往",
+      "etymology": "다니다",
+      "audio": "resources/audio/lessons/book2/lesson5/words/11.mp3"
+    }
+  ]
+}
