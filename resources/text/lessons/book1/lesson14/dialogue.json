@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "양리",
+      "korean": "사과가 얼마입니까?",
+      "chinese": "苹果多少钱？",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/1.mp3"
+    },
+    {
+      "speaker": "가게주인",
+      "korean": "한 개에 1,000원입니다. 달고 맛있습니다.",
+      "chinese": "一个1000元。又甜又好吃。",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/2.mp3"
+    },
+    {
+      "speaker": "양리",
+      "korean": "다섯 개 주십시오. 귤은 1,000원에 몇 개입니까?",
+      "chinese": "来五个吧。橘子1000元几个？",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/3.mp3"
+    },
+    {
+      "speaker": "가게주인",
+      "korean": "귤은 1,000원에 3개입니다. 이 귤도 아주 답니다.",
+      "chinese": "橘子1000元3个。这个橘子也非常甜。",
+      "audio": "resources/audio/lessons/book1/lesson14/dialogue/4.mp3"
+    }
+  ]
+}

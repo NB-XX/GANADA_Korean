@@ -9,13 +9,13 @@
     {
       "korean": "시키다",
       "chinese": "点（餐），让（做）",
-      "etymology": "시키다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson5/words/2.mp3"
     },
     {
       "korean": "아직",
       "chinese": "还，仍然",
-      "etymology": "아직",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson5/words/3.mp3"
     },
     {
@@ -27,13 +27,13 @@
     {
       "korean": "모두",
       "chinese": "全部",
-      "etymology": "모두",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson5/words/5.mp3"
     },
     {
       "korean": "아주머니",
       "chinese": "阿姨",
-      "etymology": "아주머니",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson5/words/6.mp3"
     },
     {
@@ -63,7 +63,7 @@
     {
       "korean": "다니다",
       "chinese": "上（学/班），来往",
-      "etymology": "다니다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson5/words/11.mp3"
     }
   ]

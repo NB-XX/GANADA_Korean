@@ -1,0 +1,34 @@
+{
+  "sentences": [
+    {
+      "speaker": "제니",
+      "korean": "상우 씨는 회사에 어떻게 오세요?",
+      "chinese": "相佑，你怎么来公司？",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/1.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "집이 회사에서 가깝기 때문에 걸어와요.",
+      "chinese": "我家离公司很近，所以走着来。",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/2.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "시간이 얼마쯤 걸려요?",
+      "chinese": "大概需要多长时间？",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/3.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "한 20분쯤 걸려요. 제니 씨는 뭘 타고 오세요?",
+      "chinese": "大概20分钟左右。你坐什么来？",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/4.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "저는 보통 지하철로 와요.",
+      "chinese": "我一般坐地铁来。",
+      "audio": "resources/audio/lessons/book1/lesson28/dialogue/5.mp3"
+    }
+  ]
+}

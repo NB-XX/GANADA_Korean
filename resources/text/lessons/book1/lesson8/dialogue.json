@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "제니",
+      "korean": "사장님 계십니까?",
+      "chinese": "总经理在吗？",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/1.mp3"
+    },
+    {
+      "speaker": "비서",
+      "korean": "네,계십니다.",
+      "chinese": "是的，在。",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/2.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "사장님께서 지금 무엇을 하십니까?",
+      "chinese": "总经理现在在做什么？",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/3.mp3"
+    },
+    {
+      "speaker": "비서",
+      "korean": "손님을 만나십니다.",
+      "chinese": "在见客人。",
+      "audio": "resources/audio/lessons/book1/lesson8/dialogue/4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "민지",
+      "korean": "야마다 씨,모자가 멋있어요. 어디에서 샀어요?",
+      "chinese": "山田，这顶帽子挺帅气的。在哪儿买的？",
+      "audio": "resources/audio/lessons/book1/lesson27/dialogue/1.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "제 생일에 누나한테서 받았어요.",
+      "chinese": "我过生日时姐姐送给我的。",
+      "audio": "resources/audio/lessons/book1/lesson27/dialogue/2.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "야마다 씨도 누나 생일에 보통 선물해요?",
+      "chinese": "姐姐过生日时，山田一般也会送礼物吗？",
+      "audio": "resources/audio/lessons/book1/lesson27/dialogue/3.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "네,그런데 올해는 누나한테 선물을 못했어요.",
+      "chinese": "是的，但是今年没能送姐姐礼物。",
+      "audio": "resources/audio/lessons/book1/lesson27/dialogue/4.mp3"
+    }
+  ]
+}

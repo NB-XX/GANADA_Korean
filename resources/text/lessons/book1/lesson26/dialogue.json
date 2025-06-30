@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "양리",
+      "korean": "이리나 씨,",
+      "chinese": "伊利娜，",
+      "audio": "resources/audio/lessons/book1/lesson26/dialogue/1.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "죄송해요. 저는 가지 못해요.",
+      "chinese": "不好意思，我去不了。",
+      "audio": "resources/audio/lessons/book1/lesson26/dialogue/2.mp3"
+    },
+    {
+      "speaker": "양리",
+      "korean": "왜 못 가세요?",
+      "chinese": "为什么去不了？",
+      "audio": "resources/audio/lessons/book1/lesson26/dialogue/3.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "네,토요일에 외국 출장을 가요. 그래서 좀 바빠요.",
+      "chinese": "是，星期六到海外出差，所以有点忙。",
+      "audio": "resources/audio/lessons/book1/lesson26/dialogue/4.mp3"
+    }
+  ]
+}

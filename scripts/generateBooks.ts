@@ -46,10 +46,6 @@ function scanLessons() {
         path.join(__dirname, '../'),
         path.join(lessonPath, 'words.json')
       ).replace(/\\/g, '/');
-      const listening = path.relative(
-        path.join(__dirname, '../'),
-        path.join(lessonPath, 'listening.json')
-      ).replace(/\\/g, '/');
       const reading = path.relative(
         path.join(__dirname, '../'),
         path.join(lessonPath, 'reading.json')
@@ -62,7 +58,6 @@ function scanLessons() {
           课文: { dialogue },
           语法: grammar,
           单词: words,
-          听力: listening,
           阅读: reading
         }
       });

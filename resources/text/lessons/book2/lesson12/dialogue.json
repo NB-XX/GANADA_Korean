@@ -34,25 +34,25 @@
       "speaker": "(벚꽃 축제에서)",
       "korean": "",
       "chinese": "",
-      "audio": "resources/audio/lessons/book2/lesson12/dialogue/6.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/.mp3"
     },
     {
       "speaker": "리밍",
       "korean": "벚꽃이 정말 많이 피었군요!카메라 가져왔는데 사진 한 장 찍을까요?",
       "chinese": "真是樱花盛开呀!我带了照相机,拍张照片吧?",
-      "audio": "resources/audio/lessons/book2/lesson12/dialogue/7.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/6.mp3"
     },
     {
       "speaker": "이리나",
       "korean": "그래요.",
       "chinese": "好的。",
-      "audio": "resources/audio/lessons/book2/lesson12/dialogue/8.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/7.mp3"
     },
     {
       "speaker": "이리나",
       "korean": "먼저 여기서 사진 한 장 찍고 저기 가서 맥주 한잔해요.",
       "chinese": "先在这儿拍一张,然后去那边喝一杯酒吧。",
-      "audio": "resources/audio/lessons/book2/lesson12/dialogue/9.mp3"
+      "audio": "resources/audio/lessons/book2/lesson12/dialogue/89.mp3"
     }
   ]
 }

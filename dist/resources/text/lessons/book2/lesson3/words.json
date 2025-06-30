@@ -15,19 +15,19 @@
     {
       "korean": "이따가",
       "chinese": "等会儿",
-      "etymology": "이따가",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson3/words/3.mp3"
     },
     {
       "korean": "더",
       "chinese": "更，再",
-      "etymology": "더",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson3/words/4.mp3"
     },
     {
       "korean": "물어보다",
       "chinese": "问",
-      "etymology": "묻다 보다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson3/words/5.mp3"
     },
     {
@@ -81,7 +81,7 @@
     {
       "korean": "두껍다",
       "chinese": "厚",
-      "etymology": "두껍다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson3/words/14.mp3"
     }
   ]

@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "리밍",
+      "korean": "여기에서 세종문화회관에 어떻게 가요?",
+      "chinese": "从这儿去世宗文化会馆要怎么走？",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/1.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "지하철 5호선을 타고 광화문역에서 내리세요.",
+      "chinese": "坐地铁5号线，在光化们站下车。",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/2.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "몇 번 출구로 나가요?",
+      "chinese": "从几号出口出去呢？",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/3.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "7번 출구로 나가세요. 경복궁 쪽으로 조금만 걸어가면 왼쪽에 있어요.",
+      "chinese": "从7号出口出去吧。往景福宫方面再走一点，就在左边。",
+      "audio": "resources/audio/lessons/book1/lesson29/dialogue/4.mp3"
+    }
+  ]
+}

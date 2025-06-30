@@ -1,0 +1,34 @@
+{
+  "sentences": [
+    {
+      "speaker": "이리나",
+      "korean": "리밍 씨,오늘 수업 후에 무엇을 합니까?",
+      "chinese": "李明，今天下课后做什么？",
+      "audio": "resources/audio/lessons/book1/lesson18/dialogue/1.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "수업이 끝난 후에 태권도를 배우러 갑니다.",
+      "chinese": "下课后去学跆拳道。",
+      "audio": "resources/audio/lessons/book1/lesson18/dialogue/2.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "6시에 정동극장에서 뮤지컬 공연이 있습니다.같이 가시겠습니까?",
+      "chinese": "六点在贞洞剧场有音乐剧的演出。要一起去吗？",
+      "audio": "resources/audio/lessons/book1/lesson18/dialogue/3.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "네,좋습니다. 같이 갑시다.",
+      "chinese": "好，一起去吧。",
+      "audio": "resources/audio/lessons/book1/lesson18/dialogue/4.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "그럼 5시 반에 극장 앞에서 만납시다.",
+      "chinese": "那么五点半在剧场前边见吧。",
+      "audio": "resources/audio/lessons/book1/lesson18/dialogue/5.mp3"
+    }
+  ]
+}

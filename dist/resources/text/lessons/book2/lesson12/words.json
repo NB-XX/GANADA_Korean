@@ -15,19 +15,19 @@
     {
       "korean": "꽃이 피다",
       "chinese": "开花",
-      "etymology": "꽃 피다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson12/words/3.mp3"
     },
     {
       "korean": "가져오다",
       "chinese": "带来",
-      "etymology": "가지다 오다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson12/words/4.mp3"
     },
     {
       "korean": "먼저",
       "chinese": "先",
-      "etymology": "먼저",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson12/words/5.mp3"
     },
     {
@@ -51,7 +51,7 @@
     {
       "korean": "볶음밥",
       "chinese": "炒饭",
-      "etymology": "볶음 밥",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson12/words/9.mp3"
     },
     {
@@ -63,13 +63,13 @@
     {
       "korean": "그림",
       "chinese": "画",
-      "etymology": "그리다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson12/words/11.mp3"
     },
     {
       "korean": "그리다",
       "chinese": "画",
-      "etymology": "그리다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson12/words/12.mp3"
     },
     {
@@ -105,7 +105,7 @@
     {
       "korean": "떠나다",
       "chinese": "离开",
-      "etymology": "뜨다 나다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson12/words/18.mp3"
     },
     {
@@ -123,7 +123,7 @@
     {
       "korean": "하늘",
       "chinese": "天空",
-      "etymology": "하늘",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson12/words/21.mp3"
     },
     {
@@ -135,13 +135,13 @@
     {
       "korean": "곧",
       "chinese": "将",
-      "etymology": "곧",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson12/words/23.mp3"
     },
     {
       "korean": "찾아오다",
       "chinese": "到来",
-      "etymology": "찾다 오다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson12/words/24.mp3"
     },
     {
@@ -153,13 +153,13 @@
     {
       "korean": "김장",
       "chinese": "腌制泡菜",
-      "etymology": "김장",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson12/words/26.mp3"
     },
     {
       "korean": "설날",
       "chinese": "春节",
-      "etymology": "설 날",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson12/words/27.mp3"
     }
   ]

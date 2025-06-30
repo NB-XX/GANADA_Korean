@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import { Search, X } from 'lucide-react';
 
 interface SearchResult {
-  type: '课文' | '语法' | '单词' | '听力' | '阅读';
+  type: '课文' | '语法' | '单词' | '阅读';
   content: string;
   preview: string;
   bookId: number;
@@ -19,12 +19,14 @@ interface SearchBarProps {
   onFocus?: () => void;
 }
 
-const tagColors: Record<string, string> = {
-  '课文': 'bg-blue-100 text-blue-700',
-  '语法': 'bg-green-100 text-green-700',
-  '单词': 'bg-yellow-100 text-yellow-700',
-  '听力': 'bg-purple-100 text-purple-700',
-  '阅读': 'bg-pink-100 text-pink-700',
+const getTypeColor = (type: string) => {
+  switch (type) {
+    case '课文': return 'bg-blue-100 text-blue-700';
+    case '语法': return 'bg-green-100 text-green-700';
+    case '单词': return 'bg-yellow-100 text-yellow-700';
+    case '阅读': return 'bg-orange-100 text-orange-700';
+    default: return 'bg-gray-100 text-gray-700';
+  }
 };
 
 const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick, loading = false, error = null, onFocus }) => {
@@ -86,7 +88,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ onSearch, onResultClick, loading 
             }}
           >
             <div className="flex items-center gap-2 mb-1">
-              <span className={`text-xs font-semibold px-2 py-0.5 rounded ${tagColors[result.type] || 'bg-gray-100 text-gray-600'}`}>{result.type}</span>
+              <span className={`text-xs font-semibold px-2 py-0.5 rounded ${getTypeColor(result.type)}`}>{result.type}</span>
               <span className="text-xs text-gray-500">{result.bookTitle} {result.lessonTitle}</span>
             </div>
             <div className="font-medium text-gray-800 truncate">{result.content}</div>

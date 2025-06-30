@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "히로미",
+      "korean": "이 김밥을 상우 씨가 만들었습니까? 정말 맛있습니다.",
+      "chinese": "这个紫菜包饭是相佑做的吗？真好吃。",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/1.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "제 취미가 요리입니다. 히로미 씨도 집에서 요리합니까?",
+      "chinese": "我的爱好是烹饪。宏美你也在家做饭吗？",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/2.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "아니요,저는 하숙집에서 살기 때문에 요리를 하지않습니다.",
+      "chinese": "不，我因为住在寄宿房，所以不做饭。",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/3.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "저도 자전거를 잘 탑니다. 같이 타러 갑시다.",
+      "chinese": "我骑车得也很好。一起去骑吧。",
+      "audio": "resources/audio/lessons/book1/lesson19/dialogue/4.mp3"
+    }
+  ]
+}

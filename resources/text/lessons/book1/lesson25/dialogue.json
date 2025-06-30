@@ -1,0 +1,34 @@
+{
+  "sentences": [
+    {
+      "speaker": "양리",
+      "korean": "이번 토요일에 우리 집에 친구들을 초대하려고 해요.",
+      "chinese": "这个星期六想邀请朋友们来我家。",
+      "audio": "resources/audio/lessons/book1/lesson25/dialogue/1.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "네,갈 수 있어요. 그런데 양리 씨 생일이에요?",
+      "chinese": "是，我可以去。是亨利的生日吗？",
+      "audio": "resources/audio/lessons/book1/lesson25/dialogue/2.mp3"
+    },
+    {
+      "speaker": "양리",
+      "korean": "아니요,제가 지난주에 이사했어요.",
+      "chinese": "不是，我上个星期搬家了。",
+      "audio": "resources/audio/lessons/book1/lesson25/dialogue/3.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "아,그래요? 몇 시까지 갈까요?",
+      "chinese": "啊，是吗？几点去好呢？",
+      "audio": "resources/audio/lessons/book1/lesson25/dialogue/4.mp3"
+    },
+    {
+      "speaker": "양리",
+      "korean": "7시까지 오세요. 여기 우리 집 주소하고 약도예요.",
+      "chinese": "七点之前来吧。这是我家的地址和略图。",
+      "audio": "resources/audio/lessons/book1/lesson25/dialogue/5.mp3"
+    }
+  ]
+}

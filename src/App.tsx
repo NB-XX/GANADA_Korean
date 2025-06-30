@@ -9,7 +9,7 @@ import EmptyContent from './components/EmptyContent';
 
 // 定义SearchResult类型
 interface SearchResult {
-  type: '课文' | '语法' | '单词' | '听力' | '阅读';
+  type: '课文' | '语法' | '单词' | '阅读';
   content: string;
   preview: string;
   bookId: number;
@@ -43,18 +43,6 @@ interface LessonContent {
       audio: string;
     }[];
   };
-  听力: {
-    exercises: {
-      id: number;
-      type: string;
-      title: string;
-      audio: string;
-      question: string;
-      options?: string[];
-      answer: any;
-      script: string;
-    }[];
-  };
   阅读: {
     passages: {
       title: string;
@@ -76,7 +64,6 @@ interface BookInfo {
       课文: { dialogue: string };
       语法: string;
       单词: string;
-      听力: string;
       阅读: string;
     };
   }[];
@@ -110,7 +97,6 @@ interface Lesson {
     课文: { dialogue: string };
     语法: string;
     单词: string;
-    听力: string;
     阅读: string;
   };
 }
@@ -120,7 +106,6 @@ const SEARCH_TYPES = [
   { label: '课文', value: '课文' },
   { label: '语法', value: '语法' },
   { label: '单词', value: '单词' },
-  { label: '听力', value: '听力' },
   { label: '阅读', value: '阅读' },
 ];
 
@@ -219,8 +204,7 @@ const App = () => {
         课文: { sentences: [] },
         语法: { points: [] },
         单词: { words: [] },
-        听力: { exercises: [] },
-        阅读: { passages: [] }
+        阅读: { passages: [] },
       };
 
       try {
@@ -246,14 +230,6 @@ const App = () => {
           defaultContent.单词 = words;
         } catch (e) {
           console.warn('单词内容加载失败:', e);
-        }
-
-        // 听力
-        try {
-          const listening = await fetch(`/${selectedLesson.resources.听力}`).then(r => r.json());
-          defaultContent.听力 = listening;
-        } catch (e) {
-          console.warn('听力内容加载失败:', e);
         }
 
         // 阅读
@@ -509,7 +485,6 @@ const App = () => {
                     searchType === '课文' ? 'bg-blue-100 text-blue-600' :
                     searchType === '语法' ? 'bg-green-100 text-green-600' :
                     searchType === '单词' ? 'bg-yellow-100 text-yellow-700' :
-                    searchType === '听力' ? 'bg-purple-100 text-purple-600' :
                     searchType === '阅读' ? 'bg-pink-100 text-pink-600' :
                     'bg-gray-100 text-gray-500'}
                 `}
@@ -528,7 +503,7 @@ const App = () => {
               <input
                 ref={searchInputRef}
                 className="flex-1 px-4 py-2 text-lg bg-white border-0 outline-none focus:ring-0"
-                placeholder="搜索课文、语法、单词、听力、阅读..."
+                placeholder="搜索课文、语法、单词、阅读..."
                 value={inputValue}
                 onChange={e => setInputValue(e.target.value)}
                 onCompositionStart={() => setIsComposing(true)}
@@ -575,7 +550,6 @@ const App = () => {
                       result.type === '课文' ? 'bg-blue-100 text-blue-600' :
                       result.type === '语法' ? 'bg-green-100 text-green-600' :
                       result.type === '单词' ? 'bg-yellow-100 text-yellow-700' :
-                      result.type === '听力' ? 'bg-purple-100 text-purple-600' :
                       result.type === '阅读' ? 'bg-pink-100 text-pink-600' :
                       'bg-gray-100 text-gray-500'
                     }`}>{result.type}</span>
@@ -844,68 +818,11 @@ const App = () => {
                   <div>
                     <div className="flex items-center gap-2">
                       <span className="text-lg font-medium text-gray-800">{word.korean}</span>
-                      <span className="text-sm text-gray-500">({word.etymology})</span>
+                      {word.etymology && (
+                        <span className="text-sm text-gray-500">({word.etymology})</span>
+                      )}
                     </div>
                     <div className="text-sm text-gray-600">{word.chinese}</div>
-                  </div>
-                </div>
-              ))}
-            </div>
-          );
-        case '听力':
-          if (!content.听力?.exercises || content.听力.exercises.length === 0) {
-            return <EmptyContent message={emptyMessage} imageUrl="/resources/img/icon/404.png" />;
-          }
-          return (
-            <div className="space-y-6">
-              {content.听力.exercises.map((exercise: any) => (
-                <div key={exercise.id} className="bg-white rounded-lg p-4 shadow-sm">
-                  <div className="flex justify-between items-center mb-4">
-                    <h3 className="text-lg font-medium text-gray-800">{exercise.title}</h3>
-                    <Play 
-                      className="h-5 w-5 text-blue-600 cursor-pointer" 
-                      onClick={() => playAudioWithFeedback(exercise.audio)}
-                    />
-                  </div>
-                  <div className="space-y-4">
-                    <p className="text-gray-800">{exercise.question}</p>
-                    {exercise.type === 'choice' && exercise.options && (
-                      <div className="space-y-2">
-                        {exercise.options.map((option: string, index: number) => (
-                          <div key={index} className="p-3 border rounded cursor-pointer hover:bg-gray-50">
-                            {option}
-                          </div>
-                        ))}
-                      </div>
-                    )}
-                    {exercise.type === 'judge' && (
-                      <div className="flex gap-4">
-                        <div className="p-3 border rounded cursor-pointer hover:bg-gray-50 flex-1 text-center">
-                          正确
-                        </div>
-                        <div className="p-3 border rounded cursor-pointer hover:bg-gray-50 flex-1 text-center">
-                          错误
-                        </div>
-                      </div>
-                    )}
-                    {exercise.type === 'short_answer' && (
-                      <input
-                        type="text"
-                        className="w-full p-3 border rounded"
-                        placeholder="请输入答案"
-                      />
-                    )}
-                    <button 
-                      className="text-sm text-blue-600"
-                      onClick={() => toggleListeningScript(exercise.id)}
-                    >
-                      {showListeningScript[exercise.id] ? '隐藏原文' : '显示原文'}
-                    </button>
-                    {showListeningScript[exercise.id] && (
-                      <div className="text-sm text-gray-600 bg-gray-50 p-3 rounded">
-                        {exercise.script}
-                      </div>
-                    )}
                   </div>
                 </div>
               ))}
@@ -926,25 +843,37 @@ const App = () => {
                         <p className="text-md text-gray-500 mt-1">{passage.translated_title}</p>
                       )}
                     </div>
-                    <Eye
-                      className={`h-5 w-5 cursor-pointer transition-colors ml-2 ${!passage.translation ? 'text-gray-300 cursor-not-allowed' : showReadingTranslation[index] ? 'text-blue-600' : 'text-gray-400 hover:text-blue-500'}`}
-                      onClick={() => {
-                        if (!passage.translation) return;
-                        toggleReadingTranslation(index);
-                      }}
-                      style={{ pointerEvents: !passage.translation ? 'none' : 'auto' }}
-                    />
+                    <button
+                      onClick={() => setShowReadingTranslation(prev => ({ ...prev, [index]: !prev[index] }))}
+                      className="flex items-center gap-2 px-3 py-2 text-sm bg-blue-50 text-blue-600 rounded-lg hover:bg-blue-100 transition-colors"
+                    >
+                      <Eye className="h-4 w-4" />
+                      {showReadingTranslation[index] ? '隐藏译文' : '显示译文'}
+                    </button>
                   </div>
-                  <div className="space-y-5">
+                  
+                  {/* 原文部分 */}
+                  <div>
                     {passage.content.split('\n').map((paragraph: string, pIndex: number) => (
-                      <div key={pIndex}>
-                        <div className="text-gray-800 px-2 py-1 leading-relaxed text-justify">{paragraph}</div>
-                        {showReadingTranslation[index] && passage.translation.split('\n')[pIndex] && (
-                          <div className="text-sm text-gray-600 px-2 pb-1">{passage.translation.split('\n')[pIndex]}</div>
-                        )}
+                      <div key={pIndex} className="text-gray-800 px-2 py-1 leading-relaxed text-justify">
+                        {paragraph}
                       </div>
                     ))}
                   </div>
+                  
+                  {/* 译文部分 */}
+                  {showReadingTranslation[index] && (
+                    <div className="mt-6 pt-4 border-t">
+                      <div className="text-sm font-medium text-gray-700 mb-3">译文</div>
+                      <div className="bg-gray-50 rounded-lg p-4">
+                        {passage.translation.split('\n').map((paragraph: string, pIndex: number) => (
+                          <div key={pIndex} className="text-gray-600 px-2 py-1 leading-relaxed text-justify">
+                            {paragraph}
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  )}
                 </div>
               ))}
             </div>
@@ -973,7 +902,7 @@ const App = () => {
         {/* 选项卡 */}
         <div className="bg-white border-b">
           <div className="flex w-full">
-            {['课文', '语法', '单词', '听力', '阅读'].map((tab: string) => (
+            {['课文', '语法', '单词', '阅读'].map((tab: string) => (
               <div
                 key={tab}
                 className={`flex-1 min-w-0 text-center py-3 cursor-pointer whitespace-nowrap overflow-hidden text-ellipsis transition-all

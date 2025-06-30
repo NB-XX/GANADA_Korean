@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "야마다",
+      "korean": "언제부터 그 회사에서 일하셨습니까?",
+      "chinese": "从什么时候开始在那家公司工作的？",
+      "audio": "resources/audio/lessons/book1/lesson17/dialogue/1.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "금년 3월부터 일했습니다.",
+      "chinese": "从今年3月份开始工作的。",
+      "audio": "resources/audio/lessons/book1/lesson17/dialogue/2.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "아,그렇습니까?",
+      "chinese": "啊，是吗？",
+      "audio": "resources/audio/lessons/book1/lesson17/dialogue/3.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "언제부터 언제까지 중국에 계셨습니까?",
+      "chinese": "从什么时候到什么时候在中国？",
+      "audio": "resources/audio/lessons/book1/lesson17/dialogue/4.mp3"
+    }
+  ]
+}

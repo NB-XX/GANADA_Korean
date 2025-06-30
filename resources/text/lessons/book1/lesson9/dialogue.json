@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "양리",
+      "korean": "어디에 가십니까?",
+      "chinese": "你去哪儿？",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/1.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "아르바이트를 하러 신촌에 갑니다.",
+      "chinese": "去新村打工。",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/2.mp3"
+    },
+    {
+      "speaker": "양리",
+      "korean": "어디에서 아르바이트를 합니까?",
+      "chinese": "在哪儿打工？",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/3.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "여행사에서 합니다.",
+      "chinese": "在旅行社打工。",
+      "audio": "resources/audio/lessons/book1/lesson9/dialogue/4.mp3"
+    }
+  ]
+}

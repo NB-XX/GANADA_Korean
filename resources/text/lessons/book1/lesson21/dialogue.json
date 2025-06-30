@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "상우",
+      "korean": "휴가에 친구들하고 일본에 다녀왔어요. 이거 드세요.일본 과자예요.",
+      "chinese": "假期和朋友一起去了趟日本。尝尝这个，是日本的点心。",
+      "audio": "resources/audio/lessons/book1/lesson21/dialogue/1.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "아,고맙습니다.",
+      "chinese": "啊，谢谢。",
+      "audio": "resources/audio/lessons/book1/lesson21/dialogue/2.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "여행이 재미있었어요?",
+      "chinese": "旅行有意思吗？",
+      "audio": "resources/audio/lessons/book1/lesson21/dialogue/3.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "네,경치도 아름답고 음식도 맛있고 정말 좋았어요.",
+      "chinese": "是的，风景很漂亮、食物也很好吃，真的很有意思。",
+      "audio": "resources/audio/lessons/book1/lesson21/dialogue/4.mp3"
+    }
+  ]
+}

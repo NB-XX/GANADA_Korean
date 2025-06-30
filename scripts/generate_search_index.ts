@@ -3,7 +3,7 @@ import path from 'path';
 
 // 索引项类型定义
 interface SearchIndexItem {
-  type: '课文' | '语法' | '单词' | '听力' | '阅读';
+  type: '课文' | '语法' | '单词' | '阅读';
   content: string;
   preview: string;
   bookId: number;
@@ -95,24 +95,8 @@ function main() {
             preview: w.chinese,
             bookId,
             lessonId,
-            bookTitle,
-            lessonTitle
-          });
-        });
-      }
-      // 听力
-      const listeningPath = path.join(lessonPath, 'listening.json');
-      const listening = tryReadJson(listeningPath);
-      if (listening && Array.isArray(listening.exercises)) {
-        listening.exercises.forEach((e: any) => {
-          index.push({
-            type: '听力',
-            content: e.title,
-            preview: e.script,
-            bookId,
-            lessonId,
-            bookTitle,
-            lessonTitle
+            bookTitle: getBookTitle(books, bookId),
+            lessonTitle: getLessonTitle(books, bookId, lessonId)
           });
         });
       }
@@ -123,12 +107,12 @@ function main() {
         reading.passages.forEach((p: any) => {
           index.push({
             type: '阅读',
-            content: p.title,
-            preview: p.content,
+            content: p.content,
+            preview: p.title,
             bookId,
             lessonId,
-            bookTitle,
-            lessonTitle
+            bookTitle: getBookTitle(books, bookId),
+            lessonTitle: getLessonTitle(books, bookId, lessonId)
           });
         });
       }

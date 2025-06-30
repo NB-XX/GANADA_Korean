@@ -33,13 +33,13 @@
     {
       "korean": "굉장히",
       "chinese": "非常，相当",
-      "etymology": "굉장히",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson20/words/6.mp3"
     },
     {
       "korean": "떠나다",
       "chinese": "出去",
-      "etymology": "뜨다 나다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson20/words/7.mp3"
     },
     {
@@ -51,13 +51,13 @@
     {
       "korean": "옛날",
       "chinese": "从前，过去",
-      "etymology": "옛 날",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson20/words/9.mp3"
     },
     {
       "korean": "빠르다",
       "chinese": "快",
-      "etymology": "빠르다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson20/words/10.mp3"
     },
     {
@@ -69,7 +69,7 @@
     {
       "korean": "놀이동산",
       "chinese": "游乐园",
-      "etymology": "놀이 동산",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson20/words/12.mp3"
     },
     {
@@ -81,7 +81,7 @@
     {
       "korean": "돌다",
       "chinese": "转",
-      "etymology": "돌다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson20/words/14.mp3"
     },
     {
@@ -93,13 +93,13 @@
     {
       "korean": "마을",
       "chinese": "社区",
-      "etymology": "마을",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson20/words/16.mp3"
     },
     {
       "korean": "지나가다",
       "chinese": "过",
-      "etymology": "지나다 가다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson20/words/17.mp3"
     },
     {
@@ -123,7 +123,7 @@
     {
       "korean": "소리 지르다",
       "chinese": "喊叫",
-      "etymology": "소리 지르다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson20/words/21.mp3"
     },
     {
@@ -147,7 +147,7 @@
     {
       "korean": "물개",
       "chinese": "海狗",
-      "etymology": "물 개",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson20/words/25.mp3"
     }
   ]

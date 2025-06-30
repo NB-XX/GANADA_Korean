@@ -1,0 +1,40 @@
+{
+  "sentences": [
+    {
+      "speaker": "이리나",
+      "korean": "여보세요,",
+      "chinese": "喂，",
+      "audio": "resources/audio/lessons/book1/lesson24/dialogue/1.mp3"
+    },
+    {
+      "speaker": "남자",
+      "korean": "아니요,잘못 거셨습니다.",
+      "chinese": "不是，打错了。",
+      "audio": "resources/audio/lessons/book1/lesson24/dialogue/2.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "죄송합니다.",
+      "chinese": "对不起。",
+      "audio": "resources/audio/lessons/book1/lesson24/dialogue/3.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "여보세요,",
+      "chinese": "喂，",
+      "audio": "resources/audio/lessons/book1/lesson24/dialogue/4.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "아,상우 씨,제가 조금 늦게 출발했어요. 그래서 지금 가고 있어요.",
+      "chinese": "喂，相佑，我出发得有点晚，正在去的路上。",
+      "audio": "resources/audio/lessons/book1/lesson24/dialogue/5.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "저도 방금 도착했어요. 천천히 오세요.",
+      "chinese": "我也刚到。不着急，慢慢来。",
+      "audio": "resources/audio/lessons/book1/lesson24/dialogue/6.mp3"
+    }
+  ]
+}

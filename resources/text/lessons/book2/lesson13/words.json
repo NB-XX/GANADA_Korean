@@ -9,7 +9,7 @@
     {
       "korean": "아까",
       "chinese": "刚才",
-      "etymology": "아까",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson13/words/2.mp3"
     },
     {
@@ -21,7 +21,7 @@
     {
       "korean": "너무",
       "chinese": "太",
-      "etymology": "너무",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson13/words/4.mp3"
     },
     {
@@ -33,7 +33,7 @@
     {
       "korean": "뜨겁다",
       "chinese": "热",
-      "etymology": "뜨겁다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson13/words/6.mp3"
     },
     {
@@ -45,13 +45,13 @@
     {
       "korean": "잊어버리다",
       "chinese": "忘记",
-      "etymology": "잊다 버리다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson13/words/8.mp3"
     },
     {
       "korean": "옛날에",
       "chinese": "从前",
-      "etymology": "옛 날",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson13/words/9.mp3"
     },
     {
@@ -69,7 +69,7 @@
     {
       "korean": "그냥",
       "chinese": "只",
-      "etymology": "그냥",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson13/words/12.mp3"
     }
   ]

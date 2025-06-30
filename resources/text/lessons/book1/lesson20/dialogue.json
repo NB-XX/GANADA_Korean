@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "리밍",
+      "korean": "제니 씨는 무슨 운동을 좋아합니까?",
+      "chinese": "珍妮，你喜欢什么运动？",
+      "audio": "resources/audio/lessons/book1/lesson20/dialogue/1.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "테니스를 좋아합니다.",
+      "chinese": "我喜欢网球。",
+      "audio": "resources/audio/lessons/book1/lesson20/dialogue/2.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "한국에서도 테니스를 치십니까?",
+      "chinese": "在韩国也打网球吗？",
+      "audio": "resources/audio/lessons/book1/lesson20/dialogue/3.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "아니요,요즘은 바쁘기 때문에 잘 안 칩니다.",
+      "chinese": "不，最近因为忙，所以不经常打了。",
+      "audio": "resources/audio/lessons/book1/lesson20/dialogue/4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "야마다",
+      "korean": "안녕하십니까?",
+      "chinese": "你好。",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/1.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "네,안녕하십니까?",
+      "chinese": "你好。",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/2.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "저는 야마다입니다. 일본 사람입니다.",
+      "chinese": "我叫山田。是日本人。",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/3.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "반갑습니다. 제 이름은 이리나입니다.",
+      "chinese": "认识你很高兴。我的名字是伊利娜。",
+      "audio": "resources/audio/lessons/book1/lesson4/dialogue/4.mp3"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "리밍",
+      "korean": "히로미 씨는 한국말을 공부한 후에 뭘 하려고 해요?",
+      "chinese": "宏美，你学完韩国语以后，想要做什么？",
+      "audio": "resources/audio/lessons/book1/lesson23/dialogue/1.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "일본에서 한국말도 가르치고 번역도 하고 싶어요.리밍 씨는요?",
+      "chinese": "想在日本教韩国语，也想做翻译。李明你呢？",
+      "audio": "resources/audio/lessons/book1/lesson23/dialogue/2.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "졸업 후에 취직하려고 해요. 중국에 한국 회사가 많이 있어요.",
+      "chinese": "我想毕业后就业。在中国有很多韩国公司。",
+      "audio": "resources/audio/lessons/book1/lesson23/dialogue/3.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "어느 회사에서 일하고 싶어요?",
+      "chinese": "想在哪家公司工作呢？",
+      "audio": "resources/audio/lessons/book1/lesson23/dialogue/4.mp3"
+    }
+  ]
+}

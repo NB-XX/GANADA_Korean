@@ -17,14 +17,13 @@ export interface Lesson {
 
 export interface LessonResources {
   课文: {
-    dialogue: string;     // path to dialogue.kr.txt
-    translation: string;  // path to dialogue.cn.txt
-    audio: string;       // path to dialogue.mp3
+    dialogue: string;
+    translation?: string;
+    audio?: string;
   };
-  语法: string;          // path to grammar.json
-  单词: string;          // path to words.json
-  听力: string;          // path to listening.json
-  阅读: string;          // path to reading.json
+  语法: string;
+  单词: string;
+  阅读: string;
 }
 
 export const books: Book[] = [
@@ -48,7 +47,6 @@ export const books: Book[] = [
           },
           语法: 'resources/text/lessons/book1/lesson1/grammar.json',
           单词: 'resources/text/lessons/book1/lesson1/words.json',
-          听力: 'resources/text/lessons/book1/lesson1/listening.json',
           阅读: 'resources/text/lessons/book1/lesson1/reading.json'
         }
       }

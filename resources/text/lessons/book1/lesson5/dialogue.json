@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "민지",
+      "korean": "이것이 무엇입니까?",
+      "chinese": "这是什么？",
+      "audio": "resources/audio/lessons/book1/lesson5/dialogue/1.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "한국어 교과서입니다.",
+      "chinese": "是韩国语教科书。",
+      "audio": "resources/audio/lessons/book1/lesson5/dialogue/2.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "리밍 씨의 책입니까?",
+      "chinese": "这是你的书吗？",
+      "audio": "resources/audio/lessons/book1/lesson5/dialogue/3.mp3"
+    },
+    {
+      "speaker": "리밍",
+      "korean": "아니요,제 책이 아닙니다.",
+      "chinese": "不是，这不是我的书。",
+      "audio": "resources/audio/lessons/book1/lesson5/dialogue/4.mp3"
+    }
+  ]
+}

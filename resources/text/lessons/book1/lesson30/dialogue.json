@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "양리",
+      "korean": "가족이나 친구들에게 무엇을 선물하면 좋아요?",
+      "chinese": "送给家人或朋友什么礼物比较好呢？",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/1.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "저는 인삼이나 김을 선물해요. 양리 씨,프랑스에 가세요?",
+      "chinese": "我送人参或紫菜。亨利，要去法国吗？",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/2.mp3"
+    },
+    {
+      "speaker": "양리",
+      "korean": "네,다음 주에 가요.",
+      "chinese": "是的，下周去。",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/3.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "시장에서 사거나 백화점에서 샀어요.",
+      "chinese": "在超市或百货商店。",
+      "audio": "resources/audio/lessons/book1/lesson30/dialogue/4.mp3"
+    }
+  ]
+}

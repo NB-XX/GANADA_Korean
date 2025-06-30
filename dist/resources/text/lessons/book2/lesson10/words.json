@@ -3,19 +3,19 @@
     {
       "korean": "어서 오세요",
       "chinese": "欢迎光临",
-      "etymology": "어서 오다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson10/words/1.mp3"
     },
     {
       "korean": "어떻게 오셨어요?",
       "chinese": "你要什么",
-      "etymology": "어떻다 오다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson10/words/2.mp3"
     },
     {
       "korean": "찾다",
       "chinese": "找",
-      "etymology": "찾다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson10/words/3.mp3"
     },
     {
@@ -33,7 +33,7 @@
     {
       "korean": "별로",
       "chinese": "不太",
-      "etymology": "별로",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson10/words/6.mp3"
     },
     {
@@ -45,13 +45,13 @@
     {
       "korean": "어떻게 돼요?",
       "chinese": "多少（钱）",
-      "etymology": "어떻다 되다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson10/words/8.mp3"
     },
     {
       "korean": "목걸이",
       "chinese": "项链",
-      "etymology": "목 걸이",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson10/words/9.mp3"
     },
     {
@@ -63,7 +63,7 @@
     {
       "korean": "봄",
       "chinese": "春天",
-      "etymology": "봄",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson10/words/11.mp3"
     },
     {
@@ -111,7 +111,7 @@
     {
       "korean": "슬프다",
       "chinese": "伤心",
-      "etymology": "슬프다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson10/words/19.mp3"
     },
     {
@@ -123,7 +123,7 @@
     {
       "korean": "마음에 들다",
       "chinese": "称心，满意",
-      "etymology": "마음 들다",
+      "etymology": "",
       "audio": "resources/audio/lessons/book2/lesson10/words/21.mp3"
     },
     {

@@ -1,0 +1,34 @@
+{
+  "sentences": [
+    {
+      "speaker": "이리나",
+      "korean": "어느 은행에서 일하십니까?",
+      "chinese": "在哪个银行工作？",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/1.mp3"
+    },
+    {
+      "speaker": "양리",
+      "korean": "서울 은행에서 일합니다.",
+      "chinese": "在首尔银行工作。",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/2.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "은행이 어디에 있습니까?",
+      "chinese": "银行在哪儿？",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/3.mp3"
+    },
+    {
+      "speaker": "양리",
+      "korean": "2호선 시청역 근처에 있습니다.",
+      "chinese": "在二号线市厅站附近。",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/4.mp3"
+    },
+    {
+      "speaker": "이리나",
+      "korean": "우리 회사도 그 근처에 있습니다.",
+      "chinese": "我的公司也在那附近。",
+      "audio": "resources/audio/lessons/book1/lesson11/dialogue/5.mp3"
+    }
+  ]
+}

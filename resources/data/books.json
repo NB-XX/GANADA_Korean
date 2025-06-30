@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "book1",
+    "title": "初级1",
     "subtitle": "",
     "level": "初级",
     "cover": "",
@@ -431,7 +431,7 @@
   },
   {
     "id": 2,
-    "title": "book2",
+    "title": "初级2",
     "subtitle": "",
     "level": "初级",
     "cover": "",
@@ -861,7 +861,7 @@
   },
   {
     "id": 3,
-    "title": "book3",
+    "title": "中级1",
     "subtitle": "",
     "level": "中级",
     "cover": "",
@@ -1291,7 +1291,7 @@
   },
   {
     "id": 4,
-    "title": "book4",
+    "title": "中级2",
     "subtitle": "",
     "level": "中级",
     "cover": "",
