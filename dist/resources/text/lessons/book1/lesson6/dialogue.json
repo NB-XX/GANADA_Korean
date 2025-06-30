@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "상우",
+      "korean": "이 사람들은 누구입니까?",
+      "chinese": "这些人是谁？",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/1.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "우리 학원 선생님들입니다.",
+      "chinese": "是我们学院的老师。",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/2.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "누가 가르칩니까?",
+      "chinese": "谁教呢？",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/3.mp3"
+    },
+    {
+      "speaker": "히로미",
+      "korean": "김영수 선생님이 가르칩니다.",
+      "chinese": "金英秀老师教。",
+      "audio": "resources/audio/lessons/book1/lesson6/dialogue/4.mp3"
+    }
+  ]
+}

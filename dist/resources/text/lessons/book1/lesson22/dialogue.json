@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "민지",
+      "korean": "우리 내일 뭐 할까요?",
+      "chinese": "我们明天做什么？",
+      "audio": "resources/audio/lessons/book1/lesson22/dialogue/1.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "오전에는 바다에서 수영하고 오후에는 여기저기 구경하러 갑시다.",
+      "chinese": "上午去大海游泳，下午到处逛逛吧。",
+      "audio": "resources/audio/lessons/book1/lesson22/dialogue/2.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "부산은 자갈치시장이 유명해요. 거기에도 갑시다.",
+      "chinese": "釜山的札嘎其市场非常有名。我们也去那儿吧。",
+      "audio": "resources/audio/lessons/book1/lesson22/dialogue/3.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "그럼 내일 저녁은 자갈치시장에서 생선회를 먹을까요?",
+      "chinese": "那么明天晚上去札嘎其市场吃生鱼片怎么样？",
+      "audio": "resources/audio/lessons/book1/lesson22/dialogue/4.mp3"
+    }
+  ]
+}

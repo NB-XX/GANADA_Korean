@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "제니",
+      "korean": "주말에 무엇을 하셨습니까?",
+      "chinese": "周末做什么了？",
+      "audio": "resources/audio/lessons/book1/lesson12/dialogue/1.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "부산에 친구를 만나러 갔습니다.",
+      "chinese": "去釜山见朋友了。",
+      "audio": "resources/audio/lessons/book1/lesson12/dialogue/2.mp3"
+    },
+    {
+      "speaker": "제니",
+      "korean": "언제 서울에 오셨습니까?",
+      "chinese": "什么时候回首尔的？",
+      "audio": "resources/audio/lessons/book1/lesson12/dialogue/3.mp3"
+    },
+    {
+      "speaker": "상우",
+      "korean": "일요일 밤에 왔습니다.",
+      "chinese": "星期日晚上回来的。",
+      "audio": "resources/audio/lessons/book1/lesson12/dialogue/4.mp3"
+    }
+  ]
+}

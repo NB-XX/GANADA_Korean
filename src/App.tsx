@@ -6,6 +6,14 @@ import SearchBar from './components/SearchBar';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import EmptyContent from './components/EmptyContent';
+import BackToTopButton from './components/BackToTopButton';
+
+// 定义字体大小映射
+const fontSizeMapping: { [key: string]: string } = {
+  small: '0.875rem',
+  medium: '1rem',
+  large: '1.125rem',
+};
 
 // 定义SearchResult类型
 interface SearchResult {
@@ -116,8 +124,8 @@ const App = () => {
   const [activeTab, setActiveTab] = useState('课文');
   const [showTranslation, setShowTranslation] = useState(false);
   const [expandedGrammar, setExpandedGrammar] = useState<Record<number, boolean>>({});
-  const [showListeningScript, setShowListeningScript] = useState<Record<number, boolean>>({});
   const [showReadingTranslation, setShowReadingTranslation] = useState<Record<number, boolean>>({});
+  const [showBackToTop, setShowBackToTop] = useState(false);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [content, setContent] = useState<LessonContent | null>(null);
   const [loading, setLoading] = useState(false);
@@ -156,6 +164,20 @@ const App = () => {
   const [searchResults, setSearchResults] = useState<SearchResult[]>([]);
   const [searchType, setSearchType] = useState('全部');
   const searchInputRef = useRef<HTMLInputElement>(null);
+
+  // 监听滚动，控制返回顶部按钮显隐
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 300) {
+        setShowBackToTop(true);
+      } else {
+        setShowBackToTop(false);
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   // 加载books.json
   useEffect(() => {
@@ -339,18 +361,11 @@ const App = () => {
     }));
   };
 
-  const toggleListeningScript = (id: number) => {
-    setShowListeningScript(prev => ({
-      ...prev,
-      [id]: !prev[id]
-    }));
-  };
-
-  const toggleReadingTranslation = (index: number) => {
-    setShowReadingTranslation(prev => ({
-      ...prev,
-      [index]: !prev[index]
-    }));
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth',
+    });
   };
 
   // 停止当前音频
@@ -942,8 +957,14 @@ const App = () => {
   };
 
   return (
-    <>
-      {renderView()}
+    <div className={`theme-${theme}`} style={{ fontSize: fontSizeMapping[fontSize] }}>
+      <div className="min-h-screen bg-background text-foreground">
+        {renderView()}
+        <Toast message={toast.message} show={toast.show} />
+        {showBackToTop && currentView !== 'home' && (
+          <BackToTopButton onClick={scrollToTop} />
+        )}
+      </div>
       <SettingsModal
         isOpen={isSettingsOpen}
         onClose={() => setIsSettingsOpen(false)}
@@ -952,7 +973,7 @@ const App = () => {
         theme={theme}
         onThemeChange={setTheme}
       />
-    </>
+    </div>
   );
 };
 

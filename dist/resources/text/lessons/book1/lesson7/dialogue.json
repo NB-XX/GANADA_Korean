@@ -1,0 +1,28 @@
+{
+  "sentences": [
+    {
+      "speaker": "민지",
+      "korean": "야마다 씨,무엇을 합니까?",
+      "chinese": "山田，你在做什么？",
+      "audio": "resources/audio/lessons/book1/lesson7/dialogue/1.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "한국말 숙제를 합니다.",
+      "chinese": "做韩国语作业。",
+      "audio": "resources/audio/lessons/book1/lesson7/dialogue/2.mp3"
+    },
+    {
+      "speaker": "민지",
+      "korean": "숙제가 있습니까?",
+      "chinese": "有作业吗？",
+      "audio": "resources/audio/lessons/book1/lesson7/dialogue/3.mp3"
+    },
+    {
+      "speaker": "야마다",
+      "korean": "네,매일 숙제가 있습니다.",
+      "chinese": "是，每天都有作业。",
+      "audio": "resources/audio/lessons/book1/lesson7/dialogue/4.mp3"
+    }
+  ]
+}

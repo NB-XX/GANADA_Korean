@@ -63,21 +63,31 @@ def parse_dialogues(content):
         # 解析对话中的句子
         sentences = []
         lines = block.strip().split('\n')
-        
-        for line in lines:
+        last_speaker = None
+        for idx, line in enumerate(lines):
             line = line.strip()
             if not line:
                 continue
-                
-            # 解析说话者和内容 (格式: 说话者:内容)
+            
             match = re.match(r'^([^:]+):(.+)$', line)
             if match:
                 speaker = match.group(1).strip()
                 content = match.group(2).strip()
+                last_speaker = speaker
                 sentences.append({
                     'speaker': speaker,
                     'content': content
                 })
+            else:
+                # 无说话人前缀，继承上一说话人
+                if last_speaker is not None:
+                    sentences.append({
+                        'speaker': last_speaker,
+                        'content': line
+                    })
+                else:
+                    # 首行无说话人，跳过或警告
+                    print(f"警告: 第{lesson_num}课对话块首行无说话人，内容被跳过: {line}")
         
         if sentences:
             dialogues[lesson_num] = sentences
