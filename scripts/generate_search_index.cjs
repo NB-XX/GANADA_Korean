@@ -38,17 +38,20 @@ function main() {
     const bookId = parseInt(bookDir.replace(/[^0-9]/g, ''));
     const bookInfo = books.find(b => b.id === bookId) || {};
     const bookTitle = getBookTitle(bookInfo);
+    console.log(`[DEBUG] 处理bookDir: ${bookDir}, bookId: ${bookId}, bookTitle: ${bookTitle}`);
 
     fs.readdirSync(bookPath).forEach(lessonDir => {
       const lessonPath = path.join(bookPath, lessonDir);
       if (!fs.statSync(lessonPath).isDirectory()) return;
       const lessonId = parseInt(lessonDir.replace(/[^0-9]/g, ''));
       const lessonTitle = getLessonTitle(bookInfo, lessonId);
+      console.log(`  [DEBUG] 处理lessonDir: ${lessonDir}, lessonId: ${lessonId}, lessonTitle: ${lessonTitle}`);
 
       // 课文
       const dialoguePath = path.join(lessonPath, 'dialogue.json');
       const dialogue = tryReadJson(dialoguePath);
       if (dialogue && Array.isArray(dialogue.sentences)) {
+        console.log(`    [DEBUG] 课文: ${dialogue.sentences.length} 条`);
         dialogue.sentences.forEach(s => {
           index.push({
             type: '课文',
@@ -60,11 +63,14 @@ function main() {
             lessonTitle
           });
         });
+      } else {
+        console.log(`    [DEBUG] 课文: 无`);
       }
       // 语法
       const grammarPath = path.join(lessonPath, 'grammar.json');
       const grammar = tryReadJson(grammarPath);
       if (grammar && Array.isArray(grammar.points)) {
+        console.log(`    [DEBUG] 语法: ${grammar.points.length} 条`);
         grammar.points.forEach(p => {
           index.push({
             type: '语法',
@@ -76,11 +82,14 @@ function main() {
             lessonTitle
           });
         });
+      } else {
+        console.log(`    [DEBUG] 语法: 无`);
       }
       // 单词
       const wordsPath = path.join(lessonPath, 'words.json');
       const words = tryReadJson(wordsPath);
       if (words && Array.isArray(words.words)) {
+        console.log(`    [DEBUG] 单词: ${words.words.length} 条`);
         words.words.forEach(w => {
           index.push({
             type: '单词',
@@ -92,11 +101,14 @@ function main() {
             lessonTitle
           });
         });
+      } else {
+        console.log(`    [DEBUG] 单词: 无`);
       }
       // 听力
       const listeningPath = path.join(lessonPath, 'listening.json');
       const listening = tryReadJson(listeningPath);
       if (listening && Array.isArray(listening.exercises)) {
+        console.log(`    [DEBUG] 听力: ${listening.exercises.length} 条`);
         listening.exercises.forEach(e => {
           index.push({
             type: '听力',
@@ -108,11 +120,14 @@ function main() {
             lessonTitle
           });
         });
+      } else {
+        console.log(`    [DEBUG] 听力: 无`);
       }
       // 阅读
       const readingPath = path.join(lessonPath, 'reading.json');
       const reading = tryReadJson(readingPath);
       if (reading && Array.isArray(reading.passages)) {
+        console.log(`    [DEBUG] 阅读: ${reading.passages.length} 条`);
         reading.passages.forEach(p => {
           index.push({
             type: '阅读',
@@ -124,6 +139,8 @@ function main() {
             lessonTitle
           });
         });
+      } else {
+        console.log(`    [DEBUG] 阅读: 无`);
       }
     });
   });

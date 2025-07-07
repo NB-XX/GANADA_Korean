@@ -1,6 +1,2103 @@
 [
   {
     "type": "课文",
+    "content": "이리나 씨,휴대폰이 있습니까?",
+    "preview": "伊利娜，你有手机吗？",
+    "bookId": 1,
+    "lessonId": 10,
+    "bookTitle": "初级1",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "课文",
+    "content": "네,있습니다.",
+    "preview": "有。",
+    "bookId": 1,
+    "lessonId": 10,
+    "bookTitle": "初级1",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "课文",
+    "content": "휴대폰 번호가 몇 번입니까?",
+    "preview": "手机号码是多少？",
+    "bookId": 1,
+    "lessonId": 10,
+    "bookTitle": "初级1",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "课文",
+    "content": "010-7567-1345입니다.",
+    "preview": "是010-7567-1345。",
+    "bookId": 1,
+    "lessonId": 10,
+    "bookTitle": "初级1",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "课文",
+    "content": "리밍 씨 번호는 몇 번입니까?",
+    "preview": "李明，你的号码是多少？",
+    "bookId": 1,
+    "lessonId": 10,
+    "bookTitle": "初级1",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "课文",
+    "content": "제 번호는 010-3452-8795입니다.",
+    "preview": "我的号码是010-3452-8795。",
+    "bookId": 1,
+    "lessonId": 10,
+    "bookTitle": "初级1",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "语法",
+    "content": "숫자 1",
+    "preview": "汉字数字。谈论电话号码、价钱、日期时用。\n*读日期时，读作`-월 -일`。`월(月)`读作일월, 이월…십이월。`일(日)`读作일일, 이일…삼십일일。但是`6월`和`10월`的发音为`유월`和`시월`。",
+    "bookId": 1,
+    "lessonId": 10,
+    "bookTitle": "初级1",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "语法",
+    "content": "몇",
+    "preview": "用于询问数或数量。用在单位名词的前边。问价钱时用`얼마`来提问，不能用`몇 원`。",
+    "bookId": 1,
+    "lessonId": 10,
+    "bookTitle": "初级1",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "阅读",
+    "content": "제 생일은",
+    "preview": "제 생일은 12월 23일입니다.\n제 휴대폰 번호는 010-2213-7758 입니다.\n우리 집 전화번호는 776-9984 입니다.\n저는 지하철 2호선을 탑니다.\n우리 교실은 4층 407호입니다.\n우리 집은 행복아파트 102동 1103호입니다.",
+    "bookId": 1,
+    "lessonId": 10,
+    "bookTitle": "初级1",
+    "lessonTitle": "第10课"
+  },
+  {
+    "type": "课文",
+    "content": "어느 은행에서 일하십니까?",
+    "preview": "在哪个银行工作？",
+    "bookId": 1,
+    "lessonId": 11,
+    "bookTitle": "初级1",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "课文",
+    "content": "서울 은행에서 일합니다.",
+    "preview": "在首尔银行工作。",
+    "bookId": 1,
+    "lessonId": 11,
+    "bookTitle": "初级1",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "课文",
+    "content": "은행이 어디에 있습니까?",
+    "preview": "银行在哪儿？",
+    "bookId": 1,
+    "lessonId": 11,
+    "bookTitle": "初级1",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "课文",
+    "content": "2호선 시청역 근처에 있습니다.",
+    "preview": "在二号线市厅站附近。",
+    "bookId": 1,
+    "lessonId": 11,
+    "bookTitle": "初级1",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "课文",
+    "content": "우리 회사도 그 근처에 있습니다.",
+    "preview": "我的公司也在那附近。",
+    "bookId": 1,
+    "lessonId": 11,
+    "bookTitle": "初级1",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "语法",
+    "content": "어느",
+    "preview": "疑问冠形词。在两个或两个以上的事物中，对不知道的事物进行询问时使用。相当于汉语的“哪个”、“某个”。",
+    "bookId": 1,
+    "lessonId": 11,
+    "bookTitle": "初级1",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "语法",
+    "content": "에",
+    "preview": "用在场所名词之后，表示事物或人所在的场所的助词。`에`后常出现`있다`, `없다`, `많다`。",
+    "bookId": 1,
+    "lessonId": 11,
+    "bookTitle": "初级1",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "语法",
+    "content": "도",
+    "preview": "列举相同的事实或行为时用的助词。`도`与主格助词`이/가`或宾格助词`을/를`结合使用时，`이/가`, `을/를`可省略。",
+    "bookId": 1,
+    "lessonId": 11,
+    "bookTitle": "初级1",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "阅读",
+    "content": "제 방입니다",
+    "preview": "여기는 제 방입니다.\n침대 옆에 책상이 있습니다.\n책상 위에 책이 있습니다.\n컴퓨터도 있습니다.\n왼쪽에 책이 있습니다.\n오른쪽에 컴퓨터가 있습니다.\n가방이 책상 아래에 있습니다.\n연필이 서랍 안에 있습니다.\n책 위에도 연필이 있습니다.\n서랍 안에는 사진도 있습니다.",
+    "bookId": 1,
+    "lessonId": 11,
+    "bookTitle": "初级1",
+    "lessonTitle": "第11课"
+  },
+  {
+    "type": "课文",
+    "content": "주말에 무엇을 하셨습니까?",
+    "preview": "周末做什么了？",
+    "bookId": 1,
+    "lessonId": 12,
+    "bookTitle": "初级1",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "课文",
+    "content": "부산에 친구를 만나러 갔습니다.",
+    "preview": "去釜山见朋友了。",
+    "bookId": 1,
+    "lessonId": 12,
+    "bookTitle": "初级1",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "课文",
+    "content": "언제 서울에 오셨습니까?",
+    "preview": "什么时候回首尔的？",
+    "bookId": 1,
+    "lessonId": 12,
+    "bookTitle": "初级1",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "课文",
+    "content": "일요일 밤에 왔습니다.",
+    "preview": "星期日晚上回来的。",
+    "bookId": 1,
+    "lessonId": 12,
+    "bookTitle": "初级1",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "语法",
+    "content": "에",
+    "preview": "用在时间、场所的名词后，表示方向、时间、方位等。",
+    "bookId": 1,
+    "lessonId": 12,
+    "bookTitle": "初级1",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "语法",
+    "content": "언제",
+    "preview": "询问时间时使用。",
+    "bookId": 1,
+    "lessonId": 12,
+    "bookTitle": "初级1",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "语法",
+    "content": "았/었",
+    "preview": "用在动词词干后面，表示过去时态或动作已完成。按词干的元音有如下的变化。尊敬形为`-(으)셨습니다`。`-이다`前的名词有收音时变成`-이었습니다`，没有收音时变成`-였습니다`，`-이가 아니다`变成`-이/가 아니었습니다`。",
+    "bookId": 1,
+    "lessonId": 12,
+    "bookTitle": "初级1",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "阅读",
+    "content": "하숙집",
+    "preview": "우리 하숙집은 신촌에 있습니다. 지하철역에서 가깝고 깨끗합니다.\n밥도 맛있고 아주머니도 친절합니다.\n우리들은 아침도 같이 먹고 저녁도 같이 먹습니다.\n식사 시간에 이야기도 많이 합니다. 시끄럽지만 재미있습니다.\n하숙집 사람들을 소개하겠습니다.\n수잔 씨는 키가 크고 예쁩니다.\n아마다 씨는 한국말을 잘합니다.\n목소리가 크고 발음이 좋습니다.\n이리나 씨는 조용하지만 친구가 많습니다.\n우리들은 한국 생활이 즐겁습니다.",
+    "bookId": 1,
+    "lessonId": 12,
+    "bookTitle": "初级1",
+    "lessonTitle": "第12课"
+  },
+  {
+    "type": "课文",
+    "content": "어제 동대문 시장에서 쇼핑을 했습니다.",
+    "preview": "昨天去东大门市场逛街了。",
+    "bookId": 1,
+    "lessonId": 13,
+    "bookTitle": "初级1",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "课文",
+    "content": "쇼핑을 많이 했습니까?",
+    "preview": "买了很多东西吗？",
+    "bookId": 1,
+    "lessonId": 13,
+    "bookTitle": "初级1",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "课文",
+    "content": "네,이 옷도 사고 가방도 샀습니다.",
+    "preview": "是的，我买了这件衣服，还有这个包。",
+    "bookId": 1,
+    "lessonId": 13,
+    "bookTitle": "初级1",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "课文",
+    "content": "그리고 떡볶이도 먹었습니다.",
+    "preview": "还吃了炒年糕。",
+    "bookId": 1,
+    "lessonId": 13,
+    "bookTitle": "初级1",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "课文",
+    "content": "떡볶이가 어떻습니까?",
+    "preview": "炒年糕怎么样？",
+    "bookId": 1,
+    "lessonId": 13,
+    "bookTitle": "初级1",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "课文",
+    "content": "좀 맵지만 맛있습니다.",
+    "preview": "虽然有点儿辣，但是很好吃。",
+    "bookId": 1,
+    "lessonId": 13,
+    "bookTitle": "初级1",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "语法",
+    "content": "고",
+    "preview": "用在词干后，表示并列。",
+    "bookId": 1,
+    "lessonId": 13,
+    "bookTitle": "初级1",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "语法",
+    "content": "지만",
+    "preview": "用在词干后，表示转折。相当于汉语的“但是”、“可是”、“不过”。",
+    "bookId": 1,
+    "lessonId": 13,
+    "bookTitle": "初级1",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "语法",
+    "content": "어떻다",
+    "preview": "通常以`-이/가 어떻습니까?`形态出现，用来询问事物的形态或性质。在名词前用`어떤~?`。",
+    "bookId": 1,
+    "lessonId": 13,
+    "bookTitle": "初级1",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "语法",
+    "content": "그리고",
+    "preview": "平等地罗列两个句子或按时间顺序罗列时使用。",
+    "bookId": 1,
+    "lessonId": 13,
+    "bookTitle": "初级1",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "阅读",
+    "content": "영수증",
+    "preview": "미래마트\n서울 마포구 동교동 201-1\n전화: 332-1234\n포도 주스 2병 6,800\n초콜릿 2개 1,400\n맥주 3병 10,500\n쇠고기 300g 12,000\n닭 2마리 9,000\n합계 39,700원",
+    "bookId": 1,
+    "lessonId": 13,
+    "bookTitle": "初级1",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "课文",
+    "content": "사과가 얼마입니까?",
+    "preview": "苹果多少钱？",
+    "bookId": 1,
+    "lessonId": 14,
+    "bookTitle": "初级1",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "课文",
+    "content": "한 개에 1,000원입니다. 달고 맛있습니다.",
+    "preview": "一个1000元。又甜又好吃。",
+    "bookId": 1,
+    "lessonId": 14,
+    "bookTitle": "初级1",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "课文",
+    "content": "다섯 개 주십시오. 귤은 1,000원에 몇 개입니까?",
+    "preview": "来五个吧。橘子1000元几个？",
+    "bookId": 1,
+    "lessonId": 14,
+    "bookTitle": "初级1",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "课文",
+    "content": "귤은 1,000원에 3개입니다. 이 귤도 아주 답니다.",
+    "preview": "橘子1000元3个。这个橘子也非常甜。",
+    "bookId": 1,
+    "lessonId": 14,
+    "bookTitle": "初级1",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "语法",
+    "content": "숫자 2",
+    "preview": "固有数词。计算事物的数量、时间、年龄时用韩国固有名词。\n*常用于单位名词前，此时`하나`, `둘`, `셋`, `넷`, `스물`相应转变为`한-`, `두-`, `세-`, `네-`, `스무-`。",
+    "bookId": 1,
+    "lessonId": 14,
+    "bookTitle": "初级1",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "语法",
+    "content": "에",
+    "preview": "与单位名词(-개, -권, -시간 等)结合表示标准的助词。",
+    "bookId": 1,
+    "lessonId": 14,
+    "bookTitle": "初级1",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "语法",
+    "content": "'ㄹ' 불규칙동사•형용사",
+    "preview": "动词、形容词词干以`ㄹ`为收音时，后面遇到以`ㄴ, ㅂ, ㅅ`为开头的音节时`ㄹ`将脱落。",
+    "bookId": 1,
+    "lessonId": 14,
+    "bookTitle": "初级1",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "阅读",
+    "content": "한국 음식",
+    "preview": "저는 지난달에 한국에 왔습니다.\n한국은 처음입니다.\n어제는 혼자 식당에 갔습니다.\n저는 한국 음식 이름을 잘 모릅니다.\n메뉴를 읽었습니다.\n그리고 ‘비빔국’을 시켰습니다.\n그런데 주인 아주머니가 웃었습니다.\n그건 음식 이름이 아니었습니다.\n그래서 갈비탕을 시켰습니다.\n갈비탕은 아주 맛있었습니다.",
+    "bookId": 1,
+    "lessonId": 14,
+    "bookTitle": "初级1",
+    "lessonTitle": "第14课"
+  },
+  {
+    "type": "课文",
+    "content": "뭘 드시겠습니까? 저는 배가 고픕니다.",
+    "preview": "想吃什么？我很饿。",
+    "bookId": 1,
+    "lessonId": 15,
+    "bookTitle": "初级1",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "课文",
+    "content": "물냉면을 먹겠습니다.",
+    "preview": "我要吃冷面。",
+    "bookId": 1,
+    "lessonId": 15,
+    "bookTitle": "初级1",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "课文",
+    "content": "이 집은 냉면도 맛있고 갈비도 맛있습니다.",
+    "preview": "这家冷面很好吃，排骨也很好吃。",
+    "bookId": 1,
+    "lessonId": 15,
+    "bookTitle": "初级1",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "课文",
+    "content": "그럼 갈비와 냉면을 먹겠습니다.",
+    "preview": "那么我要排骨和冷面。",
+    "bookId": 1,
+    "lessonId": 15,
+    "bookTitle": "初级1",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "课文",
+    "content": "여기요,갈비 2인분하고 물냉면 두 그릇 주십시오.",
+    "preview": "劳驾，给我两份排骨和两碗冷面。",
+    "bookId": 1,
+    "lessonId": 15,
+    "bookTitle": "初级1",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "语法",
+    "content": "와/과",
+    "preview": "用于连接两个以上的名词的助词，相当于汉语的“和”、“与”、“跟”。无收音时用`와`，有收音时用`과`。\n`하고`和`-와/과`具有同样的功能。但不随名词有无收音而变化，主要用于口语。",
+    "bookId": 1,
+    "lessonId": 15,
+    "bookTitle": "初级1",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "语法",
+    "content": "겠-",
+    "preview": "表示说话者的意志或将来时。主语为第二、三人称时表示说话人的推测。",
+    "bookId": 1,
+    "lessonId": 15,
+    "bookTitle": "初级1",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "阅读",
+    "content": "윤상우 씨의 하루",
+    "preview": "윤상우 씨의 하루입니다.\n오늘은 7시에 일어났습니다.\n7시 50분에 아침을 먹었습니다.\n8시 30분에 회사에 도착했습니다.\n오전에 일이 많았습니다.\n10시에 회의를 시작했습니다.\n12시에 회의가 끝났습니다.\n12시 반에 점심을 먹었습니다.\n오후에는 손님을 만났습니다. 6시 반에 퇴근했습니다.",
+    "bookId": 1,
+    "lessonId": 15,
+    "bookTitle": "初级1",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "课文",
+    "content": "민지 씨,내일 오후에 시간이 있습니까?",
+    "preview": "敏智，明天下午有时间吗？",
+    "bookId": 1,
+    "lessonId": 16,
+    "bookTitle": "初级1",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "课文",
+    "content": "아니요,2시에 약속이 있습니다.",
+    "preview": "没有，两点有约会。",
+    "bookId": 1,
+    "lessonId": 16,
+    "bookTitle": "初级1",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "课文",
+    "content": "내일 저녁은 어떻습니까?",
+    "preview": "明天晚上怎么样？",
+    "bookId": 1,
+    "lessonId": 16,
+    "bookTitle": "初级1",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "课文",
+    "content": "저녁에는 날마다 아르바이트를 합니다.",
+    "preview": "每天晚上都打工。",
+    "bookId": 1,
+    "lessonId": 16,
+    "bookTitle": "初级1",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "课文",
+    "content": "아르바이트가 보통 몇 시에 끝납니까?",
+    "preview": "打工一般几点结束？",
+    "bookId": 1,
+    "lessonId": 16,
+    "bookTitle": "初级1",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "语法",
+    "content": "시간(-시 -분)",
+    "preview": "用于`시`时读为`한, 두, 세……`，用于`분`时读为`일, 이, 삼……`。",
+    "bookId": 1,
+    "lessonId": 16,
+    "bookTitle": "初级1",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "语法",
+    "content": "마다",
+    "preview": "助词，表示“每，每个”。用在时间名词后表示“每当这个时间”。",
+    "bookId": 1,
+    "lessonId": 16,
+    "bookTitle": "初级1",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "阅读",
+    "content": "언제입니까?",
+    "preview": "저는 2002년 2월에 고등학교를 졸업했습니다.\n그리고 2002년 3월에 대학교에 입학했습니다.\n2006년 2월부터 2007년 3월까지 일본에서 유학을 했습니다.\n그리고 2007년 4월에 은행에 취직을 했습니다.\n은행에서 지금의 아내를 만났습니다.\n2009년 7월에 결혼했습니다.",
+    "bookId": 1,
+    "lessonId": 16,
+    "bookTitle": "初级1",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "课文",
+    "content": "언제부터 그 회사에서 일하셨습니까?",
+    "preview": "从什么时候开始在那家公司工作的？",
+    "bookId": 1,
+    "lessonId": 17,
+    "bookTitle": "初级1",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "课文",
+    "content": "금년 3월부터 일했습니다.",
+    "preview": "从今年3月份开始工作的。",
+    "bookId": 1,
+    "lessonId": 17,
+    "bookTitle": "初级1",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "课文",
+    "content": "그 전에는 중국에서 근무했습니다.",
+    "preview": "之前在中国工作。",
+    "bookId": 1,
+    "lessonId": 17,
+    "bookTitle": "初级1",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "课文",
+    "content": "아,그렇습니까?",
+    "preview": "啊，是吗？",
+    "bookId": 1,
+    "lessonId": 17,
+    "bookTitle": "初级1",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "课文",
+    "content": "저도 한국에 오기 전에 중국에서 공부했습니다.",
+    "preview": "我来韩国之前也在中国读书。",
+    "bookId": 1,
+    "lessonId": 17,
+    "bookTitle": "初级1",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "课文",
+    "content": "언제부터 언제까지 중국에 계셨습니까?",
+    "preview": "从什么时候到什么时候在中国？",
+    "bookId": 1,
+    "lessonId": 17,
+    "bookTitle": "初级1",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "语法",
+    "content": "부터 -까지",
+    "preview": "表示时间、地点的起点的和终点的助词，相当于汉语的“从~到~”。表示地点时多用`-에서`代替`-부터`。",
+    "bookId": 1,
+    "lessonId": 17,
+    "bookTitle": "初级1",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "语法",
+    "content": "기 전에",
+    "preview": "表示后一动作或状态比前一动作先出现。相当于汉语的“-以前”。名词后用`-전에`，动词后用`-기 전에`。",
+    "bookId": 1,
+    "lessonId": 17,
+    "bookTitle": "初级1",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "阅读",
+    "content": "문자 메시지",
+    "preview": "오늘 수업 후에\n무엇을 합니까?\n같이 청계천에 갑시다.\n5/23 9:00 am\n이윤희\n010-1234-5678\n미안합니다. ㅠ.ㅠ 오늘 오후에\n친구와 같이 점심을 먹은 후에\n영화를 봅니다.\n저녁에는 어떻습니까?\n5/23 9:10 am\n히로미\n010-5678-1234\n괜찮습니다. ^^ 청계\n천은 저녁이 아름답\n습니다.\n저녁에 갑시다. 그\n친구하고 같이 오십\n시오.\n5/23 9:13 am\n이윤희\n010-1234-5678\n네~ 같이 가겠습니다.\n청계천에서 사진도 찍읍시다!\n5/23 9:15 am\n히로미\n010-5678-1234",
+    "bookId": 1,
+    "lessonId": 17,
+    "bookTitle": "初级1",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "课文",
+    "content": "리밍 씨,오늘 수업 후에 무엇을 합니까?",
+    "preview": "李明，今天下课后做什么？",
+    "bookId": 1,
+    "lessonId": 18,
+    "bookTitle": "初级1",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "课文",
+    "content": "수업이 끝난 후에 태권도를 배우러 갑니다.",
+    "preview": "下课后去学跆拳道。",
+    "bookId": 1,
+    "lessonId": 18,
+    "bookTitle": "初级1",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "课文",
+    "content": "6시에 정동극장에서 뮤지컬 공연이 있습니다.같이 가시겠습니까?",
+    "preview": "六点在贞洞剧场有音乐剧的演出。要一起去吗？",
+    "bookId": 1,
+    "lessonId": 18,
+    "bookTitle": "初级1",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "课文",
+    "content": "네,좋습니다. 같이 갑시다.",
+    "preview": "好，一起去吧。",
+    "bookId": 1,
+    "lessonId": 18,
+    "bookTitle": "初级1",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "课文",
+    "content": "그럼 5시 반에 극장 앞에서 만납시다.",
+    "preview": "那么五点半在剧场前边见吧。",
+    "bookId": 1,
+    "lessonId": 18,
+    "bookTitle": "初级1",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "语法",
+    "content": "(으)ㄴ 후에",
+    "preview": "表示后一动作或事件比前一动作、事件先出现。相当于汉语的“在~之后”。名词后用`-후에`，动词词干无收音的用`-ㄴ 후에`，有收音的用`-은 후에`。",
+    "bookId": 1,
+    "lessonId": 18,
+    "bookTitle": "初级1",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "语法",
+    "content": "(으)ㅂ시다",
+    "preview": "向他人提议一起做某事时使用。动词词干无收音时用`-ㅂ시다`，有收音时用`-읍시다`。否定形态是`-지 맙시다`。",
+    "bookId": 1,
+    "lessonId": 18,
+    "bookTitle": "初级1",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "阅读",
+    "content": "취미",
+    "preview": "제 취미는 요리입니다.\n저는 대학교 졸업 후부터 요리를 했습니다.\n그 전에는 가족과 같이 살았기 때문에\n음식을 만들지 않았습니다.\n혼자서 회사 근처로 이사한 후에 요리를 시작했습니다.\n처음에 김치찌개를 만들었습니다.\n맛이 없었기 때문에 제가 만들었지만 먹지 않았습니다.\n그래서 요리 책을 샀습니다.\n책을 산 후에 주말마다 음식을 만들었습니다.\n음식 만들기가 아주 재미있었습니다.\n요즘은 중국요리하고 파스타도 만듭니다.\n오늘 저녁에는 해물 스파게티를 만들겠습니다.",
+    "bookId": 1,
+    "lessonId": 18,
+    "bookTitle": "初级1",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "课文",
+    "content": "이 김밥을 상우 씨가 만들었습니까? 정말 맛있습니다.",
+    "preview": "这个紫菜包饭是相佑做的吗？真好吃。",
+    "bookId": 1,
+    "lessonId": 19,
+    "bookTitle": "初级1",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "课文",
+    "content": "제 취미가 요리입니다. 히로미 씨도 집에서 요리합니까?",
+    "preview": "我的爱好是烹饪。宏美你也在家做饭吗？",
+    "bookId": 1,
+    "lessonId": 19,
+    "bookTitle": "初级1",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "课文",
+    "content": "아니요,저는 하숙집에서 살기 때문에 요리를 하지않습니다.",
+    "preview": "不，我因为住在寄宿房，所以不做饭。",
+    "bookId": 1,
+    "lessonId": 19,
+    "bookTitle": "初级1",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "课文",
+    "content": "제 취미는 자전거 타기입니다.",
+    "preview": "我的爱好是骑自行车。",
+    "bookId": 1,
+    "lessonId": 19,
+    "bookTitle": "初级1",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "课文",
+    "content": "저도 자전거를 잘 탑니다. 같이 타러 갑시다.",
+    "preview": "我骑车得也很好。一起去骑吧。",
+    "bookId": 1,
+    "lessonId": 19,
+    "bookTitle": "初级1",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "语法",
+    "content": "지 않다",
+    "preview": "陈述句和疑问句的否定式，用于词干之后，相当于汉语的“不”。",
+    "bookId": 1,
+    "lessonId": 19,
+    "bookTitle": "初级1",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "语法",
+    "content": "기 때문에",
+    "preview": "连接词尾。用于两个句子中间，表示前一行动是后一行动的原因。后面只能跟陈述句和疑问句，相当于汉语的“因为~所以~”。",
+    "bookId": 1,
+    "lessonId": 19,
+    "bookTitle": "初级1",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "阅读",
+    "content": "야구를 좋아합니다",
+    "preview": "저는 야구를 좋아합니다.\n중학교하고 고등학교에서 야구를 했습니다.\n학교 수업이 끝난 후에 운동장에서 매일 연습을 했습니다.\n고등학교를 졸업한 후에는 야구를 안 했지만\n야구장에 자주 갔습니다.\n저는 시카고에 살았기 때문에 시카고 팀을 응원했습니다.\n한국에 온 후에도 주말에는 집에서 야구를 봅니다.\n텔레비전에서 일본 야구도 하고, 미국 야구도 합니다.\n한국 야구도 재미있습니다.\n이번 주말에는 한국 야구를 보러 잠실야구장에 가겠습니다.",
+    "bookId": 1,
+    "lessonId": 19,
+    "bookTitle": "初级1",
+    "lessonTitle": "第19课"
+  },
+  {
+    "type": "课文",
+    "content": "제니 씨는 무슨 운동을 좋아합니까?",
+    "preview": "珍妮，你喜欢什么运动？",
+    "bookId": 1,
+    "lessonId": 20,
+    "bookTitle": "初级1",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "课文",
+    "content": "테니스를 좋아합니다.",
+    "preview": "我喜欢网球。",
+    "bookId": 1,
+    "lessonId": 20,
+    "bookTitle": "初级1",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "课文",
+    "content": "한국에 오기 전에 자주 쳤습니다.",
+    "preview": "来韩国以前经常打。",
+    "bookId": 1,
+    "lessonId": 20,
+    "bookTitle": "初级1",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "课文",
+    "content": "한국에서도 테니스를 치십니까?",
+    "preview": "在韩国也打网球吗？",
+    "bookId": 1,
+    "lessonId": 20,
+    "bookTitle": "初级1",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "课文",
+    "content": "아니요,요즘은 바쁘기 때문에 잘 안 칩니다.",
+    "preview": "不，最近因为忙，所以不经常打了。",
+    "bookId": 1,
+    "lessonId": 20,
+    "bookTitle": "初级1",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "语法",
+    "content": "무슨",
+    "preview": "在询问后面名词的名称、种类或所属时使用。相当于汉语的“什么~”。",
+    "bookId": 1,
+    "lessonId": 20,
+    "bookTitle": "初级1",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "语法",
+    "content": "안",
+    "preview": "陈述句和疑问句变为否定句时，在动词、形容词之前用`안`。`名词+하다`形式的动词变为否定时，改为`名词+안 하다`。",
+    "bookId": 1,
+    "lessonId": 20,
+    "bookTitle": "初级1",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "阅读",
+    "content": "제 고향은",
+    "preview": "제 이름은 앙리입니다. 저는 프랑스에서 왔습니다.\n제 고향은 니스입니다. 니스는 프랑스 남쪽에 있습니다.\n여러분, 니스를 아십니까?\n날씨가 좋고 바다가 있기 때문에 여러 나라 사람들이 여행을 많이 옵니다.\n또 니스에서는 해마다 2월에 축제를 합니다.\n그 축제가 유명합니다. 니스에는 박물관도 많습니다.\n저는 이번 휴가에 니스에 갑니다.\n여러분도 니스에 오십시오.",
+    "bookId": 1,
+    "lessonId": 20,
+    "bookTitle": "初级1",
+    "lessonTitle": "第20课"
+  },
+  {
+    "type": "课文",
+    "content": "휴가에 친구들하고 일본에 다녀왔어요. 이거 드세요.일본 과자예요.",
+    "preview": "假期和朋友一起去了趟日本。尝尝这个，是日本的点心。",
+    "bookId": 1,
+    "lessonId": 21,
+    "bookTitle": "初级1",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "课文",
+    "content": "아,고맙습니다.",
+    "preview": "啊，谢谢。",
+    "bookId": 1,
+    "lessonId": 21,
+    "bookTitle": "初级1",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "课文",
+    "content": "저도 제주도 여행에서 그저께 돌아왔어요.",
+    "preview": "我也去了济州岛旅行，前天刚回来。",
+    "bookId": 1,
+    "lessonId": 21,
+    "bookTitle": "初级1",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "课文",
+    "content": "여행이 재미있었어요?",
+    "preview": "旅行有意思吗？",
+    "bookId": 1,
+    "lessonId": 21,
+    "bookTitle": "初级1",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "课文",
+    "content": "네,경치도 아름답고 음식도 맛있고 정말 좋았어요.",
+    "preview": "是的，风景很漂亮、食物也很好吃，真的很有意思。",
+    "bookId": 1,
+    "lessonId": 21,
+    "bookTitle": "初级1",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "课文",
+    "content": "일본 여행은 어땠어요?",
+    "preview": "日本旅行怎么样？",
+    "bookId": 1,
+    "lessonId": 21,
+    "bookTitle": "初级1",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "语法",
+    "content": "하고",
+    "preview": "助词`-하고`（参考15课语法 1) 表示一起做某事，与`-와/과`具有同样的功能。常与`같이`、`함께`一起使用。",
+    "bookId": 1,
+    "lessonId": 21,
+    "bookTitle": "初级1",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "语法",
+    "content": "아/어요",
+    "preview": "主要用于非正式的日常会话中。可用于陈述句、疑问句、命令句。根据词干最后一个元音变为`-아요`、`-어요`。尊敬式为`-(으)세요`。\n`-이다`在名词做谓词时使用，有收音时变为`-이에요`、无收音时变为`-예요`。`아니다`变为`아니에요`。",
+    "bookId": 1,
+    "lessonId": 21,
+    "bookTitle": "初级1",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "阅读",
+    "content": "언제 만날까요?",
+    "preview": "히로미 씨는 1주일에 한 번 한국 친구 민지하고 같이 공부합니다.\n히로미: 다음 주에는 언제 만날까요?\n민지: 화요일 오전에 시간이 있어요?\n히로미: 오전에는 수업이 있어요. 수업 끝나고 오후에 만납시다.\n민지: 미안해요. 저는 화요일 오후에 아르바이트가 있어요.\n수요일은 어때요?\n히로미: 수요일은 약속이 있어요. 친구와 쇼핑하러 가요.\n민지: 그럼 목요일 오후에 만날까요?\n히로미: 네, 목요일 2시에 만나요. 공부하고 영화 보러 갈까요?\n민지: 좋아요. 영화 보고 저녁도 같이 먹읍시다. 어디에서 만날까요?\n히로미: 민지 씨 학교 앞에서 만납시다.",
+    "bookId": 1,
+    "lessonId": 21,
+    "bookTitle": "初级1",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "课文",
+    "content": "우리 내일 뭐 할까요?",
+    "preview": "我们明天做什么？",
+    "bookId": 1,
+    "lessonId": 22,
+    "bookTitle": "初级1",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "课文",
+    "content": "오전에는 바다에서 수영하고 오후에는 여기저기 구경하러 갑시다.",
+    "preview": "上午去大海游泳，下午到处逛逛吧。",
+    "bookId": 1,
+    "lessonId": 22,
+    "bookTitle": "初级1",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "课文",
+    "content": "부산은 자갈치시장이 유명해요. 거기에도 갑시다.",
+    "preview": "釜山的札嘎其市场非常有名。我们也去那儿吧。",
+    "bookId": 1,
+    "lessonId": 22,
+    "bookTitle": "初级1",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "课文",
+    "content": "그럼 내일 저녁은 자갈치시장에서 생선회를 먹을까요?",
+    "preview": "那么明天晚上去札嘎其市场吃生鱼片怎么样？",
+    "bookId": 1,
+    "lessonId": 22,
+    "bookTitle": "初级1",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "语法",
+    "content": "(으)ㄹ까요?",
+    "preview": "邀请对方一起做某事时使用。动词词干无收音时用`-ㄹ까요?`，有收音时用`-을까요?`。主语是`우리`，常常省略。回答时用`-(으)ㅂ시다`，否定形式为`-지 말까요?`。",
+    "bookId": 1,
+    "lessonId": 22,
+    "bookTitle": "初级1",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "语法",
+    "content": "고",
+    "preview": "用在动词的词干后表示前一个动作之后发生后一个动作。",
+    "bookId": 1,
+    "lessonId": 22,
+    "bookTitle": "初级1",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "阅读",
+    "content": "제 꿈은",
+    "preview": "제니: 히로미 씨는 꿈이 뭐였어요?\n히로미: 제 꿈은 학교 선생님이었어요.\n영어를 가르치고 싶었어요. 제니 씨는요?\n제니: 저는 고등학교를 쳤어요.\n프로 테니스선수가 꿈이었어요.\n히로미: 그래요? 저도 테니스를 좋아해요.\n요즘도 테니스를 쳐요?\n제니: 네, 가끔 쳐요. 이번 주말에 같이 치시겠어요?\n히로미: 네, 그래요. 같이 치러 갑시다.",
+    "bookId": 1,
+    "lessonId": 22,
+    "bookTitle": "初级1",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "课文",
+    "content": "히로미 씨는 한국말을 공부한 후에 뭘 하려고 해요?",
+    "preview": "宏美，你学完韩国语以后，想要做什么？",
+    "bookId": 1,
+    "lessonId": 23,
+    "bookTitle": "初级1",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "课文",
+    "content": "일본에서 한국말도 가르치고 번역도 하고 싶어요.리밍 씨는요?",
+    "preview": "想在日本教韩国语，也想做翻译。李明你呢？",
+    "bookId": 1,
+    "lessonId": 23,
+    "bookTitle": "初级1",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "课文",
+    "content": "졸업 후에 취직하려고 해요. 중국에 한국 회사가 많이 있어요.",
+    "preview": "我想毕业后就业。在中国有很多韩国公司。",
+    "bookId": 1,
+    "lessonId": 23,
+    "bookTitle": "初级1",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "课文",
+    "content": "어느 회사에서 일하고 싶어요?",
+    "preview": "想在哪家公司工作呢？",
+    "bookId": 1,
+    "lessonId": 23,
+    "bookTitle": "初级1",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "语法",
+    "content": "(으)려고 하다",
+    "preview": "接动词的词干后，表示主语的意愿或打算。\n动词词干无收音或有`ㄹ`收音时，用`-려고`；有收音，则用`-으려고`。",
+    "bookId": 1,
+    "lessonId": 23,
+    "bookTitle": "初级1",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "语法",
+    "content": "고 싶다",
+    "preview": "接动词词干后，表示希望和愿望。当主语为三人称时，用`싶어하다`。",
+    "bookId": 1,
+    "lessonId": 23,
+    "bookTitle": "初级1",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "阅读",
+    "content": "제 꿈은",
+    "preview": "제니: 히로미 씨는 꿈이 뭐였어요?\n히로미: 제 꿈은 학교 선생님이었어요.\n영어를 가르치고 싶었어요. 제니 씨는요?\n제니: 저는 고등학교에서 테니스를 쳤어요.\n프로테니스선수가 꿈이었어요.\n히로미: 그래요? 저도 테니스를 좋아해요.\n요즘도 테니스를 쳐요?\n제니: 네, 가끔 쳐요. 이번 주말에 같이 치시겠어요?\n히로미: 네, 그래요. 같이 치러 갑시다.",
+    "bookId": 1,
+    "lessonId": 23,
+    "bookTitle": "初级1",
+    "lessonTitle": "第23课"
+  },
+  {
+    "type": "课文",
+    "content": "여보세요,",
+    "preview": "喂，",
+    "bookId": 1,
+    "lessonId": 24,
+    "bookTitle": "初级1",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "课文",
+    "content": "상우 씨 휴대폰 아닙니까?",
+    "preview": "是相佑的手机吗？",
+    "bookId": 1,
+    "lessonId": 24,
+    "bookTitle": "初级1",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "课文",
+    "content": "아니요,잘못 거셨습니다.",
+    "preview": "不是，打错了。",
+    "bookId": 1,
+    "lessonId": 24,
+    "bookTitle": "初级1",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "课文",
+    "content": "죄송합니다.",
+    "preview": "对不起。",
+    "bookId": 1,
+    "lessonId": 24,
+    "bookTitle": "初级1",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "课文",
+    "content": "여보세요,",
+    "preview": "喂，",
+    "bookId": 1,
+    "lessonId": 24,
+    "bookTitle": "初级1",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "课文",
+    "content": "이리나 씨,지금 어디세요?",
+    "preview": "伊利娜，你现在在哪儿？",
+    "bookId": 1,
+    "lessonId": 24,
+    "bookTitle": "初级1",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "课文",
+    "content": "아,상우 씨,제가 조금 늦게 출발했어요. 그래서 지금 가고 있어요.",
+    "preview": "喂，相佑，我出发得有点晚，正在去的路上。",
+    "bookId": 1,
+    "lessonId": 24,
+    "bookTitle": "初级1",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "课文",
+    "content": "저도 방금 도착했어요. 천천히 오세요.",
+    "preview": "我也刚到。不着急，慢慢来。",
+    "bookId": 1,
+    "lessonId": 24,
+    "bookTitle": "初级1",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "语法",
+    "content": "고 있다",
+    "preview": "接动词词干后，表示动作正在进行。",
+    "bookId": 1,
+    "lessonId": 24,
+    "bookTitle": "初级1",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "语法",
+    "content": "그래서",
+    "preview": "前一小句的内容是后一小句的内容的原因或理由时用。",
+    "bookId": 1,
+    "lessonId": 24,
+    "bookTitle": "初级1",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "阅读",
+    "content": "여보세요",
+    "preview": "나미: 여보세요, 거기 가나다 한국어학원입니까?\n김 선생님: 네, 그런데요.\n나미: 저는 나미라고 합니다. 이 선생님 계세요?\n김 선생님: 잠깐만 기다리세요.\n이 선생님: 여보세요, 전화 바꿨습니다.\n나미: 선생님 안녕하세요? 저 나미예요.\n후웨이: 여보세요, 민정 씨 휴대폰 아닙니까?\n토니: 아닌데요. 몇 번에 거셨어요?\n후웨이: 010-3152-0899번 아닙니까?\n토니: 잘못 거셨습니다.\n후웨이: 죄송합니다.",
+    "bookId": 1,
+    "lessonId": 24,
+    "bookTitle": "初级1",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "课文",
+    "content": "이번 토요일에 우리 집에 친구들을 초대하려고 해요.",
+    "preview": "这个星期六想邀请朋友们来我家。",
+    "bookId": 1,
+    "lessonId": 25,
+    "bookTitle": "初级1",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "课文",
+    "content": "히로미 씨도 올 수 있어요?",
+    "preview": "宏美，你也能来吗？",
+    "bookId": 1,
+    "lessonId": 25,
+    "bookTitle": "初级1",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "课文",
+    "content": "네,갈 수 있어요. 그런데 양리 씨 생일이에요?",
+    "preview": "是，我可以去。是亨利的生日吗？",
+    "bookId": 1,
+    "lessonId": 25,
+    "bookTitle": "初级1",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "课文",
+    "content": "아니요,제가 지난주에 이사했어요.",
+    "preview": "不是，我上个星期搬家了。",
+    "bookId": 1,
+    "lessonId": 25,
+    "bookTitle": "初级1",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "课文",
+    "content": "그래서 같이 저녁을 먹으려고 해요.",
+    "preview": "所以想一起吃晚饭。",
+    "bookId": 1,
+    "lessonId": 25,
+    "bookTitle": "初级1",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "课文",
+    "content": "아,그래요? 몇 시까지 갈까요?",
+    "preview": "啊，是吗？几点去好呢？",
+    "bookId": 1,
+    "lessonId": 25,
+    "bookTitle": "初级1",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "课文",
+    "content": "7시까지 오세요. 여기 우리 집 주소하고 약도예요.",
+    "preview": "七点之前来吧。这是我家的地址和略图。",
+    "bookId": 1,
+    "lessonId": 25,
+    "bookTitle": "初级1",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "语法",
+    "content": "(으)ㄹ 수 있다/없다",
+    "preview": "接动词词干后，表示与能力或可能性有无。词干末尾无收音或为`ㄹ`结尾时跟`-ㄹ 수 있다`，有收音时跟`-을 수 있다`结合。",
+    "bookId": 1,
+    "lessonId": 25,
+    "bookTitle": "初级1",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "语法",
+    "content": "(으)ㄹ까요?",
+    "preview": "主语是`나`时表示对自身的行为征求听者的意见。回答时，用`-(으)세요`, `-지 마세요`。",
+    "bookId": 1,
+    "lessonId": 25,
+    "bookTitle": "初级1",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "语法",
+    "content": "그런데",
+    "preview": "前一小句和后一小句是对立关系或转换话题时用。",
+    "bookId": 1,
+    "lessonId": 25,
+    "bookTitle": "初级1",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "阅读",
+    "content": "하숙집을 찾고 있어요",
+    "preview": "히로미: 여보세요, 하숙집입니까?\n아주머니: 네, 그런데요.\n히로미: 안녕하세요? 저는 일본 학생입니다.\n하숙집을 찾고 있어요. 방이 있어요?\n아주머니: 네, 있습니다. 깨끗하고 좋아요.\n히로미: 하숙집에서 아침을 먹을 수 있어요?\n아주머니: 아침하고 저녁은 먹을 수 있어요. 그렇지만 점심은 먹을 수 없습니다.\n히로미: 인터넷도 할 수 있어요?\n아주머니: 물론입니다. 그리고 세탁은 할 수 있지만 요리는 할 수 없어요.\n히로미: 알겠습니다. 조금 더 생각한 후에 다시 전화하겠습니다.",
+    "bookId": 1,
+    "lessonId": 25,
+    "bookTitle": "初级1",
+    "lessonTitle": "第25课"
+  },
+  {
+    "type": "课文",
+    "content": "이리나 씨,",
+    "preview": "伊利娜，",
+    "bookId": 1,
+    "lessonId": 26,
+    "bookTitle": "初级1",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "课文",
+    "content": "금요일 저녁에 홍대 앞 카페에서 외국인 교류 파티를 해요. 같이 가시겠어요?",
+    "preview": "星期五晚上在弘大前边的咖啡厅有外国人交流聚会。要一起去吗？",
+    "bookId": 1,
+    "lessonId": 26,
+    "bookTitle": "初级1",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "课文",
+    "content": "죄송해요. 저는 가지 못해요.",
+    "preview": "不好意思，我去不了。",
+    "bookId": 1,
+    "lessonId": 26,
+    "bookTitle": "初级1",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "课文",
+    "content": "왜 못 가세요?",
+    "preview": "为什么去不了？",
+    "bookId": 1,
+    "lessonId": 26,
+    "bookTitle": "初级1",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "课文",
+    "content": "금요일 저녁에도 일이 있어요?",
+    "preview": "星期五晚上还有事吗？",
+    "bookId": 1,
+    "lessonId": 26,
+    "bookTitle": "初级1",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "课文",
+    "content": "네,토요일에 외국 출장을 가요. 그래서 좀 바빠요.",
+    "preview": "是，星期六到海外出差，所以有点忙。",
+    "bookId": 1,
+    "lessonId": 26,
+    "bookTitle": "初级1",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "语法",
+    "content": "'으'불규칙동사•형용사",
+    "preview": "`으`不规则动词、形容词后面遇到元音`아/어`时，词干的`ㅡ`脱落。",
+    "bookId": 1,
+    "lessonId": 26,
+    "bookTitle": "初级1",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "语法",
+    "content": "지 못하다/못 -",
+    "preview": "接动词词干后，表示是因为主语能力不够或外部的原因，而不能做某事。\n动词前加`못-`也可以表达同样的意思。",
+    "bookId": 1,
+    "lessonId": 26,
+    "bookTitle": "初级1",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "阅读",
+    "content": "초대",
+    "preview": "다음 주 토요일은 제 생일입니다.\n그래서 우리 집에 반 친구들을 초대하고\n선생님도 초대하려고 합니다.\n제가 혼자 음식을 만들고 싶지만 요리를\n잘 못하기 때문에 친구들과 같이 하려고 합니다.\n식사도 하고 맥주도 마시려고 합니다.\n식사가 끝난 후에는\n우리 집 근처의 노래방에도 가려고 합니다.\n안녕하세요? 제니입니다.\n이번 주 토요일이 제 생일입니다. 우리 집에서 제 생일 파티를 하려고 해요.\n우리 반 친구들을 모두 초대합니다. 아, 그리고 선생님도 초대했어요.\n여러분 모두 꼭 오세요. ^^\n날짜: 10월 22일 토요일 저녁 6:00\n장소: 우리 집 (노보텔 1104호) (이태원 역 1번 출구에서 100미터)\n전화: 010-2318-2318",
+    "bookId": 1,
+    "lessonId": 26,
+    "bookTitle": "初级1",
+    "lessonTitle": "第26课"
+  },
+  {
+    "type": "课文",
+    "content": "야마다 씨,모자가 멋있어요. 어디에서 샀어요?",
+    "preview": "山田，这顶帽子挺帅气的。在哪儿买的？",
+    "bookId": 1,
+    "lessonId": 27,
+    "bookTitle": "初级1",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "课文",
+    "content": "제 생일에 누나한테서 받았어요.",
+    "preview": "我过生日时姐姐送给我的。",
+    "bookId": 1,
+    "lessonId": 27,
+    "bookTitle": "初级1",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "课文",
+    "content": "야마다 씨도 누나 생일에 보통 선물해요?",
+    "preview": "姐姐过生日时，山田一般也会送礼物吗？",
+    "bookId": 1,
+    "lessonId": 27,
+    "bookTitle": "初级1",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "课文",
+    "content": "네,그런데 올해는 누나한테 선물을 못했어요.",
+    "preview": "是的，但是今年没能送姐姐礼物。",
+    "bookId": 1,
+    "lessonId": 27,
+    "bookTitle": "初级1",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "课文",
+    "content": "전화만 했어요.",
+    "preview": "只打了电话。",
+    "bookId": 1,
+    "lessonId": 27,
+    "bookTitle": "初级1",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "语法",
+    "content": "에게(한테)",
+    "preview": "表示动作涉及的对象的助词。敬语为`-께`。`-에`接在表示场所的名词之后。",
+    "bookId": 1,
+    "lessonId": 27,
+    "bookTitle": "初级1",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "语法",
+    "content": "에게서(한테서)",
+    "preview": "表示某种行为的出处的助词。`-에게서`和`-한테서`中的`서`可以省略，敬语是`-께`。\n`-에서`接在表示场所的名词之后。",
+    "bookId": 1,
+    "lessonId": 27,
+    "bookTitle": "初级1",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "语法",
+    "content": "만",
+    "preview": "表示强调时使用的助词，相当于汉语的“只，仅仅”。",
+    "bookId": 1,
+    "lessonId": 27,
+    "bookTitle": "初级1",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "阅读",
+    "content": "선물",
+    "preview": "제 남동생은 금년 봄에 고등학교를 졸업했어요.\n졸업식 날 저는 남동생에게 카드와 함께 시계를 선물했어요.\n디자인도 멋있고 색깔도 예쁘기 때문에\n남동생은 그 시계를 아주 좋아해요.\n그래서 날마다 차요.\n이 가방은 작년에 미국 친구한테서 받았어요.\n우리는 같이 한국말을 열심히 공부했어요.\n친구는 1년 전에 미국에 돌아갔어요.\n미국에 가기 전에 저에게 이 가방을 선물했어요.\n가방이 크고 편하기 때문에 자주 들어요.",
+    "bookId": 1,
+    "lessonId": 27,
+    "bookTitle": "初级1",
+    "lessonTitle": "第27课"
+  },
+  {
+    "type": "课文",
+    "content": "상우 씨는 회사에 어떻게 오세요?",
+    "preview": "相佑，你怎么来公司？",
+    "bookId": 1,
+    "lessonId": 28,
+    "bookTitle": "初级1",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "课文",
+    "content": "집이 회사에서 가깝기 때문에 걸어와요.",
+    "preview": "我家离公司很近，所以走着来。",
+    "bookId": 1,
+    "lessonId": 28,
+    "bookTitle": "初级1",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "课文",
+    "content": "시간이 얼마쯤 걸려요?",
+    "preview": "大概需要多长时间？",
+    "bookId": 1,
+    "lessonId": 28,
+    "bookTitle": "初级1",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "课文",
+    "content": "한 20분쯤 걸려요. 제니 씨는 뭘 타고 오세요?",
+    "preview": "大概20分钟左右。你坐什么来？",
+    "bookId": 1,
+    "lessonId": 28,
+    "bookTitle": "初级1",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "课文",
+    "content": "저는 보통 지하철로 와요.",
+    "preview": "我一般坐地铁来。",
+    "bookId": 1,
+    "lessonId": 28,
+    "bookTitle": "初级1",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "语法",
+    "content": "'ㄷ'불규칙동사",
+    "preview": "`ㄷ`不规则动词后面遇到元音，`ㄷ`变为`ㄹ`。也有像`닫다`, `받다`一样不发生变化的动词。",
+    "bookId": 1,
+    "lessonId": 28,
+    "bookTitle": "初级1",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "语法",
+    "content": "쯤",
+    "preview": "表示大概的时间、数量或位置等。一般与`한`一起使用。",
+    "bookId": 1,
+    "lessonId": 28,
+    "bookTitle": "初级1",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "语法",
+    "content": "(으)로",
+    "preview": "表示手段或方法的助词。前面的名词有收音时，用`으로`；无收音或有收音`ㄹ`时，用`로`。",
+    "bookId": 1,
+    "lessonId": 28,
+    "bookTitle": "初级1",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "阅读",
+    "content": "신촌? 시청?",
+    "preview": "저는 작년에 한국에 왔습니다. 한국말도 공부하고 일도 하고 있습니다.\n서울에서 보통 지하철로 다닙니다. 제가 길을 잘 모르기 때문에 버스는 타지 않습니다.\n그런데 오늘은 아침에 늦게 일어났기 때문에 택시를 탔습니다.\n“아저씨, ‘시청’으로 가 주세요.”\n“네, 알겠습니다.”\n저는 택시 안에서 서류를 보고 있었습니다.\n“손님 다 왔습니다.”\n“여기가 어디예요?”\n“신촌입니다.”\n회사가 시청 근처에 있기 때문에\n저는 시청에 가려고 했습니다.\n하지만 택시는 신촌으로 왔습니다.\n저는 택시 기사에게 다시 설명하고 시청까지 갔지만 회사에 늦었습니다.",
+    "bookId": 1,
+    "lessonId": 28,
+    "bookTitle": "初级1",
+    "lessonTitle": "第28课"
+  },
+  {
+    "type": "课文",
+    "content": "여기에서 세종문화회관에 어떻게 가요?",
+    "preview": "从这儿去世宗文化会馆要怎么走？",
+    "bookId": 1,
+    "lessonId": 29,
+    "bookTitle": "初级1",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "课文",
+    "content": "지하철 5호선을 타고 광화문역에서 내리세요.",
+    "preview": "坐地铁5号线，在光化们站下车。",
+    "bookId": 1,
+    "lessonId": 29,
+    "bookTitle": "初级1",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "课文",
+    "content": "몇 번 출구로 나가요?",
+    "preview": "从几号出口出去呢？",
+    "bookId": 1,
+    "lessonId": 29,
+    "bookTitle": "初级1",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "课文",
+    "content": "7번 출구로 나가세요. 경복궁 쪽으로 조금만 걸어가면 왼쪽에 있어요.",
+    "preview": "从7号出口出去吧。往景福宫方面再走一点，就在左边。",
+    "bookId": 1,
+    "lessonId": 29,
+    "bookTitle": "初级1",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "语法",
+    "content": "(으)로",
+    "preview": "表示方向的助词。",
+    "bookId": 1,
+    "lessonId": 29,
+    "bookTitle": "初级1",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "语法",
+    "content": "(으)면",
+    "preview": "用于词干后表示假设、条件或反复等。\n词干末尾无收音或有收音`ㄹ`时，与`-면`结合；有`ㄹ`以外的收音时，与`으면`结合。",
+    "bookId": 1,
+    "lessonId": 29,
+    "bookTitle": "初级1",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "阅读",
+    "content": "서울대공원에 어떻게 가요?",
+    "preview": "앙리: 이번 주말에 서울대공원에 가려고 해요.\n이리나: 아! 저도 지난달에 갔어요.\n동물원도 있고 식물원도 있기 때문에\n아주 재미있었어요.\n앙리: 그래요? 그런데 여기에서 어떻게 가요?\n이리나: 지하철로 갈 수 있어요.\n신촌역에서 2호선을 타고 사당역에서\n내리세요. 거기서 4호선으로 갈아타세요.\n앙리: 사당역에서 멀어요?\n이리나: 아니요, 멀지 않아요. 한 15분쯤 걸려요.",
+    "bookId": 1,
+    "lessonId": 29,
+    "bookTitle": "初级1",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "课文",
+    "content": "가족이나 친구들에게 무엇을 선물하면 좋아요?",
+    "preview": "送给家人或朋友什么礼物比较好呢？",
+    "bookId": 1,
+    "lessonId": 30,
+    "bookTitle": "初级1",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "课文",
+    "content": "저는 인삼이나 김을 선물해요. 양리 씨,프랑스에 가세요?",
+    "preview": "我送人参或紫菜。亨利，要去法国吗？",
+    "bookId": 1,
+    "lessonId": 30,
+    "bookTitle": "初级1",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "课文",
+    "content": "네,다음 주에 가요.",
+    "preview": "是的，下周去。",
+    "bookId": 1,
+    "lessonId": 30,
+    "bookTitle": "初级1",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "课文",
+    "content": "그런데 인삼은 어디에서 샀어요?",
+    "preview": "但是人参在哪儿买的？",
+    "bookId": 1,
+    "lessonId": 30,
+    "bookTitle": "初级1",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "课文",
+    "content": "시장에서 사거나 백화점에서 샀어요.",
+    "preview": "在超市或百货商店。",
+    "bookId": 1,
+    "lessonId": 30,
+    "bookTitle": "初级1",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "语法",
+    "content": "(이)나",
+    "preview": "连接两个以上的名词时，表示选择。相当于汉语的“或者”。名词词干末尾无收音时用`-나`，有收音时用`-이나`。",
+    "bookId": 1,
+    "lessonId": 30,
+    "bookTitle": "初级1",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "语法",
+    "content": "거나",
+    "preview": "连接两种以上的动作或状态时，表示选择。相当于汉语的“或”。",
+    "bookId": 1,
+    "lessonId": 30,
+    "bookTitle": "初级1",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "阅读",
+    "content": "선유도 공원",
+    "preview": "선유도 공원을 소개하겠습니다.\n선유도 공원은 버스나 지하철을 타고 갈 수 있어요.\n9호선 선유도역에서 한 10분쯤 걸어서 가요.\n선유도 공원은 한강에 있기 때문에 경치가 아주 아름답습니다.\n특히 밤에 경치가 멋있어요. 가끔 콘서트도 볼 수 있고\n카페가 있기 때문에 차도 마실 수 있어요.\n또 근처에서 배를 타고 한강을 구경할 수도 있어요.",
+    "bookId": 1,
+    "lessonId": 30,
+    "bookTitle": "初级1",
+    "lessonTitle": "第30课"
+  },
+  {
+    "type": "课文",
+    "content": "안녕하십니까?",
+    "preview": "你好。",
+    "bookId": 1,
+    "lessonId": 4,
+    "bookTitle": "初级1",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "课文",
+    "content": "네,안녕하십니까?",
+    "preview": "你好。",
+    "bookId": 1,
+    "lessonId": 4,
+    "bookTitle": "初级1",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "课文",
+    "content": "저는 야마다입니다. 일본 사람입니다.",
+    "preview": "我叫山田。是日本人。",
+    "bookId": 1,
+    "lessonId": 4,
+    "bookTitle": "初级1",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "课文",
+    "content": "반갑습니다. 제 이름은 이리나입니다.",
+    "preview": "认识你很高兴。我的名字是伊利娜。",
+    "bookId": 1,
+    "lessonId": 4,
+    "bookTitle": "初级1",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "语法",
+    "content": "은/는",
+    "preview": "添意词尾。在文章中表示强调。常与主语结合使用，但有时也与宾语、补语、副词等一起出现。\n有收音的名词（体词）后用`-은`，无收音的体词后用`-는`。",
+    "bookId": 1,
+    "lessonId": 4,
+    "bookTitle": "初级1",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "语法",
+    "content": "이다",
+    "preview": "体词（名词）的谓词形，即名词动词化，相当于汉语的判断动词“是”。",
+    "bookId": 1,
+    "lessonId": 4,
+    "bookTitle": "初级1",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "语法",
+    "content": "저",
+    "preview": "第一人称代名词`나`的自谦语。",
+    "bookId": 1,
+    "lessonId": 4,
+    "bookTitle": "初级1",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "语法",
+    "content": "제",
+    "preview": "由第一人称代词`저`与所有格助词`의`结合而形成的。(参考第5课的语法4)",
+    "bookId": 1,
+    "lessonId": 4,
+    "bookTitle": "初级1",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "阅读",
+    "content": "안녕하십니까?",
+    "preview": "가: 안녕하십니까?\n나: 네, 안녕하십니까?\n가: 안녕히 계십시오.\n나: 안녕히 가십시오.\n가: 안녕히 가십시오.\n나: 안녕히 가십시오.",
+    "bookId": 1,
+    "lessonId": 4,
+    "bookTitle": "初级1",
+    "lessonTitle": "第4课"
+  },
+  {
+    "type": "课文",
+    "content": "이것이 무엇입니까?",
+    "preview": "这是什么？",
+    "bookId": 1,
+    "lessonId": 5,
+    "bookTitle": "初级1",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "课文",
+    "content": "한국어 교과서입니다.",
+    "preview": "是韩国语教科书。",
+    "bookId": 1,
+    "lessonId": 5,
+    "bookTitle": "初级1",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "课文",
+    "content": "리밍 씨의 책입니까?",
+    "preview": "这是你的书吗？",
+    "bookId": 1,
+    "lessonId": 5,
+    "bookTitle": "初级1",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "课文",
+    "content": "아니요,제 책이 아닙니다.",
+    "preview": "不是，这不是我的书。",
+    "bookId": 1,
+    "lessonId": 5,
+    "bookTitle": "初级1",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "语法",
+    "content": "이것/그것/저것",
+    "preview": "指示代名词。所指的事物离说话者近时用`이것`；离听者近或已说过的，已知道的事物时用`그것`；离说话者和听者都很远时用`저것`。",
+    "bookId": 1,
+    "lessonId": 5,
+    "bookTitle": "初级1",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "语法",
+    "content": "무엇",
+    "preview": "疑问代名词。用于对不知道的事物或事情进行询问，相当于汉语的“什么”。",
+    "bookId": 1,
+    "lessonId": 5,
+    "bookTitle": "初级1",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "语法",
+    "content": "이/가",
+    "preview": "主格助词。跟在体词后表示主语。体词无收音时用`-가`，有收音时用`-이`。第一人称代词`저`, `나`和主格助词`-가`相结合时变为`제가`和`내가`。",
+    "bookId": 1,
+    "lessonId": 5,
+    "bookTitle": "初级1",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "语法",
+    "content": "의",
+    "preview": "表示所有或所属的助词。口语当中常省略。第一人称代词的所有格`저의`一般用为`제`, `우리의`一般用为`우리`。",
+    "bookId": 1,
+    "lessonId": 5,
+    "bookTitle": "初级1",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "语法",
+    "content": "이/가 아니다",
+    "preview": "是`-이다`的否定式，常与主格助词`-이/가`结合，以`-이/가 아니다`的形式使用。",
+    "bookId": 1,
+    "lessonId": 5,
+    "bookTitle": "初级1",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "阅读",
+    "content": "그것이 무엇입니까?",
+    "preview": "마이클: 그것이 무엇입니까?\n선생님: 이것은 전자사전입니다.\n그것도 전자사전입니까?\n마이클: 아니요, 전자사전이 아닙니다.\n이것은 카메라입니다.\n선생님: 저것이 무엇입니까?\n마이클: 저것은 휴대폰입니다.",
+    "bookId": 1,
+    "lessonId": 5,
+    "bookTitle": "初级1",
+    "lessonTitle": "第5课"
+  },
+  {
+    "type": "课文",
+    "content": "이 사람들은 누구입니까?",
+    "preview": "这些人是谁？",
+    "bookId": 1,
+    "lessonId": 6,
+    "bookTitle": "初级1",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "课文",
+    "content": "우리 학원 선생님들입니다.",
+    "preview": "是我们学院的老师。",
+    "bookId": 1,
+    "lessonId": 6,
+    "bookTitle": "初级1",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "课文",
+    "content": "누가 가르칩니까?",
+    "preview": "谁教呢？",
+    "bookId": 1,
+    "lessonId": 6,
+    "bookTitle": "初级1",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "课文",
+    "content": "김영수 선생님이 가르칩니다.",
+    "preview": "金英秀老师教。",
+    "bookId": 1,
+    "lessonId": 6,
+    "bookTitle": "初级1",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "语法",
+    "content": "이/그/저",
+    "preview": "用于指示事物或人，后接名词。所指的事物或人离说话者近时用`이`；离听者都较近或已说过的，已知的用`그`；离二者都远时用`저`。",
+    "bookId": 1,
+    "lessonId": 6,
+    "bookTitle": "初级1",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "语法",
+    "content": "누구",
+    "preview": "用于问人。与主格助词`-가`相结合时变为`누가`。",
+    "bookId": 1,
+    "lessonId": 6,
+    "bookTitle": "初级1",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "语法",
+    "content": "(스)ㅂ니다",
+    "preview": "用于说明眼前的事实或一般事实。词干无收音时用`-ㅂ니다`，有收音时用`-습니다`。\n오다 : 오 + ㅂ니다 → 옵니다.\n받다 : 받 + 습니다 → 받습니다.",
+    "bookId": 1,
+    "lessonId": 6,
+    "bookTitle": "初级1",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "语法",
+    "content": "(스)ㅂ니까?",
+    "preview": "用于疑问句。词干无收音时用`-ㅂ니까?`, 有收音时用`-습니까?`。\n사다 : 사 + ㅂ니까 → 삽니까?\n먹다 : 먹 + 습니까 → 먹습니까?\n<参考语法>\n*句子的种类:有陈述句、疑问句、命令句、请求句等。通过在动词或形容词词干后添加终结词尾形成，下图所列的是书面语。\n*词干(어간):韩国语的动词以`-다`的形态结尾(가다, 읽다), 去掉`다`之后的部分叫做词干(가, 읽)。",
+    "bookId": 1,
+    "lessonId": 6,
+    "bookTitle": "初级1",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "阅读",
+    "content": "결혼사진",
+    "preview": "우리 결혼사진입니다.\n저는 김수철입니다. 회사원입니다.\n이 사람은 제 아내입니다. 간호사입니다.\n이분이 우리 아버지입니다. 공무원입니다.\n그리고 이분이 우리 어머니입니다.\n중학교 영어 교사입니다.\n이분들이 제 아내의 부모님입니다.\n그리고 이분이 아내의 할머니입니다.\n이 남자는 제 형입니다. 대학교 교수입니다.\n이 아이는 형의 아들입니다.",
+    "bookId": 1,
+    "lessonId": 6,
+    "bookTitle": "初级1",
+    "lessonTitle": "第6课"
+  },
+  {
+    "type": "课文",
+    "content": "야마다 씨,무엇을 합니까?",
+    "preview": "山田，你在做什么？",
+    "bookId": 1,
+    "lessonId": 7,
+    "bookTitle": "初级1",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "课文",
+    "content": "한국말 숙제를 합니다.",
+    "preview": "做韩国语作业。",
+    "bookId": 1,
+    "lessonId": 7,
+    "bookTitle": "初级1",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "课文",
+    "content": "숙제가 있습니까?",
+    "preview": "有作业吗？",
+    "bookId": 1,
+    "lessonId": 7,
+    "bookTitle": "初级1",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "课文",
+    "content": "네,매일 숙제가 있습니다.",
+    "preview": "是，每天都有作业。",
+    "bookId": 1,
+    "lessonId": 7,
+    "bookTitle": "初级1",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "语法",
+    "content": "을/를",
+    "preview": "表示前面的名词是宾语的格助词。名词词末无收音时用`-를`，有收音时用`-을`。",
+    "bookId": 1,
+    "lessonId": 7,
+    "bookTitle": "初级1",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "阅读",
+    "content": "우리 교실",
+    "preview": "우리 교실입니다. 쉬는 시간입니다. 학생들이 쉽니다.\n아마다 씨가 커피를 마십니다. 리밍 씨가 신문을 읽습니다.\n제니 씨가 빵을 먹습니다.\n이리나 씨가 전화를 합니다.\n선생님이 오십니다. 쉬는 시간이 끝납니다.\n수업을 시작합니다.",
+    "bookId": 1,
+    "lessonId": 7,
+    "bookTitle": "初级1",
+    "lessonTitle": "第7课"
+  },
+  {
+    "type": "课文",
+    "content": "사장님 계십니까?",
+    "preview": "总经理在吗？",
+    "bookId": 1,
+    "lessonId": 8,
+    "bookTitle": "初级1",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "课文",
+    "content": "네,계십니다.",
+    "preview": "是的，在。",
+    "bookId": 1,
+    "lessonId": 8,
+    "bookTitle": "初级1",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "课文",
+    "content": "사장님께서 지금 무엇을 하십니까?",
+    "preview": "总经理现在在做什么？",
+    "bookId": 1,
+    "lessonId": 8,
+    "bookTitle": "初级1",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "课文",
+    "content": "손님을 만나십니다.",
+    "preview": "在见客人。",
+    "bookId": 1,
+    "lessonId": 8,
+    "bookTitle": "初级1",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "课文",
+    "content": "잠깐만 기다리십시오.",
+    "preview": "请稍等一会儿。",
+    "bookId": 1,
+    "lessonId": 8,
+    "bookTitle": "初级1",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "语法",
+    "content": "(으)시",
+    "preview": "表示对句子主体的尊重，用于词干之后。词干末尾无收音时用`-시`，有收音时用`-으시`。\n가다 : 가 + 시 + ㅂ니다 → 가십니다\n읽다 : 읽 + 으시 + ㅂ니다 → 읽으십니다\n\n部分动词有另外的尊敬形式。\n있다 → 계시다\n자다 → 주무시다\n먹다 → 잡수시다, 드시다",
+    "bookId": 1,
+    "lessonId": 8,
+    "bookTitle": "初级1",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "语法",
+    "content": "(으)십시오",
+    "preview": "命令或忠告时用。动词词干末尾无收音时用`-십시오`，有收音时用`-으십시오`。否定形式为`-지 마십시오`。\n·쓰다 : 쓰 + 십시오 → 쓰십시오\n·입다 : 입 + 으십시오 → 입으십시오",
+    "bookId": 1,
+    "lessonId": 8,
+    "bookTitle": "初级1",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "语法",
+    "content": "께서",
+    "preview": "主格助词`-이/가`的敬语。",
+    "bookId": 1,
+    "lessonId": 8,
+    "bookTitle": "初级1",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "阅读",
+    "content": "요즘 어떻게 지내십니까?",
+    "preview": "한지섭: 요즘 어떻게 지내십니까?\n강재영: 잘 지냅니다.\n한지섭: 부모님께서도 안녕하십니까?\n강재영: 네, 안녕하십니까.\n한지섭: 부인께서도 안녕하십니까?\n강재영: 네, 잘 있습니다.\n한지섭: 아이들도 잘 있습니까?\n강재영: 네, 잘 있습니다.",
+    "bookId": 1,
+    "lessonId": 8,
+    "bookTitle": "初级1",
+    "lessonTitle": "第8课"
+  },
+  {
+    "type": "课文",
+    "content": "어디에 가십니까?",
+    "preview": "你去哪儿？",
+    "bookId": 1,
+    "lessonId": 9,
+    "bookTitle": "初级1",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "课文",
+    "content": "아르바이트를 하러 신촌에 갑니다.",
+    "preview": "去新村打工。",
+    "bookId": 1,
+    "lessonId": 9,
+    "bookTitle": "初级1",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "课文",
+    "content": "어디에서 아르바이트를 합니까?",
+    "preview": "在哪儿打工？",
+    "bookId": 1,
+    "lessonId": 9,
+    "bookTitle": "初级1",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "课文",
+    "content": "여행사에서 합니다.",
+    "preview": "在旅行社打工。",
+    "bookId": 1,
+    "lessonId": 9,
+    "bookTitle": "初级1",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "语法",
+    "content": "에",
+    "preview": "用于表示场所的名词后，后接移动动词（가다, 오다, 다니다 等），表示移动到`-에`前面的场所。",
+    "bookId": 1,
+    "lessonId": 9,
+    "bookTitle": "初级1",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "语法",
+    "content": "(으)러",
+    "preview": "后接表示移动的动词（가다, 오다, 다니다 等），表示移动的意图与目的。动词词干无收音或词干收音为`ㄹ`时，用`-러`；有`ㄹ`以外的收音时，用`-으러`。",
+    "bookId": 1,
+    "lessonId": 9,
+    "bookTitle": "初级1",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "语法",
+    "content": "에서",
+    "preview": "用在表示场所的名词后，表示动作发生的场所。",
+    "bookId": 1,
+    "lessonId": 9,
+    "bookTitle": "初级1",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "语法",
+    "content": "어디",
+    "preview": "用于询问地点。",
+    "bookId": 1,
+    "lessonId": 9,
+    "bookTitle": "初级1",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "阅读",
+    "content": "오늘 어디에 가십니까?",
+    "preview": "아마다 씨는 영화를 보러 극장에 갑니다.\n제니 씨는 편지를 부치러 우체국에 갑니다.\n리밍 씨는 공부하러 도서관에 갑니다.\n이리나 씨는 친구를 만나러 신촌에 갑니다.\n앙리 씨는 전자사전을 사러 전자상가에 갑니다.",
+    "bookId": 1,
+    "lessonId": 9,
+    "bookTitle": "初级1",
+    "lessonTitle": "第9课"
+  },
+  {
+    "type": "课文",
     "content": "앙리씨,오랜만입니다.",
     "preview": "亨利,好久不见。",
     "bookId": 2,
@@ -91,7 +2188,7 @@
   },
   {
     "type": "单词",
-    "content": "오래간만",
+    "content": "오렌만",
     "preview": "好久不见",
     "bookId": 2,
     "lessonId": 1,
@@ -1197,6 +3294,114 @@
     "lessonTitle": "第13课"
   },
   {
+    "type": "单词",
+    "content": "장마",
+    "preview": "梅雨",
+    "bookId": 2,
+    "lessonId": 13,
+    "bookTitle": "初级2",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "单词",
+    "content": "아까",
+    "preview": "刚才",
+    "bookId": 2,
+    "lessonId": 13,
+    "bookTitle": "初级2",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "单词",
+    "content": "팥빙수",
+    "preview": "红豆刨冰",
+    "bookId": 2,
+    "lessonId": 13,
+    "bookTitle": "初级2",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "单词",
+    "content": "너무",
+    "preview": "太",
+    "bookId": 2,
+    "lessonId": 13,
+    "bookTitle": "初级2",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "单词",
+    "content": "기운이 없다",
+    "preview": "没力气",
+    "bookId": 2,
+    "lessonId": 13,
+    "bookTitle": "初级2",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "单词",
+    "content": "뜨겁다",
+    "preview": "热",
+    "bookId": 2,
+    "lessonId": 13,
+    "bookTitle": "初级2",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "单词",
+    "content": "양",
+    "preview": "量",
+    "bookId": 2,
+    "lessonId": 13,
+    "bookTitle": "初级2",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "单词",
+    "content": "잊어버리다",
+    "preview": "忘记",
+    "bookId": 2,
+    "lessonId": 13,
+    "bookTitle": "初级2",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "单词",
+    "content": "옛날에",
+    "preview": "从前",
+    "bookId": 2,
+    "lessonId": 13,
+    "bookTitle": "初级2",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "单词",
+    "content": "산책",
+    "preview": "散步",
+    "bookId": 2,
+    "lessonId": 13,
+    "bookTitle": "初级2",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "单词",
+    "content": "계획",
+    "preview": "计划",
+    "bookId": 2,
+    "lessonId": 13,
+    "bookTitle": "初级2",
+    "lessonTitle": "第13课"
+  },
+  {
+    "type": "单词",
+    "content": "그냥",
+    "preview": "只",
+    "bookId": 2,
+    "lessonId": 13,
+    "bookTitle": "初级2",
+    "lessonTitle": "第13课"
+  },
+  {
     "type": "课文",
     "content": "날씨가 참 좋지요?",
     "preview": "天气很好吧。",
@@ -1369,7 +3574,7 @@
   },
   {
     "type": "单词",
-    "content": "볼어",
+    "content": "불어",
     "preview": "法语",
     "bookId": 2,
     "lessonId": 14,
@@ -1477,8 +3682,17 @@
   },
   {
     "type": "课文",
-    "content": "전 사무 실에서 일하고 있었어요.야마다 씨는요?",
-    "preview": "我在办公室工作了。你呢?",
+    "content": "전 사무 실에서 일하고 있었어요.",
+    "preview": "我在办公室工作了。",
+    "bookId": 2,
+    "lessonId": 15,
+    "bookTitle": "初级2",
+    "lessonTitle": "第15课"
+  },
+  {
+    "type": "课文",
+    "content": "야마다 씨는요?",
+    "preview": "你呢?",
     "bookId": 2,
     "lessonId": 15,
     "bookTitle": "初级2",
@@ -1746,6 +3960,132 @@
     "lessonTitle": "第16课"
   },
   {
+    "type": "单词",
+    "content": "계속",
+    "preview": "继续",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "올해",
+    "preview": "今年",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "필요하다",
+    "preview": "需要",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "기회",
+    "preview": "机会",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "디저트",
+    "preview": "甜点",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "돌잔치",
+    "preview": "周岁宴",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "다이어트",
+    "preview": "减肥",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "집안일",
+    "preview": "家务活",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "특히",
+    "preview": "特别，尤其",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "비슷하다",
+    "preview": "差不多",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "틀리다",
+    "preview": "错",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "알아듣다",
+    "preview": "听懂",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "창피하다",
+    "preview": "丢脸",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
+    "type": "单词",
+    "content": "실수하다",
+    "preview": "犯错误",
+    "bookId": 2,
+    "lessonId": 16,
+    "bookTitle": "初级2",
+    "lessonTitle": "第16课"
+  },
+  {
     "type": "阅读",
     "content": "한국말을 잘하고 싶은데",
     "preview": "에밀리: 다나카 씨, 요즘도 한국어학원에 다니시죠? 이제는 잘하시겠네요.\n다나카: 아니에요. 한국말을 잘하고 싶은데 아직도 발음이 잘 안되고 특히 듣기 연습을 할 때 잘 못 듣겠어요.\n에밀리: 저도 그래요. 책을 보면 알겠는데 말하는 걸 들으면 모르겠어요.\n다나카 씨는 쓰기나 문법은 잘하시지 않아요?\n다나카: 문법은 일본어하고 비슷한 게 많으니까 이해하기는 어렵지 않은데 말할 때는 많이 틀려요.\n에밀리: 저는 처음 한국말 배울 때 문법이 제일 힘들었어요. 그리고 제가 말하면 한국 사람들이 잘 알아듣지 못하니까 창피할 때도 많았고요.\n다나카: 저는 실수하지 않으려고 너무 많이 생각해서 말을 못할 때도 많아요. 에밀리 씨는 저보다 한국말을 잘하시는데, 어떻게 하면 한국말을 잘할 수 있어요?",
@@ -1872,6 +4212,132 @@
     "lessonTitle": "第17课"
   },
   {
+    "type": "单词",
+    "content": "도와주다",
+    "preview": "帮助",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "보내다",
+    "preview": "发送，寄",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "번역하다",
+    "preview": "翻译",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "설명하다",
+    "preview": "说明",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "천천히",
+    "preview": "慢慢的",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "전하다",
+    "preview": "传达",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "팩스",
+    "preview": "传真",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "서류",
+    "preview": "文件",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "켜다",
+    "preview": "打开（电器）",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "거스름돈",
+    "preview": "零钱，找零",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "모자라다",
+    "preview": "不足，不够",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "졸리다",
+    "preview": "困",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "기대가 되다",
+    "preview": "期待",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
+    "type": "单词",
+    "content": "거절하다",
+    "preview": "拒绝",
+    "bookId": 2,
+    "lessonId": 17,
+    "bookTitle": "初级2",
+    "lessonTitle": "第17课"
+  },
+  {
     "type": "课文",
     "content": "통장을 만들려고 하는데요.뭐가 있어야 해요?",
     "preview": "我想办个存折。都需要些什么?",
@@ -1947,6 +4413,249 @@
     "type": "语法",
     "content": "-아/어야 하다",
     "preview": "接谓词词干后，表示“义务”“应该为之”。也可以用`-아야 되다`。",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "통장",
+    "preview": "存折",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "신청서",
+    "preview": "申请书",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "여권",
+    "preview": "护照",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "현금 카드",
+    "preview": "现金卡，银行卡",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "신청하다",
+    "preview": "申请",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "서명하다",
+    "preview": "签名",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "송금",
+    "preview": "寄钱",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "비밀번호",
+    "preview": "密码",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "준비 운동",
+    "preview": "准备运动",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "내다",
+    "preview": "交，付",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "배달",
+    "preview": "配送",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "할인",
+    "preview": "打折",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "주차",
+    "preview": "停车",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "환불",
+    "preview": "退款",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "좌회전",
+    "preview": "左拐",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "주인공",
+    "preview": "主人公",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "미인",
+    "preview": "美女",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "환전",
+    "preview": "换钱",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "긴장이 되다",
+    "preview": "变得紧张",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "창구",
+    "preview": "窗口",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "잠시",
+    "preview": "一会儿",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "직원",
+    "preview": "职员",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "소리",
+    "preview": "声音",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "환율",
+    "preview": "汇率",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "확인하다",
+    "preview": "确认",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "세다",
+    "preview": "数",
+    "bookId": 2,
+    "lessonId": 18,
+    "bookTitle": "初级2",
+    "lessonTitle": "第18课"
+  },
+  {
+    "type": "单词",
+    "content": "맞다",
+    "preview": "没错",
     "bookId": 2,
     "lessonId": 18,
     "bookTitle": "初级2",
@@ -2979,6 +5688,168 @@
     "lessonTitle": "第21课"
   },
   {
+    "type": "单词",
+    "content": "저기요",
+    "preview": "劳驾",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "-짜리",
+    "preview": "-的",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "세일하다",
+    "preview": "打折",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "날씬하다",
+    "preview": "苗条",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "사이즈",
+    "preview": "尺码",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "색깔",
+    "preview": "颜色",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "이기다",
+    "preview": "赢",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "닭갈비",
+    "preview": "铁板鸡",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "눈",
+    "preview": "眼睛",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "귀엽다",
+    "preview": "可爱",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "인형",
+    "preview": "玩偶",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "진짜",
+    "preview": "真的",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "파마하다",
+    "preview": "烫发",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "아가씨",
+    "preview": "小姐",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "개그맨",
+    "preview": "搞笑艺人",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "궁궐",
+    "preview": "宫殿",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "옷장",
+    "preview": "衣柜",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
+    "type": "单词",
+    "content": "동전",
+    "preview": "硬币",
+    "bookId": 2,
+    "lessonId": 21,
+    "bookTitle": "初级2",
+    "lessonTitle": "第21课"
+  },
+  {
     "type": "课文",
     "content": "한국 요리책을 사고 싶은데 어디에 있어요?",
     "preview": "我要买一本韩国烹饪书,在哪里呢?",
@@ -3063,6 +5934,231 @@
     "type": "语法",
     "content": "-게",
     "preview": "接形容词后，将其变成副词。",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "코너",
+    "preview": "专柜",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "제목",
+    "preview": "题目",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "그러면",
+    "preview": "那么",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "아마",
+    "preview": "也许",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "밥상",
+    "preview": "饭桌",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "바로",
+    "preview": "马上",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "잃어버리다",
+    "preview": "丢失",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "사실",
+    "preview": "事实",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "그만두다",
+    "preview": "放弃，辞职",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "새로",
+    "preview": "新",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "베스트셀러",
+    "preview": "畅销书",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "지음",
+    "preview": "著，作",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "이혼하다",
+    "preview": "离婚",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "싸우다",
+    "preview": "吵架，打架",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "모녀",
+    "preview": "母女",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "소설",
+    "preview": "小说",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "성공",
+    "preview": "成功",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "습관",
+    "preview": "习惯",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "청소년",
+    "preview": "青少年",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "젊은이",
+    "preview": "年轻人",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "행복하다",
+    "preview": "幸福",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "인생",
+    "preview": "人生",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "세계",
+    "preview": "世界",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "역사",
+    "preview": "历史",
+    "bookId": 2,
+    "lessonId": 22,
+    "bookTitle": "初级2",
+    "lessonTitle": "第22课"
+  },
+  {
+    "type": "单词",
+    "content": "방법",
+    "preview": "方法",
     "bookId": 2,
     "lessonId": 22,
     "bookTitle": "初级2",
@@ -3405,6 +6501,213 @@
     "type": "语法",
     "content": "-(으)ㄹ 테니까",
     "preview": "表示意志或推测的`-겠다`, `-(으)ㄹ 것이다`与`-(으)니까`结合时，形式是`-(으)ㄹ 테니까`。",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "갑자기",
+    "preview": "突然",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "취소하다",
+    "preview": "取消",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "다행히",
+    "preview": "幸好",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "중요하다",
+    "preview": "重要",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "시간을 내다",
+    "preview": "抽出时间",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "힘들다",
+    "preview": "累，辛苦",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "윷놀이",
+    "preview": "掷柶游戏",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "만화 영화",
+    "preview": "动画片",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "외롭다",
+    "preview": "孤单",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "무섭다",
+    "preview": "害怕",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "중간에",
+    "preview": "在中间",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "싫다",
+    "preview": "讨厌",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "키우다",
+    "preview": "养育，培养",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "나중에",
+    "preview": "以后",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "문자",
+    "preview": "短信",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "면접",
+    "preview": "面试",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "떨어지다",
+    "preview": "落榜",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "불안하다",
+    "preview": "不安",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "모임",
+    "preview": "聚会",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "참석하다",
+    "preview": "参加，出席",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "드림",
+    "preview": "呈上",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "마지막",
+    "preview": "最后",
+    "bookId": 2,
+    "lessonId": 24,
+    "bookTitle": "初级2",
+    "lessonTitle": "第24课"
+  },
+  {
+    "type": "单词",
+    "content": "올림",
+    "preview": "敬上",
     "bookId": 2,
     "lessonId": 24,
     "bookTitle": "初级2",
@@ -4449,6 +7752,105 @@
     "type": "语法",
     "content": "-만에",
     "preview": "用于表示时段的名词后，表示自某一事情发生以来至另一事件发生之间间隔的时间。常与'-(으)ㄴ 지'(参考28课语法1)一起用。",
+    "bookId": 2,
+    "lessonId": 29,
+    "bookTitle": "初级2",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "单词",
+    "content": "매달",
+    "preview": "每月",
+    "bookId": 2,
+    "lessonId": 29,
+    "bookTitle": "初级2",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "单词",
+    "content": "-씩",
+    "preview": "每...",
+    "bookId": 2,
+    "lessonId": 29,
+    "bookTitle": "初级2",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "单词",
+    "content": "힘들다",
+    "preview": "累，辛苦",
+    "bookId": 2,
+    "lessonId": 29,
+    "bookTitle": "初级2",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "单词",
+    "content": "매진되다",
+    "preview": "售罄",
+    "bookId": 2,
+    "lessonId": 29,
+    "bookTitle": "初级2",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "单词",
+    "content": "화가 나다",
+    "preview": "生气",
+    "bookId": 2,
+    "lessonId": 29,
+    "bookTitle": "初级2",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "单词",
+    "content": "보름",
+    "preview": "十五",
+    "bookId": 2,
+    "lessonId": 29,
+    "bookTitle": "初级2",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "单词",
+    "content": "살이 빠지다",
+    "preview": "瘦了",
+    "bookId": 2,
+    "lessonId": 29,
+    "bookTitle": "初级2",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "单词",
+    "content": "들어가다",
+    "preview": "进去",
+    "bookId": 2,
+    "lessonId": 29,
+    "bookTitle": "初级2",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "单词",
+    "content": "그치다",
+    "preview": "停止",
+    "bookId": 2,
+    "lessonId": 29,
+    "bookTitle": "初级2",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "单词",
+    "content": "입원하다",
+    "preview": "住院",
+    "bookId": 2,
+    "lessonId": 29,
+    "bookTitle": "初级2",
+    "lessonTitle": "第29课"
+  },
+  {
+    "type": "单词",
+    "content": "퇴원하다",
+    "preview": "出院",
     "bookId": 2,
     "lessonId": 29,
     "bookTitle": "初级2",
