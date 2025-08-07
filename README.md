@@ -1,79 +1,100 @@
-# 新轻松学韩语电子课本
+# Ganada Korean E-Textbook | 新轻松学韩语电子课本
 
-## 项目简介
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/NB-XX/GANADA_Korean)
+[![Stars](https://img.shields.io/github/stars/NB-XX/GANADA_Korean?style=social)](https://github.com/NB-XX/GANADA_Korean)
 
-本项目是面向韩语学习者的现代化电子课本，基于《新轻松学韩语》教材内容，集课程、单词、语法、听力、阅读等多种学习资源于一体。项目采用资源驱动架构，支持内容灵活扩展，具备优秀的交互体验和现代前端最佳实践。
+An modern e-textbook for Korean language learners, based on the "Ganada Korean" (新轻松学韩语) textbook series. This project integrates various learning resources such as lessons, vocabulary, grammar, listening, and reading into a seamless, interactive experience.
 
-适用对象：韩语初学者及进阶学习者、教师、教辅内容开发者。
+面向韩语学习者的现代化电子课本，基于《新轻松学韩语》教材内容，集课程、单词、语法、听力、阅读等多种学习资源于一体。
 
-## 技术栈
+## 📚 Live Demo | 在线演示
 
-- **React 18**：主流前端 UI 框架，组件化开发与响应式渲染。
-- **TypeScript**：类型安全，提升开发体验与代码健壮性。
-- **Vite**：新一代前端构建工具，极快的本地开发与构建速度。
-- **Tailwind CSS**：原子化 CSS 框架，快速实现响应式美观界面。
-- **Lucide React**：现代化图标库，丰富 UI 交互。
-- **PostCSS/Autoprefixer**：CSS 兼容性处理。
-- **资源驱动**：所有课程、单词、语法、听力、阅读等内容均以 JSON/文本资源驱动，前端动态加载，便于扩展和维护。
+Check out the live version of the textbook:
 
-## 目录结构
+**[https://korean-textbook.pages.dev](https://korean-textbook.pages.dev)**
+
+## 📸 Screenshots | 项目截图
+
+*(Here you can add some screenshots of the application. For example:)*
+
+| Homepage                                 | Lesson View                              |
+| ---------------------------------------- | ---------------------------------------- |
+| ![Homepage](https://via.placeholder.com/400x250.png?text=Homepage+Screenshot) | ![Lesson View](https://via.placeholder.com/400x250.png?text=Lesson+View+Screenshot) |
+
+## ✨ Features | 主要特性
+
+- **Resource-Driven**: All content is loaded from structured resource files (JSON/text), making it easy to extend and maintain.
+  - **资源驱动**：所有内容均以结构化资源文件（JSON/文本）驱动，便于内容扩展和维护。
+- **Interactive Audio**: Play audio for entire lessons or sentence by sentence, perfect for listening and shadowing practice.
+  - **逐句/整篇音频播放**：支持课文逐句、整篇音频播放，提升听力与跟读体验。
+- **Synchronized Highlighting**: Text blocks are highlighted in sync with audio playback, creating an immersive learning experience.
+  - **块级高亮**：交互式高亮课文块，配合音频同步，增强学习沉浸感。
+- **Flexible Content Extension**: Easily add new textbooks, lessons, audio, and exercises without changing the frontend code.
+  - **内容扩展灵活**：可轻松添加新课本、课次、音频、练习等资源，无需修改前端代码。
+- **Modern Tech Stack**: Built with modern frontend best practices for high performance, responsiveness, and maintainability.
+  - **现代前端最佳实践**：高性能、响应式、易维护，适合二次开发。
+
+## 🛠️ Tech Stack | 技术栈
+
+- **React 18**: A popular frontend UI framework for building component-based and reactive interfaces.
+- **TypeScript**: Ensures type safety, improving the developer experience and code robustness.
+- **Vite**: A next-generation frontend build tool for extremely fast local development and builds.
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building beautiful, responsive designs.
+- **Lucide React**: A modern icon library to enrich the UI.
+- **PostCSS/Autoprefixer**: For handling CSS vendor prefixes and compatibility.
+- **Resource-Driven Architecture**: All content is dynamically loaded from external JSON/text files.
+
+## 📂 Directory Structure | 目录结构
 
 ```
 GANADA_Korean/
-├── src/                        # 前端主代码
-│   ├── App.tsx                 # 主应用组件
-│   ├── data/                   # 图书/课程/资源路径配置
-│   └── components/             # 主要UI组件
-├── resources/                  # 课程内容与多媒体资源
-│   ├── text/                   # 课文、单词、语法等文本资源
+├── src/                        # Main frontend source code
+│   ├── App.tsx                 # Main application component
+│   ├── data/                   # Configuration for books/lessons/resources
+│   └── components/             # Main UI components
+├── resources/                  # Lesson content and multimedia assets
+│   ├── text/                   # Text resources (lessons, words, grammar)
 │   │   └── lessons/
-│   │       └── book1/lesson1/  # 以课本/课次分级
-│   │           ├── dialogue.json   # 课文（结构化，每句含音频/翻译）
-│   │           ├── grammar.json    # 语法点
-│   │           ├── words.json      # 单词
-│   │           ├── listening.json  # 听力
-│   │           ├── reading.json    # 阅读
+│   │       └── book1/lesson1/  # Organized by book/lesson
+│   │           ├── dialogue.json   # Structured lesson text
+│   │           ├── grammar.json    # Grammar points
+│   │           ├── words.json      # Vocabulary
 │   │           └── ...
-│   ├── audio/                   # 音频资源（按课本/课次分级）
-│   └── data/                    # 图书、索引等全局数据
-├── exercises/                  # 练习题相关资源
-├── points/                     # 课程要点/练习
-├── passages/                   # 阅读材料相关资源
-├── package.json                # 项目依赖与脚本
-├── vite.config.ts              # Vite 配置
-├── tailwind.config.js          # Tailwind 配置
-├── postcss.config.js           # PostCSS 配置
-├── tsconfig.json               # TypeScript 配置
-├── index.html                  # 入口 HTML
-└── ...                         # 其他配置/依赖文件
+│   ├── audio/                   # Audio resources (organized by book/lesson)
+│   └── data/                    # Global data (book info, search index)
+├── package.json                # Project dependencies and scripts
+├── vite.config.ts              # Vite configuration
+├── tailwind.config.js          # Tailwind CSS configuration
+└── ...                         # Other configuration files
 ```
 
-## 主要特性
+## 🚀 Getting Started | 快速开始
 
-- **资源驱动**：所有内容均以结构化资源文件（JSON/文本）驱动，便于内容扩展和维护。
-- **逐句/整篇音频播放**：支持课文逐句、整篇音频播放，提升听力与跟读体验。
-- **块级高亮**：交互式高亮课文块，配合音频同步，增强学习沉浸感。
-- **内容扩展灵活**：可轻松添加新课本、课次、音频、练习等资源，无需修改前端代码。
-- **现代前端最佳实践**：高性能、响应式、易维护，适合二次开发。
+1.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+2.  **Start the development server:**
+    ```bash
+    npm run dev
+    ```
+3.  **Open in your browser:** `http://localhost:5173`
 
-## 快速开始
+## 🧩 Content Extension Guide | 内容扩展说明
 
-1. 安装依赖：
-   ```bash
-   npm install
-   ```
-2. 启动开发环境：
-   ```bash
-   npm run dev
-   ```
-3. 访问本地：http://localhost:5173
+- **Add New Lessons**: Add new resource files to `resources/text/lessons/` and `resources/audio/lessons/` following the `bookX/lessonY` structure.
+- **Add New Materials**: Add new JSON or text files for exercises, points, or reading materials to the corresponding directories.
+- **File Structure**: It is recommended to follow the existing file structure and field names to ensure compatibility.
 
-## 内容扩展说明
+## 🤝 Contributing | 贡献
 
-- 新增课本/课次：在 `resources/text/lessons/` 和 `resources/audio/lessons/` 下按 bookX/lessonY 结构添加对应资源文件。
-- 新增练习/要点/阅读材料：在 `exercises/`、`points/`、`passages/` 目录下添加对应 JSON 或文本文件。
-- 所有资源文件结构建议参考现有样例，保持字段一致性。
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
----
+欢迎参与贡献！如果你有任何想法、建议或发现 BUG，请提交 Issue 或 Pull Request。
 
-如需定制开发或内容合作，请联系项目维护者。 
+## 📄 License | 许可证
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+本项目基于 MIT 许可证开源。详情请见 [LICENSE](LICENSE) 文件。
